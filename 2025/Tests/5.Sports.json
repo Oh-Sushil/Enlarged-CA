@@ -1,0 +1,584 @@
+{
+"Sports": [
+  {
+    "question": "The 2024 Summer Olympics were held in which city?",
+    "options": [
+      "Paris, France",
+      "Los Angeles, USA",
+      "Brisbane, Australia",
+      "Beijing, China"
+    ],
+    "answer": "Paris, France"
+  },
+  {
+    "question": "The 2028 Summer Olympics will be hosted by which city?",
+    "options": [
+      "Los Angeles, USA",
+      "Paris, France",
+      "Brisbane, Australia",
+      "Tokyo, Japan"
+    ],
+    "answer": "Los Angeles, USA"
+  },
+  {
+    "question": "The 2032 Summer Olympics will be held in which city?",
+    "options": [
+      "Brisbane, Australia",
+      "Los Angeles, USA",
+      "Paris, France",
+      "Melbourne, Australia"
+    ],
+    "answer": "Brisbane, Australia"
+  },
+  {
+    "question": "The 2022 Winter Olympics were held in which country?",
+    "options": [
+      "China",
+      "Italy",
+      "France",
+      "Japan"
+    ],
+    "answer": "China"
+  },
+  {
+    "question": "The 2026 Winter Olympics will be hosted by which locations?",
+    "options": [
+      "Milan & Cortina, Italy",
+      "French Alps, France",
+      "Beijing, China",
+      "Vancouver, Canada"
+    ],
+    "answer": "Milan & Cortina, Italy"
+  },
+  {
+    "question": "The 2030 Winter Olympics will be hosted by which region?",
+    "options": [
+      "French Alps, France",
+      "Milan & Cortina, Italy",
+      "Beijing, China",
+      "Sapporo, Japan"
+    ],
+    "answer": "French Alps, France"
+  },
+  {
+    "question": "The 2022 Asian Games were held in which city?",
+    "options": [
+      "Hangzhou, China",
+      "Aichi Nagoya, Japan",
+      "Doha, Qatar",
+      "Jakarta, Indonesia"
+    ],
+    "answer": "Hangzhou, China"
+  },
+  {
+    "question": "The 2026 Asian Games will be hosted by which city?",
+    "options": [
+      "Aichi Nagoya, Japan",
+      "Hangzhou, China",
+      "Doha, Qatar",
+      "Tokyo, Japan"
+    ],
+    "answer": "Aichi Nagoya, Japan"
+  },
+  {
+    "question": "The 2020 Asian Games were scheduled to be held in which city?",
+    "options": [
+      "Doha, Qatar",
+      "Hangzhou, China",
+      "Aichi Nagoya, Japan",
+      "Seoul, South Korea"
+    ],
+    "answer": "Doha, Qatar"
+  },
+  {
+    "question": "The 2022 Commonwealth Games were held in which city?",
+    "options": [
+      "Birmingham, England",
+      "Glasgow, Scotland",
+      "Ahmedabad, India",
+      "London, England"
+    ],
+    "answer": "Birmingham, England"
+  },
+  {
+    "question": "The 2026 Commonwealth Games will be hosted by which city?",
+    "options": [
+      "Glasgow, Scotland",
+      "Birmingham, England",
+      "Ahmedabad, India",
+      "Manchester, England"
+    ],
+    "answer": "Glasgow, Scotland"
+  },
+  {
+    "question": "The 2030 Commonwealth Games will be hosted by which Indian city?",
+    "options": [
+      "Ahmedabad",
+      "New Delhi",
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "answer": "Ahmedabad"
+  },
+  {
+    "question": "Who won the Santosh Trophy 2024?",
+    "options": [
+      "West Bengal",
+      "Kerala",
+      "Goa",
+      "Punjab"
+    ],
+    "answer": "West Bengal"
+  },
+  {
+    "question": "Haryana Steelers won their first Pro Kabaddi League title in which season?",
+    "options": [
+      Season 11",
+      "Season 10",
+      "Season 9",
+      "Season 12"
+    ],
+    "answer": "Season 11"
+  },
+  {
+    "question": "Which team defeated India to win the Border-Gavaskar Trophy after 10 years?",
+    "options": [
+      "Australia",
+      "England",
+      "New Zealand",
+      "South Africa"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "question": "Who won the Vijay Hazare Trophy 2024-25?",
+    "options": [
+      "Karnataka",
+      "Vidarbha",
+      "Maharashtra",
+      "Tamil Nadu"
+    ],
+    "answer": "Karnataka"
+  },
+  {
+    "question": "Which team won the Men's Hockey India League 2024-25 title?",
+    "options": [
+      "Shrachi Rarh Bengal Tigers",
+      "Hyderabad Toofans",
+      "Punjab Warriors",
+      "Delhi Hockey Club"
+    ],
+    "answer": "Shrachi Rarh Bengal Tigers"
+  },
+  {
+    "question": "Mohun Bagan Super Giant won the ISL Winners Shield 2024-25 by defeating which team?",
+    "options": [
+      "Odisha FC",
+      "Mumbai City FC",
+      "FC Goa",
+      "Kerala Blasters"
+    ],
+    "answer": "Odisha FC"
+  },
+  {
+    "question": "The 2025 Para Archery Asia Cup was held in which city?",
+    "options": [
+      "Bangkok, Thailand",
+      "Tokyo, Japan",
+      "Delhi, India",
+      "Jakarta, Indonesia"
+    ],
+    "answer": "Bangkok, Thailand"
+  },
+  {
+    "question": "How many medals did India win in the 2025 Para Archery Asia Cup?",
+    "options": [
+      "12 medals",
+      "10 medals",
+      "15 medals",
+      "8 medals"
+    ],
+    "answer": "12 medals"
+  },
+  {
+    "question": "Who won the 2024-25 Ranji Trophy title?",
+    "options": [
+      "Vidarbha",
+      "Kerala",
+      "Mumbai",
+      "Karnataka"
+    ],
+    "answer": "Vidarbha"
+  },
+  {
+    "question": "Brazil will host which FIFA World Cup in 2027?",
+    "options": [
+      "FIFA Women's World Cup",
+      "FIFA Men's World Cup",
+      "FIFA Club World Cup",
+      "FIFA U-20 World Cup"
+    ],
+    "answer": "FIFA Women's World Cup"
+  },
+  {
+    "question": "The FIFA Women's World Cup 2031 and 2035 will be hosted by which countries?",
+    "options": [
+      "USA and UK",
+      "Brazil and France",
+      "Canada and Mexico",
+      "Germany and Spain"
+    ],
+    "answer": "USA and UK"
+  },
+  {
+    "question": "Who is the President of FIFA?",
+    "options": [
+      "Gianni Infantino",
+      "Thomas Bach",
+      "Aleksander Čeferin",
+      "Sepp Blatter"
+    ],
+    "answer": "Gianni Infantino"
+  },
+  {
+    "question": "The FIFA Men's World Cup 2026 will be jointly hosted by which countries?",
+    "options": [
+      "USA, Mexico and Canada",
+      "USA, UK and Canada",
+      "Brazil, Argentina and Chile",
+      "Spain, Portugal and Morocco"
+    ],
+    "answer": "USA, Mexico and Canada"
+  },
+  {
+    "question": "The World Boxing Cup 2025 was held in which country?",
+    "options": [
+      "Brazil",
+      "India",
+      "Uzbekistan",
+      "Thailand"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "question": "Which country topped the World Boxing Cup 2025 medal tally?",
+    "options": [
+      "Uzbekistan",
+      "India",
+      "Brazil",
+      "USA"
+    ],
+    "answer": "Uzbekistan"
+  },
+  {
+    "question": "Who won the gold medal for India in the World Boxing Cup 2025?",
+    "options": [
+      "Hitesh Gulia",
+      "Nikhat Zareen",
+      "Amit Panghal",
+      "Lovlina Borgohain"
+    ],
+    "answer": "Hitesh Gulia"
+  }, 
+  {
+    "question": "Cricket will return to the Olympics after how many years during the Los Angeles Olympics 2028?",
+    "options": [
+      "128 years",
+      "100 years",
+      "120 years",
+      "75 years"
+    ],
+    "answer": "128 years"
+  },
+  {
+    "question": "How many teams each will participate in men's and women's cricket events at the LA Olympics 2028?",
+    "options": [
+      "6 teams",
+      "8 teams",
+      "10 teams",
+      "12 teams"
+    ],
+    "answer": "6 teams"
+  },
+  {
+    "question": "Who was named AIFF Footballer of the Year 2025 in the men's category?",
+    "options": [
+      "Subhasish Bose",
+      "Sunil Chhetri",
+      "Sandesh Jhingan",
+      "Gurpreet Singh Sandhu"
+    ],
+    "answer": "Subhasish Bose"
+  },
+  {
+    "question": "Subhasish Bose represents which football club?",
+    "options": [
+      "Mohun Bagan",
+      "East Bengal",
+      "Kerala Blasters",
+      "Bengaluru FC"
+    ],
+    "answer": "Mohun Bagan"
+  },
+  {
+    "question": "Who was named AIFF Footballer of the Year 2025 in the women's category?",
+    "options": [
+      "Soumya Guguloth",
+      "Bala Devi",
+      "Manisha Kalyan",
+      "Anju Tamang"
+    ],
+    "answer": "Soumya Guguloth"
+  },
+  {
+    "question": "Brazil will host which FIFA tournament in 2027?",
+    "options": [
+      "FIFA Women's World Cup",
+      "FIFA Men's World Cup",
+      "FIFA Club World Cup",
+      "FIFA U-20 World Cup"
+    ],
+    "answer": "FIFA Women's World Cup"
+  },
+  {
+    "question": "Which country won the ACC Men's U19 Asia Cup 2025 title?",
+    "options": [
+      "Pakistan",
+      "India",
+      "Sri Lanka",
+      "Bangladesh"
+    ],
+    "answer": "Pakistan"
+  },
+  {
+    "question": "The 2026 FIH Hockey World Cup will be jointly hosted by which countries?",
+    "options": [
+      "India and Netherlands",
+      "India and Germany",
+      "France and Netherlands",
+      "Australia and India"
+    ],
+    "answer": "India and Netherlands"
+  },
+  {
+    "question": "The Commonwealth Games 2030 will be held in which Indian city?",
+    "options": [
+      "Ahmedabad, Gujarat",
+      "New Delhi",
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "answer": "Ahmedabad, Gujarat"
+  },
+  {
+    "question": "India hosted the Commonwealth Games previously in which year?",
+    "options": [
+      "2010",
+      "2008",
+      "2014",
+      "2022"
+    ],
+    "answer": "2010"
+  },
+  {
+    "question": "Who won the Ranji Trophy 2024-25?",
+    "options": [
+      "Vidarbha",
+      "Kerala",
+      "Mumbai",
+      "Karnataka"
+    ],
+    "answer": "Vidarbha"
+  },
+  {
+    "question": "Who won the Vijay Hazare Trophy 2025-26?",
+    "options": [
+      "Bihar",
+      "Karnataka",
+      "Vidarbha",
+      "Tamil Nadu"
+    ],
+    "answer": "Bihar"
+  },
+  {
+    "question": "Which country won the Women's Asia Cup 2024?",
+    "options": [
+      "Sri Lanka",
+      "India",
+      "Pakistan",
+      "Bangladesh"
+    ],
+    "answer": "Sri Lanka"
+  },
+  {
+    "question": "In the Women's World Cup 2025 final, India defeated which team?",
+    "options": [
+      "South Africa",
+      "Australia",
+      "England",
+      "New Zealand"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "question": "Who won India's first Olympic individual gold medal?",
+    "options": [
+      "Abhinav Bindra",
+      "Neeraj Chopra",
+      "Sushil Kumar",
+      "Vijay Kumar"
+    ],
+    "answer": "Abhinav Bindra"
+  },
+  {
+    "question": "Abhinav Bindra won India's first Olympic gold medal in which sport?",
+    "options": [
+      "Shooting",
+      "Javelin Throw",
+      "Wrestling",
+      "Boxing"
+    ],
+    "answer": "Shooting"
+  },
+  {
+    "question": "Who won India's second Olympic gold medal?",
+    "options": [
+      "Neeraj Chopra",
+      "Abhinav Bindra",
+      "Manu Bhaker",
+      "Mirabai Chanu"
+    ],
+    "answer": "Neeraj Chopra"
+  },
+  {
+    "question": "Neeraj Chopra won Olympic gold in which event?",
+    "options": [
+      "Javelin Throw",
+      "Shooting",
+      "Wrestling",
+      "Athletics 100m"
+    ],
+    "answer": "Javelin Throw"
+  },
+  {
+    "question": "Which team won IPL 2025?",
+    "options": [
+      "Royal Challengers Bengaluru",
+      "Punjab Kings",
+      "Mumbai Indians",
+      "Chennai Super Kings"
+    ],
+    "answer": "Royal Challengers Bengaluru"
+  },
+  {
+    "question": "Who was the captain of RCB in IPL 2025?",
+    "options": [
+      "Rajat Patidar",
+      "Virat Kohli",
+      "Faf du Plessis",
+      "KL Rahul"
+    ],
+    "answer": "Rajat Patidar"
+  },
+  {
+    "question": "Who won the Orange Cap in IPL 2025?",
+    "options": [
+      "Prasidh Krishna",
+      "Sai Sudarshan",
+      "Virat Kohli",
+      "Shubman Gill"
+    ],
+    "answer": "Prasidh Krishna"
+  },
+  {
+    "question": "The ICC Cricket World Cup 2027 will be hosted by which countries?",
+    "options": [
+      "South Africa, Zimbabwe and Namibia",
+      "India, Bangladesh and Sri Lanka",
+      "Australia and New Zealand",
+      "England and Wales"
+    ],
+    "answer": "South Africa, Zimbabwe and Namibia"
+  },
+  {
+    "question": "Who won the FIFA World Cup 2022?",
+    "options": [
+      "Argentina",
+      "France",
+      "Brazil",
+      "Croatia"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "question": "Who was the runner-up of FIFA World Cup 2022?",
+    "options": [
+      "France",
+      "Argentina",
+      "Brazil",
+      "Morocco"
+    ],
+    "answer": "France"
+  },
+  {
+    "question": "The ICC Champions Trophy 2025 was hosted by which country?",
+    "options": [
+      "Pakistan",
+      "India",
+      "UAE",
+      "England"
+    ],
+    "answer": "Pakistan"
+  },
+  {
+    "question": "Who won the ICC Champions Trophy 2025?",
+    "options": [
+      "India",
+      "New Zealand",
+      "Pakistan",
+      "Australia"
+    ],
+    "answer": "India"
+  },
+  {
+    "question": "The ICC Under-19 Women's T20 World Cup 2025 was held in which country?",
+    "options": [
+      "Malaysia",
+      "India",
+      "South Africa",
+      "England"
+    ],
+    "answer": "Malaysia"
+  },
+  {
+    "question": "Who won the ICC Under-19 Women's T20 World Cup 2025?",
+    "options": [
+      "India",
+      "South Africa",
+      "Australia",
+      "England"
+    ],
+    "answer": "India"
+  },
+  {
+    "question": "The Kho Kho World Cup 2025 was held in which city?",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Pune",
+      "Bengaluru"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "India defeated which country in the Kho Kho World Cup 2025 finals?",
+    "options": [
+      "Nepal",
+      "Bangladesh",
+      "Sri Lanka",
+      "Pakistan"
+    ],
+    "answer": "Nepal"
+  }
+]
+}

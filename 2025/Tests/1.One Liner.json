@@ -1,0 +1,2359 @@
+{
+"One Liner": [
+  {
+    "question": "Which ministry declared 2025 as the 'Year of Reforms'?",
+    "options": ["Ministry of Defence", "Ministry of Home Affairs", "Ministry of Finance", "Ministry of External Affairs"],
+    "answer": "Ministry of Defence"
+  },
+  {
+    "question": "2025 was declared as the 'Year of Reforms' by which ministry?",
+    "options": ["Ministry of Defence", "Ministry of Education", "Ministry of Commerce", "Ministry of Agriculture"],
+    "answer": "Ministry of Defence"
+  },
+  {
+    "question": "Kagyed Dance, also known as Chaam, is a unique Buddhist festival of which state?",
+    "options": ["Sikkim", "Arunachal Pradesh", "Ladakh", "Himachal Pradesh"],
+    "answer": "Sikkim"
+  },
+  {
+    "question": "What is another name for the Kagyed Dance festival?",
+    "options": ["Chaam", "Bihu", "Hornbill", "Losar"],
+    "answer": "Chaam"
+  },
+  {
+    "question": "What is the name of India's first Made-in-India surgical robot?",
+    "options": ["SSI Mantra", "SwasthyaBot", "Arogya One", "SurgiTech"],
+    "answer": "SSI Mantra"
+  },
+  {
+    "question": "The first Made-in-India surgical robot 'SSI Mantra' was installed in which state?",
+    "options": ["Maharashtra", "Gujarat", "Karnataka", "Telangana"],
+    "answer": "Maharashtra"
+  },
+  {
+    "question": "Banaskantha district was divided to create which new district in Gujarat?",
+    "options": ["Vav-Tharad", "Gir-Somnath", "Morbi", "Botad"],
+    "answer": "Vav-Tharad"
+  },
+  {
+    "question": "After the creation of Vav-Tharad district, how many districts does Gujarat have?",
+    "options": ["34", "33", "35", "36"],
+    "answer": "34"
+  },
+  {
+    "question": "Which state launched the 'Atlas to Protect Indian Wolf Habitats'?",
+    "options": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Maharashtra"],
+    "answer": "Gujarat"
+  },
+  {
+    "question": "Savitribai Phule's birth anniversary will be celebrated as 'Women's Teacher's Day' in which state?",
+    "options": ["Telangana", "Maharashtra", "Karnataka", "Andhra Pradesh"],
+    "answer": "Telangana"
+  },
+  {
+    "question": "What is the name of the platform launched to investigate international crime?",
+    "options": ["BHARATPOL", "RASTRAPOL", "INDPOL", "SURAKSHAPOL"],
+    "answer": "BHARATPOL"
+  },
+  {
+    "question": "BHARATPOL is managed by which organization?",
+    "options": ["CBI", "NIA", "RAW", "IB"],
+    "answer": "CBI"
+  },
+  {
+    "question": "India became a member of which UN committee related to Big Data and Data Science for Official Statistics?",
+    "options": ["UN-CEBD", "UNESCO", "UNCTAD", "UNEP"],
+    "answer": "UN-CEBD"
+  },
+  {
+    "question": "Which two beaches of Kerala earned the 'Blue Flag' certification?",
+    "options": ["Kappad and Chal", "Kovalam and Varkala", "Bekal and Payyambalam", "Marari and Alappuzha"],
+    "answer": "Kappad and Chal"
+  },
+  {
+    "question": "Which state launched the 'Garudakshi' portal for forest protection?",
+    "options": ["Karnataka", "Kerala", "Tamil Nadu", "Telangana"],
+    "answer": "Karnataka"
+  },
+  {
+    "question": "The Z-Morh Tunnel is located between which two places?",
+    "options": ["Gagangir and Sonmarg", "Srinagar and Jammu", "Leh and Kargil", "Anantnag and Pahalgam"],
+    "answer": "Gagangir and Sonmarg"
+  },
+  {
+    "question": "What is the length of the Z-Morh Tunnel?",
+    "options": ["6.5 km", "5.5 km", "7.5 km", "8 km"],
+    "answer": "6.5 km"
+  },
+  {
+    "question": "India's first private semiconductor facility will be established by Indichip Semiconductors in which state?",
+    "options": ["Andhra Pradesh", "Tamil Nadu", "Karnataka", "Telangana"],
+    "answer": "Andhra Pradesh"
+  },
+  {
+    "question": "INS Utkarsh is located at which place?",
+    "options": ["Kattupalli", "Kochi", "Visakhapatnam", "Karwar"],
+    "answer": "Kattupalli"
+  },
+  {
+    "question": "INS Utkarsh is situated in which state?",
+    "options": ["Tamil Nadu", "Kerala", "Andhra Pradesh", "Goa"],
+    "answer": "Tamil Nadu"
+  },
+  {
+    "question": "India ranks as the world's ______ largest coffee-producing country.",
+    "options": ["7th", "5th", "6th", "8th"],
+    "answer": "7th"
+  },
+  {
+    "question": "The year 2025 has been designated as the International Year of what?",
+    "options": ["Glaciers' Preservation", "Forests", "Wetlands", "Biodiversity"],
+    "answer": "Glaciers' Preservation"
+  },
+  {
+    "question": "Which Gujarat site was listed among the threatened cultural sites by the World Monuments Fund?",
+    "options": ["Bhuj Historic Water Systems", "Rani Ki Vav", "Champaner", "Dholavira"],
+    "answer": "Bhuj Historic Water Systems"
+  },
+  {
+    "question": "Which Telangana site was listed among the threatened cultural sites by the World Monuments Fund?",
+    "options": ["Musi River Historic Buildings", "Golconda Fort", "Warangal Fort", "Ramappa Temple"],
+    "answer": "Musi River Historic Buildings"
+  },
+  {
+    "question": "What is the name of India's first fully integrated disaster risk warning system launched by Kerala?",
+    "options": ["KaWaCHaM", "SurakshaNet", "Disaster Shield", "Jeevan Raksha"],
+    "answer": "KaWaCHaM"
+  },
+  {
+    "question": "Which became the first state to implement the Uniform Civil Code?",
+    "options": ["Uttarakhand", "Gujarat", "Himachal Pradesh", "Goa"],
+    "answer": "Uttarakhand"
+  },
+  {
+    "question": "Which city became India's first Ramsar Wetland City?",
+    "options": ["Indore", "Ahmedabad", "Bhopal", "Jaipur"],
+    "answer": "Indore"
+  },
+  {
+    "question": "Which city became India's first Ramsar Wetland City along with Indore?",
+    "options": ["Udaipur", "Jodhpur", "Kota", "Ajmer"],
+    "answer": "Udaipur"
+  },
+  {
+    "question": "India's first Organic Fisheries Cluster was introduced in which district?",
+    "options": ["Soreng", "Namchi", "Mangan", "Pakyong"],
+    "answer": "Soreng"
+  },
+  {
+    "question": "India's first Organic Fisheries Cluster was introduced in which state?",
+    "options": ["Sikkim", "Assam", "Meghalaya", "Nagaland"],
+    "answer": "Sikkim"
+  },
+  {
+    "question": "Which site became Gujarat's first Biodiversity Heritage Site?",
+    "options": ["Inland Mangrove Guneri", "Nal Sarovar", "Velavadar", "Marine National Park"],
+    "answer": "Inland Mangrove Guneri"
+  },
+  {
+    "question": "The International Big Cat Alliance (IBCA) is headquartered in which city?",
+    "options": ["Delhi", "Mumbai", "Bengaluru", "Hyderabad"],
+    "answer": "Delhi"
+  },
+  {
+    "question": "Which country is a member of the International Big Cat Alliance (IBCA)?",
+    "options": ["Nicaragua", "Japan", "Germany", "Brazil"],
+    "answer": "Nicaragua"
+  },
+  {
+    "question": "Water on the Moon in H2O molecule form was first discovered by which mission?",
+    "options": ["Chandrayaan-1", "Chandrayaan-2", "Mangalyaan", "Aditya-L1"],
+    "answer": "Chandrayaan-1"
+  },
+  {
+    "question": "In which year did Chandrayaan-1 first discover water on the Moon?",
+    "options": ["2008", "2009", "2010", "2007"],
+    "answer": "2008"
+  },
+  {
+    "question": "Which agency confirmed the presence of water on the Moon in 2020?",
+    "options": ["NASA", "ESA", "JAXA", "Roscosmos"],
+    "answer": "NASA"
+  },
+  {
+    "question": "CE20 is a ______ developed by ISRO.",
+    "options": ["Cryogenic Engine", "Launch Vehicle", "Satellite", "Radar System"],
+    "answer": "Cryogenic Engine"
+  },
+  {
+    "question": "India has set a target of achieving how much nuclear power capacity by 2047?",
+    "options": ["100 GW", "75 GW", "125 GW", "150 GW"],
+    "answer": "100 GW"
+  },
+  {
+    "question": "Musley rice is grown by which community?",
+    "options": ["Karen", "Toda", "Bhutia", "Mishing"],
+    "answer": "Karen"
+  },
+  {
+    "question": "Musley rice is associated with which region?",
+    "options": ["Andaman and Nicobar Islands", "Lakshadweep", "Sikkim", "Goa"],
+    "answer": "Andaman and Nicobar Islands"
+  },
+  {
+    "question": "What is the name of India's first indigenous automated bio-medical waste treatment plant?",
+    "options": ["Srjanam", "Arogyam", "Jeevanam", "Swastham"],
+    "answer": "Srjanam"
+  },
+  {
+    "question": "Srjanam was established at which institution?",
+    "options": ["AIIMS New Delhi", "PGIMER Chandigarh", "JIPMER Puducherry", "AIIMS Bhopal"],
+    "answer": "AIIMS New Delhi"
+  },
+  {
+    "question": "The World Government Summit was held in which city?",
+    "options": ["Dubai", "Abu Dhabi", "Doha", "Muscat"],
+    "answer": "Dubai"
+  },
+  {
+    "question": "Which state topped in devolution of power to panchayats?",
+    "options": ["Karnataka", "Kerala", "Tamil Nadu", "Maharashtra"],
+    "answer": "Karnataka"
+  },
+  {
+    "question": "India signed an MoU with which country for cooperation in lithium exploration and mining?",
+    "options": ["Argentina", "Chile", "Peru", "Bolivia"],
+    "answer": "Argentina"
+  },
+  {
+    "question": "The Simolu Festival celebrates the flowers of which tree?",
+    "options": ["Bombax Ceiba", "Neem", "Sal", "Teak"],
+    "answer": "Bombax Ceiba"
+  },
+  {
+    "question": "The Simolu Festival was held in which district of Assam?",
+    "options": ["Nagaon", "Jorhat", "Dibrugarh", "Sonitpur"],
+    "answer": "Nagaon"
+  },
+  {
+    "question": "Which legislative assembly became the first in India to introduce a live translation facility?",
+    "options": ["Uttar Pradesh Assembly", "Bihar Assembly", "Rajasthan Assembly", "Madhya Pradesh Assembly"],
+    "answer": "Uttar Pradesh Assembly"
+  },
+  {
+    "question": "The Indian Ocean Conference (IOC) was held in which city?",
+    "options": ["Muscat", "Dubai", "Doha", "Manama"],
+    "answer": "Muscat"
+  },
+  {
+    "question": "The Indian Ocean Conference (IOC) was held in which country?",
+    "options": ["Oman", "UAE", "Qatar", "Bahrain"],
+    "answer": "Oman"
+  },
+  {
+    "question": "Which Indian minister attended the Indian Ocean Conference (IOC) in Muscat?",
+    "options": ["S. Jaishankar", "Rajnath Singh", "Nirmala Sitharaman", "Ashwini Vaishnaw"],
+    "answer": "S. Jaishankar"
+  },
+  {
+    "question": "Which ministry classified Barytes, Felspar, Mica, and Quartz as Major Minerals?",
+    "options": ["Ministry of Mines", "Ministry of Steel", "Ministry of Commerce", "Ministry of Heavy Industries"],
+    "answer": "Ministry of Mines"
+  },
+  {
+    "question": "India and Bangladesh agreed to launch a new ______ for effective communication between border forces.",
+    "options": ["Hotline", "Treaty", "Corridor", "Task Force"],
+    "answer": "Hotline"
+  },
+  {
+    "question": "Which country is the world's top arms exporter?",
+    "options": ["USA", "France", "Russia", "China"],
+    "answer": "USA"
+  },
+  {
+    "question": "Which country ranks second among the world's top arms exporters?",
+    "options": ["France", "USA", "Russia", "Germany"],
+    "answer": "France"
+  },
+  {
+    "question": "Which country ranks third among the world's top arms exporters?",
+    "options": ["Russia", "France", "USA", "Italy"],
+    "answer": "Russia"
+  }, 
+  {
+    "question": "Which country is the world's largest arms importer?",
+    "options": ["Ukraine", "India", "China", "Saudi Arabia"],
+    "answer": "Ukraine"
+  },
+  {
+    "question": "Which country ranks second among the world's top arms importers?",
+    "options": ["India", "Ukraine", "France", "Russia"],
+    "answer": "India"
+  },
+  {
+    "question": "What is the objective of the PM Setu Scheme?",
+    "options": [
+      "To modernize ITIs",
+      "To develop smart villages",
+      "To improve railway stations",
+      "To promote startups"
+    ],
+    "answer": "To modernize ITIs"
+  },
+  {
+    "question": "Umiam Lake is located in which city?",
+    "options": ["Shillong", "Tura", "Aizawl", "Imphal"],
+    "answer": "Shillong"
+  },
+  {
+    "question": "Umiam Lake is located in which state?",
+    "options": ["Meghalaya", "Assam", "Mizoram", "Nagaland"],
+    "answer": "Meghalaya"
+  },
+  {
+    "question": "What does Mk1A refer to in India's defence sector?",
+    "options": [
+      "Light Combat Aircraft",
+      "Battle Tank",
+      "Naval Destroyer",
+      "Attack Helicopter"
+    ],
+    "answer": "Light Combat Aircraft"
+  },
+  {
+    "question": "Who is known as the sculptor of the Statue of Unity?",
+    "options": ["Ram Suta", "Satish Gujral", "Anish Kapoor", "Subodh Gupta"],
+    "answer": "Ram Suta"
+  },
+  {
+    "question": "Who is known as the Father of Indian Advertising?",
+    "options": ["Piyush Pandey", "Prasoon Joshi", "Alyque Padamsee", "R. Balki"],
+    "answer": "Piyush Pandey"
+  },
+  {
+    "question": "Who is known as the Father of Odissi Dance?",
+    "options": ["Mayadhar Raut", "Kelucharan Mohapatra", "Sanjukta Panigrahi", "Guru Deba Prasad Das"],
+    "answer": "Mayadhar Raut"
+  },
+  {
+    "question": "Which elephant reserve in Assam was designated as the state's 8th National Park?",
+    "options": [
+      "Chirang-Ripu Elephant Reserve",
+      "Sonai-Rupai Elephant Reserve",
+      "Kaziranga Elephant Reserve",
+      "Dehing Patkai Reserve"
+    ],
+    "answer": "Chirang-Ripu Elephant Reserve"
+  },
+  {
+    "question": "What is the new name of Assam's 8th National Park?",
+    "options": [
+      "Sikhna Jwhwlao National Park",
+      "Manas National Park",
+      "Bodoland National Park",
+      "Golden Grassland National Park"
+    ],
+    "answer": "Sikhna Jwhwlao National Park"
+  },
+  {
+    "question": "What is the name of India's operation to aid earthquake-hit Myanmar?",
+    "options": [
+      "Operation Brahma",
+      "Operation Maitri",
+      "Operation Shakti",
+      "Operation Sahayata"
+    ],
+    "answer": "Operation Brahma"
+  },
+  {
+    "question": "Which city in Myanmar was mentioned as being affected by the earthquake in Operation Brahma?",
+    "options": ["Yagon", "Mandalay", "Naypyidaw", "Bagan"],
+    "answer": "Yagon"
+  },
+  {
+    "question": "Under MGNREGA, the wage rate was increased from ₹349 to how much per day for FY26?",
+    "options": ["₹370", "₹360", "₹375", "₹380"],
+    "answer": "₹370"
+  },
+  {
+    "question": "Which ministry increased the MGNREGA wage rate for FY26?",
+    "options": [
+      "Ministry of Rural Development",
+      "Ministry of Labour",
+      "Ministry of Agriculture",
+      "Ministry of Finance"
+    ],
+    "answer": "Ministry of Rural Development"
+  },
+  {
+    "question": "Which institution developed a new biofortified sweet potato to boost tribal food security?",
+    "options": ["ICAR-CTCRI", "ICAR-IARI", "NABARD", "FSSAI"],
+    "answer": "ICAR-CTCRI"
+  },
+  {
+    "question": "The biofortified sweet potato developed by ICAR-CTCRI aims to reduce deficiency of which vitamin?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin A"
+  },
+  {
+    "question": "Which port retained the No.1 position in cargo handling among major ports in FY25?",
+    "options": ["Paradip Port", "JNPT", "Kandla Port", "Chennai Port"],
+    "answer": "Paradip Port"
+  },
+  {
+    "question": "Which state recorded the highest forest encroachment in India?",
+    "options": ["Madhya Pradesh", "Assam", "Odisha", "Maharashtra"],
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "question": "Which state ranked second in forest encroachment after Madhya Pradesh?",
+    "options": ["Assam", "Gujarat", "Kerala", "Jharkhand"],
+    "answer": "Assam"
+  },
+  {
+    "question": "HANSA-3 (Next Generation) is a type of what?",
+    "options": [
+      "Pilot training aircraft",
+      "Combat aircraft",
+      "Drone",
+      "Helicopter"
+    ],
+    "answer": "Pilot training aircraft"
+  },
+  {
+    "question": "Tighrana and Mitathal are Harappan villages located in which district of Haryana?",
+    "options": ["Bhiwani", "Hisar", "Rohtak", "Jhajjar"],
+    "answer": "Bhiwani"
+  },
+  {
+    "question": "Tighrana and Mitathal were declared as what?",
+    "options": [
+      "Protected Monuments",
+      "National Parks",
+      "Heritage Cities",
+      "Biosphere Reserves"
+    ],
+    "answer": "Protected Monuments"
+  },
+  {
+    "question": "Which agricultural product from Gujarat received a GI Tag?",
+    "options": [
+      "Amalsad Chikoo",
+      "Gir Mango",
+      "Kutch Dates",
+      "Surat Banana"
+    ],
+    "answer": "Amalsad Chikoo"
+  },
+  {
+    "question": "Amalsad Chikoo is a variety of which fruit?",
+    "options": ["Sapodilla", "Mango", "Guava", "Custard Apple"],
+    "answer": "Sapodilla"
+  },
+  {
+    "question": "The Waqf Board is the _____ largest landholder in India.",
+    "options": ["3rd", "1st", "2nd", "4th"],
+    "answer": "3rd"
+  },
+  {
+    "question": "According to the note, the Waqf Board ranks after which two entities in landholding?",
+    "options": [
+      "Armed Forces and Railways",
+      "Railways and PSUs",
+      "State Governments and Railways",
+      "Armed Forces and PSUs"
+    ],
+    "answer": "Armed Forces and Railways"
+  },
+  {
+    "question": "Ryndia Silk received a GI Tag from which state?",
+    "options": ["Meghalaya", "Assam", "Sikkim", "Tripura"],
+    "answer": "Meghalaya"
+  },
+  {
+    "question": "Khasi Handloom Products, which received a GI Tag, belong to which state?",
+    "options": ["Meghalaya", "Nagaland", "Manipur", "Mizoram"],
+    "answer": "Meghalaya"
+  },
+  {
+    "question": "The International Solar Alliance (ISA) was jointly launched by India and which country?",
+    "options": ["France", "Germany", "Australia", "Japan"],
+    "answer": "France"
+  },
+  {
+    "question": "In which year was the International Solar Alliance launched?",
+    "options": ["2015", "2014", "2016", "2017"],
+    "answer": "2015"
+  },
+  {
+    "question": "Which state became the first to implement sub-categorization of Scheduled Castes (SCs)?",
+    "options": ["Telangana", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+    "answer": "Telangana"
+  },
+  {
+    "question": "Dr. B.R. Ambedkar Abhayaran Wildlife Sanctuary is located in which district?",
+    "options": ["Sagar", "Seoni", "Balaghat", "Shivpuri"],
+    "answer": "Sagar"
+  },
+  {
+    "question": "Dr. B.R. Ambedkar Abhayaran Wildlife Sanctuary is located in which state?",
+    "options": ["Madhya Pradesh", "Maharashtra", "Chhattisgarh", "Odisha"],
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "question": "Bhagavad Gita was added to which UNESCO register?",
+    "options": [
+      "Memory of the World Register",
+      "World Heritage List",
+      "Intangible Heritage List",
+      "Creative Cities Network"
+    ],
+    "answer": "Memory of the World Register"
+  },
+  {
+    "question": "Along with Bhagavad Gita, which text was added to UNESCO's Memory of the World Register?",
+    "options": [
+      "Natyashastra",
+      "Arthashastra",
+      "Rigveda",
+      "Manusmriti"
+    ],
+    "answer": "Natyashastra"
+  },
+  {
+    "question": "How many entries from India are now in UNESCO's Memory of the World Register?",
+    "options": ["14", "12", "13", "15"],
+    "answer": "14"
+  },
+  {
+    "question": "Flamingo Lake in Navi Mumbai was declared as what type of reserve?",
+    "options": [
+      "Conservation Reserve",
+      "Tiger Reserve",
+      "Biosphere Reserve",
+      "Bird Sanctuary"
+    ],
+    "answer": "Conservation Reserve"
+  },
+  {
+    "question": "Flamingo Lake is located in which state?",
+    "options": ["Maharashtra", "Goa", "Gujarat", "Karnataka"],
+    "answer": "Maharashtra"
+  },
+  {
+    "question": "Which institution developed the turmeric variety 'IISR Surya'?",
+    "options": ["IISR", "ICAR-IARI", "CSIR", "NABARD"],
+    "answer": "IISR"
+  },
+  {
+    "question": "What is special about the turmeric variety 'IISR Surya'?",
+    "options": [
+      "It is light-colored",
+      "It is purple-colored",
+      "It is seedless",
+      "It is drought-resistant"
+    ],
+    "answer": "It is light-colored"
+  },
+  {
+    "question": "Which national park was officially declared as India's 107th National Park?",
+    "options": [
+      "Similipal National Park",
+      "Bhitarkanika National Park",
+      "Satkosia National Park",
+      "Debrigarh National Park"
+    ],
+    "answer": "Similipal National Park"
+  },
+  {
+    "question": "Similipal National Park is located in which state?",
+    "options": ["Odisha", "Jharkhand", "West Bengal", "Chhattisgarh"],
+    "answer": "Odisha"
+  },
+  {
+    "question": "What is the name of the portal launched by RBI for authorisation, licences and regulatory approvals?",
+    "options": ["PRAVAAH", "SANCHAAR", "PRAGATI", "SARATHI"],
+    "answer": "PRAVAAH"
+  },
+  {
+    "question": "Who is known as the 'Tree Man of India'?",
+    "options": [
+      "Daripalli Ramaiah",
+      "Jadav Payeng",
+      "Sunderlal Bahuguna",
+      "Tulsi Gowda"
+    ],
+    "answer": "Daripalli Ramaiah"
+  },
+  {
+    "question": "The Tree Man of India, Daripalli Ramaiah, belongs to which village?",
+    "options": ["Reddipalli", "Kothapalli", "Rampalli", "Madhavpur"],
+    "answer": "Reddipalli"
+  },
+  {
+    "question": "Kozhikode became India's ___ Age-Friendly City recognized by WHO.",
+    "options": ["2nd", "1st", "3rd", "4th"],
+    "answer": "2nd"
+  },
+  {
+    "question": "Which city was India's first WHO-recognized Age-Friendly City?",
+    "options": ["Kochi", "Kozhikode", "Thiruvananthapuram", "Mysuru"],
+    "answer": "Kochi"
+  },
+  {
+    "question": "What is the name of India's first genome-edited rice variety mentioned in the note?",
+    "options": [
+      "DRR Dhan 100 Kamla",
+      "Pusa Basmati 1121",
+      "Swarna Rice",
+      "IR64"
+    ],
+    "answer": "DRR Dhan 100 Kamla"
+  },
+  {
+    "question": "Which genome-edited rice variety was launched along with DRR Dhan 100 Kamla?",
+    "options": [
+      "Pusa DST Rice 1",
+      "Pusa Basmati 1509",
+      "Samba Mahsuri",
+      "Pusa 44"
+    ],
+    "answer": "Pusa DST Rice 1"
+  },
+  {
+    "question": "Which state hosted the Strawberry Festival 2025?",
+    "options": ["Meghalaya", "Sikkim", "Assam", "Nagaland"],
+    "answer": "Meghalaya"
+  },
+  {
+    "question": "Which state topped India's textile exports in FY25?",
+    "options": ["Tamil Nadu", "Gujarat", "Maharashtra", "Punjab"],
+    "answer": "Tamil Nadu"
+  },
+  {
+    "question": "Tamil Nadu accounted for approximately what share of India's textile exports in FY25?",
+    "options": ["21%", "18%", "25%", "30%"],
+    "answer": "21%"
+  },
+  {
+    "question": "Which state recorded the highest GST revenue in FY25?",
+    "options": ["Maharashtra", "Gujarat", "Tamil Nadu", "Karnataka"],
+    "answer": "Maharashtra"
+  },
+  {
+    "question": "Which city became India's first beggar-free city?",
+    "options": ["Indore", "Surat", "Ahmedabad", "Bhopal"],
+    "answer": "Indore"
+  },
+  {
+    "question": "Which state became India's first fully literate state?",
+    "options": ["Mizoram", "Kerala", "Sikkim", "Goa"],
+    "answer": "Mizoram"
+  },
+  {
+    "question": "What literacy rate was achieved by Mizoram to become India's first fully literate state?",
+    "options": ["98.2%", "97.5%", "99.1%", "96.8%"],
+    "answer": "98.2%"
+  },
+  {
+    "question": "Who translated the Kannada book into English and received the prize?",
+    "options": ["Deepa Bhasthi", "Gita Krishnankutty", "Arshia Sattar", "Mini Krishnan"],
+    "answer": "Deepa Bhasthi"
+  },
+  {
+    "question": "The Hoyle–Narlikar theory of gravity was developed by Sir Fred Hoyle and whom?",
+    "options": [
+      "Dr. Jayant Vishnu Narlikar",
+      "Dr. Vikram Sarabhai",
+      "Dr. Homi Bhabha",
+      "Dr. Meghnad Saha"
+    ],
+    "answer": "Dr. Jayant Vishnu Narlikar"
+  },
+  {
+    "question": "Gaya town is situated on the bank of which river?",
+    "options": ["Falgu River", "Son River", "Punpun River", "Ganga River"],
+    "answer": "Falgu River"
+  },
+  {
+    "question": "What is the new name of Gaya town?",
+    "options": ["Gaya Jee", "Gaya Dham", "Maha Gaya", "Gaya Nagar"],
+    "answer": "Gaya Jee"
+  },
+  {
+    "question": "Which state became the first in India to mandate robotics education for Class 10 students?",
+    "options": ["Kerala", "Tamil Nadu", "Karnataka", "Telangana"],
+    "answer": "Kerala"
+  },
+  {
+    "question": "India's first Mahouts' Village was inaugurated in which tiger reserve?",
+    "options": [
+      "Mudumalai Tiger Reserve",
+      "Bandipur Tiger Reserve",
+      "Periyar Tiger Reserve",
+      "Nagarhole Tiger Reserve"
+    ],
+    "answer": "Mudumalai Tiger Reserve"
+  },
+  {
+    "question": "India's first Mahouts' Village was inaugurated in which state?",
+    "options": ["Tamil Nadu", "Kerala", "Karnataka", "Telangana"],
+    "answer": "Tamil Nadu"
+  },
+  {
+    "question": "The Shirui Lily Festival 2025 was held in which district?",
+    "options": ["Ukhrul", "Churachandpur", "Senapati", "Tamenglong"],
+    "answer": "Ukhrul"
+  },
+  {
+    "question": "The Shirui Lily Festival 2025 was celebrated in which state?",
+    "options": ["Manipur", "Nagaland", "Mizoram", "Tripura"],
+    "answer": "Manipur"
+  }, 
+  {
+    "question": "What is the name of the Indian Army's first community radio station?",
+    "options": ["Panchshul Pulse", "Veer Vani", "Sainik Radio", "Army Connect"],
+    "answer": "Panchshul Pulse"
+  },
+  {
+    "question": "The Indian Army's first community radio station 'Panchshul Pulse' is located in which state?",
+    "options": ["Uttarakhand", "Himachal Pradesh", "Jammu and Kashmir", "Sikkim"],
+    "answer": "Uttarakhand"
+  },
+  {
+    "question": "Which state achieved 100% Functional Literacy Status with a literacy rate of 99.7%?",
+    "options": ["Goa", "Kerala", "Sikkim", "Tripura"],
+    "answer": "Goa"
+  },
+  {
+    "question": "Goa became the second fully functionally literate state after which state?",
+    "options": ["Mizoram", "Kerala", "Sikkim", "Nagaland"],
+    "answer": "Mizoram"
+  },
+  {
+    "question": "What is the name of the conservation reserve declared by Telangana connecting Kawal Tiger Reserve with Tadoba-Andhari?",
+    "options": [
+      "Kumram Bheem Conservation Reserve",
+      "Komaram Reserve",
+      "Kawal Conservation Zone",
+      "Bheem Tiger Corridor"
+    ],
+    "answer": "Kumram Bheem Conservation Reserve"
+  },
+  {
+    "question": "The tiger corridor declared as Kumram Bheem Conservation Reserve connects Kawal Tiger Reserve with which reserve in Maharashtra?",
+    "options": [
+      "Tadoba-Andhari",
+      "Melghat",
+      "Pench",
+      "Sanjay Gandhi"
+    ],
+    "answer": "Tadoba-Andhari"
+  },
+  {
+    "question": "An Eco-Sensitive Zone (ESZ) was declared around which wildlife sanctuary in Jammu and Kashmir?",
+    "options": [
+      "Tral Wildlife Sanctuary",
+      "Dachigam Wildlife Sanctuary",
+      "Overa Sanctuary",
+      "Hirapora Sanctuary"
+    ],
+    "answer": "Tral Wildlife Sanctuary"
+  },
+  {
+    "question": "The Eco-Sensitive Zone around Tral Wildlife Sanctuary aims to protect which critically endangered species?",
+    "options": ["Hangul Deer", "Snow Leopard", "Musk Deer", "Black Bear"],
+    "answer": "Hangul Deer"
+  },
+  {
+    "question": "Which wetland in Rajasthan was designated as a Ramsar Site along with Menar Wetland?",
+    "options": [
+      "Khichan Bird Village",
+      "Keoladeo Wetland",
+      "Sambhar Lake",
+      "Jaisamand Lake"
+    ],
+    "answer": "Khichan Bird Village"
+  },
+  {
+    "question": "Menar Wetland, designated as a Ramsar Site, is located in which district of Rajasthan?",
+    "options": ["Udaipur", "Jaipur", "Alwar", "Jodhpur"],
+    "answer": "Udaipur"
+  },
+  {
+    "question": "Anji Khad Bridge is India's first what type of rail bridge?",
+    "options": [
+      "Cable-stayed rail bridge",
+      "Suspension rail bridge",
+      "Arch rail bridge",
+      "Steel truss rail bridge"
+    ],
+    "answer": "Cable-stayed rail bridge"
+  },
+  {
+    "question": "Anji Khad Bridge is located in which Union Territory?",
+    "options": ["Jammu and Kashmir", "Ladakh", "Delhi", "Chandigarh"],
+    "answer": "Jammu and Kashmir"
+  },
+  {
+    "question": "The Greater Flamingo Sanctuary has been established at which location?",
+    "options": ["Dhanushkodi", "Kanyakumari", "Pulicat", "Nagapattinam"],
+    "answer": "Dhanushkodi"
+  },
+  {
+    "question": "The Greater Flamingo Sanctuary at Dhanushkodi is located in which district?",
+    "options": [
+      "Ramanathapuram",
+      "Thoothukudi",
+      "Tirunelveli",
+      "Nagapattinam"
+    ],
+    "answer": "Ramanathapuram"
+  },
+  {
+    "question": "Which city is known as India's 'Leopard Capital'?",
+    "options": ["Bengaluru", "Mumbai", "Mysuru", "Pune"],
+    "answer": "Bengaluru"
+  },
+  {
+    "question": "Which Goan product recently secured a Geographical Indication (GI) tag?",
+    "options": ["Ozzo Feni", "Cashew Feni", "Goa Coconut", "Konkan Honey"],
+    "answer": "Ozzo Feni"
+  },
+  {
+    "question": "Under the Ladakh Official Languages Regulation, 2025, which language is an official language of Ladakh?",
+    "options": ["Bhoti", "Konkani", "Dogri", "Nepali"],
+    "answer": "Bhoti"
+  },
+  {
+    "question": "Which of the following is NOT listed as an official language under the Ladakh Official Languages Regulation, 2025?",
+    "options": ["Punjabi", "English", "Hindi", "Urdu"],
+    "answer": "Punjabi"
+  },
+  {
+    "question": "INS Guldar will be converted into India's first what?",
+    "options": [
+      "Underwater Museum",
+      "Floating Museum",
+      "Naval Heritage Park",
+      "Marine Research Centre"
+    ],
+    "answer": "Underwater Museum"
+  },
+  {
+    "question": "INS Guldar will become India's first underwater museum in which state?",
+    "options": ["Maharashtra", "Goa", "Tamil Nadu", "Kerala"],
+    "answer": "Maharashtra"
+  },
+  {
+    "question": "Which state declared 2025-35 as the 'Decade of Hydro Power'?",
+    "options": [
+      "Arunachal Pradesh",
+      "Himachal Pradesh",
+      "Sikkim",
+      "Uttarakhand"
+    ],
+    "answer": "Arunachal Pradesh"
+  },
+  {
+    "question": "Dudhwa National Park is located in which district of Uttar Pradesh?",
+    "options": [
+      "Lakhimpur Kheri",
+      "Bahraich",
+      "Pilibhit",
+      "Shahjahanpur"
+    ],
+    "answer": "Lakhimpur Kheri"
+  },
+  {
+    "question": "What is the name of the operation launched by India to evacuate nationals from conflict-hit Iran?",
+    "options": [
+      "Operation Sindhu",
+      "Operation Ganga",
+      "Operation Maitri",
+      "Operation Brahma"
+    ],
+    "answer": "Operation Sindhu"
+  },
+  {
+    "question": "Voyager 1 crossed the heliopause, also known as the 'Wall of Fire', in which year?",
+    "options": ["2012", "2010", "2014", "2016"],
+    "answer": "2012"
+  },
+  {
+    "question": "Voyager 1 became the first human-made object to reach which region of space?",
+    "options": [
+      "Interstellar Space",
+      "Geostationary Orbit",
+      "Lunar Orbit",
+      "Mars Orbit"
+    ],
+    "answer": "Interstellar Space"
+  },
+  {
+    "question": "Which state pioneered India's first mobile-based e-voting system for urban elections?",
+    "options": ["Bihar", "Jharkhand", "Odisha", "West Bengal"],
+    "answer": "Bihar"
+  },
+  {
+    "question": "Aralam Wildlife Sanctuary became India's first what type of sanctuary?",
+    "options": [
+      "Butterfly Sanctuary",
+      "Bird Sanctuary",
+      "Elephant Sanctuary",
+      "Orchid Sanctuary"
+    ],
+    "answer": "Butterfly Sanctuary"
+  },
+  {
+    "question": "Aralam Wildlife Sanctuary is located in which district of Kerala?",
+    "options": ["Kannur", "Wayanad", "Kasaragod", "Idukki"],
+    "answer": "Kannur"
+  },
+  {
+    "question": "Where is the headquarters of the National Turmeric Board located?",
+    "options": ["Nizamabad", "Warangal", "Hyderabad", "Karimnagar"],
+    "answer": "Nizamabad"
+  },
+  {
+    "question": "The headquarters of the National Turmeric Board is located in which state?",
+    "options": ["Telangana", "Andhra Pradesh", "Karnataka", "Tamil Nadu"],
+    "answer": "Telangana"
+  },
+  {
+    "question": "Who is known as the Father of Modern Statistics in India?",
+    "options": [
+      "P.C. Mahalanobis",
+      "C.R. Rao",
+      "V.K.R.V. Rao",
+      "M.N. Srinivas"
+    ],
+    "answer": "P.C. Mahalanobis"
+  },
+  {
+    "question": "Which wheat variety was introduced jointly by India and Ghana?",
+    "options": [
+      "Wheat Pride 999",
+      "Golden Wheat 100",
+      "Bharat Wheat 1",
+      "Krishi Gold 99"
+    ],
+    "answer": "Wheat Pride 999"
+  },
+  {
+    "question": "Which is the largest indigenous community in Arunachal Pradesh?",
+    "options": ["Nyishi", "Adi", "Apatani", "Monpa"],
+    "answer": "Nyishi"
+  },
+  {
+    "question": "The Astro Tourism Festival was held in which city?",
+    "options": ["Leh", "Kargil", "Srinagar", "Shimla"],
+    "answer": "Leh"
+  },
+  {
+    "question": "Which heritage site was included as the 44th World Heritage Site of India?",
+    "options": [
+      "Maratha Military Landscapes of India",
+      "Western Ghats",
+      "Dholavira",
+      "Ramappa Temple"
+    ],
+    "answer": "Maratha Military Landscapes of India"
+  },
+  {
+    "question": "Santirbazar is located in which state?",
+    "options": ["Tripura", "Assam", "Manipur", "Mizoram"],
+    "answer": "Tripura"
+  },
+  {
+    "question": "Fatikroy area is located in which state?",
+    "options": ["Tripura", "Nagaland", "Meghalaya", "Assam"],
+    "answer": "Tripura"
+  },
+  {
+    "question": "In 2024, India emerged as the largest importer of which commodity from Malaysia?",
+    "options": [
+      "Germinated palm oil seeds",
+      "Rubber",
+      "Palm sugar",
+      "Cocoa beans"
+    ],
+    "answer": "Germinated palm oil seeds"
+  },
+  {
+    "question": "The National Cooperative Policy 2025 aims to triple the contribution of the cooperative sector to India's GDP by which year?",
+    "options": ["2034", "2030", "2035", "2040"],
+    "answer": "2034"
+  },
+  {
+    "question": "The India International Science Festival (IISF) was held in which city?",
+    "options": ["Panchkula", "Chandigarh", "Hisar", "Gurugram"],
+    "answer": "Panchkula"
+  },
+  {
+    "question": "The India International Science Festival (IISF) was held in which state?",
+    "options": ["Haryana", "Punjab", "Rajasthan", "Delhi"],
+    "answer": "Haryana"
+  },
+  {
+    "question": "Which Ramsar Site became the 95th Ramsar Site of India?",
+    "options": [
+      "Siliserh Lake",
+      "Sambhar Lake",
+      "Pushkar Lake",
+      "Jaisamand Lake"
+    ],
+    "answer": "Siliserh Lake"
+  },
+  {
+    "question": "Siliserh Lake is located in which district of Rajasthan?",
+    "options": ["Alwar", "Jaipur", "Ajmer", "Jodhpur"],
+    "answer": "Alwar"
+  },
+  {
+    "question": "Which Ramsar Site became the 96th Ramsar Site of India?",
+    "options": [
+      "Kopra Jalashay",
+      "Hasdeo Reservoir",
+      "Gangrel Reservoir",
+      "Mahanadi Wetland"
+    ],
+    "answer": "Kopra Jalashay"
+  },
+  {
+    "question": "Kopra Jalashay is located near which place?",
+    "options": ["Bilaspur", "Raipur", "Durg", "Korba"],
+    "answer": "Bilaspur"
+  },
+  {
+    "question": "Which GI-tagged product belongs to Andhra Pradesh?",
+    "options": [
+      "Ponduru Khadi",
+      "Mangalagiri Cotton",
+      "Etikoppaka Toys",
+      "Kondapalli Craft"
+    ],
+    "answer": "Ponduru Khadi"
+  },
+  {
+    "question": "Which traditional handcrafted blade from Arunachal Pradesh received a GI Tag?",
+    "options": ["Dao", "Khukri", "Talwar", "Katthi"],
+    "answer": "Dao"
+  },
+  {
+    "question": "The Hornbill Festival is popularly known by what title?",
+    "options": [
+      "Festival of Festivals",
+      "Festival of Tribes",
+      "Festival of Hills",
+      "Festival of Culture"
+    ],
+    "answer": "Festival of Festivals"
+  },
+  {
+    "question": "The Hornbill Festival is celebrated in which state?",
+    "options": ["Nagaland", "Manipur", "Mizoram", "Tripura"],
+    "answer": "Nagaland"
+  },
+  {
+    "question": "Under which mission is ISRO expected to send a three-member Indian crew into Lower Earth Orbit in 2027?",
+    "options": [
+      "Gaganyaan Mission",
+      "Chandrayaan Mission",
+      "Aditya Mission",
+      "Bharat Orbiter Mission"
+    ],
+    "answer": "Gaganyaan Mission"
+  },
+  {
+    "question": "How many crew members are expected to be sent into Lower Earth Orbit under the Gaganyaan Mission?",
+    "options": ["3", "2", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "question": "The 11th COSP to the UN Convention Against Corruption was held in which city?",
+    "options": ["Doha", "Dubai", "Muscat", "Riyadh"],
+    "answer": "Doha"
+  },
+  {
+    "question": "The 11th COSP to the UN Convention Against Corruption was held in which country?",
+    "options": ["Qatar", "UAE", "Oman", "Bahrain"],
+    "answer": "Qatar"
+  },
+  {
+    "question": "The Galwan War Memorial was built to honour Indian Army personnel killed in clashes with Chinese soldiers in which year?",
+    "options": ["2020", "2019", "2021", "2022"],
+    "answer": "2020"
+  },
+  {
+    "question": "The Galwan War Memorial is located in which region?",
+    "options": [
+      "Eastern Ladakh",
+      "Western Ladakh",
+      "Kargil",
+      "Leh Valley"
+    ],
+    "answer": "Eastern Ladakh"
+  },
+  {
+    "question": "INS Anjadip was built by which company?",
+    "options": [
+      "Garden Reach Shipbuilders and Engineers (GRSE)",
+      "Mazagon Dock Shipbuilders",
+      "Goa Shipyard Limited",
+      "Cochin Shipyard"
+    ],
+    "answer": "Garden Reach Shipbuilders and Engineers (GRSE)"
+  },
+  {
+    "question": "INS Anjadip was launched at which port?",
+    "options": [
+      "Chennai Port Trust",
+      "Kolkata Port",
+      "Visakhapatnam Port",
+      "Cochin Port"
+    ],
+    "answer": "Chennai Port Trust"
+  },
+  {
+    "question": "What is the name of India's first indigenously designed and built Pollution Control Vessel (PCV)?",
+    "options": [
+      "Samudra Pratap",
+      "Samudra Shakti",
+      "Samudra Rakshak",
+      "Samudra Mitra"
+    ],
+    "answer": "Samudra Pratap"
+  },
+  {
+    "question": "Samudra Pratap was built at which shipyard?",
+    "options": [
+      "Goa Shipyard Limited",
+      "Mazagon Dock",
+      "GRSE",
+      "Cochin Shipyard"
+    ],
+    "answer": "Goa Shipyard Limited"
+  },
+  {
+    "question": "Where was the new soil-dwelling micro-arthropod species 'Neelus Sikkimensis' discovered?",
+    "options": ["Sikkim", "Arunachal Pradesh", "Meghalaya", "Nagaland"],
+    "answer": "Sikkim"
+  },
+  {
+    "question": "Which supercomputer was unveiled at IIT Patna?",
+    "options": [
+      "PARAM Rudra",
+      "PARAM Siddhi",
+      "PARAM Ganga",
+      "PARAM Shakti"
+    ],
+    "answer": "PARAM Rudra"
+  },
+  {
+    "question": "IIT Patna is located in which state?",
+    "options": ["Bihar", "Jharkhand", "Uttar Pradesh", "Odisha"],
+    "answer": "Bihar"
+  },
+  {
+    "question": "DRDO successfully tested which long-range guided rocket at Chandipur, Odisha?",
+    "options": [
+      "Pinaka LRGR 120",
+      "Agni Rocket 120",
+      "Prahar LRGM",
+      "Akash Guided Rocket"
+    ],
+    "answer": "Pinaka LRGR 120"
+  },
+  {
+    "question": "India ranks ____ in rare earth reserves with 6.9 million tonnes REO.",
+    "options": ["3rd", "2nd", "4th", "5th"],
+    "answer": "3rd"
+  },
+  {
+    "question": "Which country tops the world in rare earth reserves according to the note?",
+    "options": ["China", "India", "Russia", "Australia"],
+    "answer": "China"
+  }, 
+  {
+    "question": "Has India obtained exclusive rights to explore for polymetallic sulphides in which ridge?",
+    "options": [
+      "Carlsberg Ridge",
+      "Mid-Atlantic Ridge",
+      "Ninety East Ridge",
+      "Laccadive Ridge"
+    ],
+    "answer": "Carlsberg Ridge"
+  },
+  {
+    "question": "Who is the chairperson of the 8th Central Pay Commission (2025)?",
+    "options": [
+      "Ranjana Prakash Desai",
+      "N. V. Ramana",
+      "Amitabh Kant",
+      "Bimal Jalan"
+    ],
+    "answer": "Ranjana Prakash Desai"
+  },
+  {
+    "question": "Which company launched the world's first Multi-Sensor Earth Observation (EO) Satellite?",
+    "options": [
+      "GalaxyEye",
+      "SpaceX",
+      "Blue Origin",
+      "OneWeb"
+    ],
+    "answer": "GalaxyEye"
+  },
+  {
+    "question": "ISRO's second launch site is located at which place?",
+    "options": [
+      "Kulasekarapattinam",
+      "Sriharikota",
+      "Mahendragiri",
+      "Thumba"
+    ],
+    "answer": "Kulasekarapattinam"
+  },
+  {
+    "question": "ISRO's second launch site at Kulasekarapattinam is located in which district?",
+    "options": [
+      "Tuticorin",
+      "Tirunelveli",
+      "Madurai",
+      "Ramanathapuram"
+    ],
+    "answer": "Tuticorin"
+  },
+  {
+    "question": "India signed an agreement with which country to establish a satellite tracking station in Diego Garcia?",
+    "options": [
+      "Mauritius",
+      "Maldives",
+      "Seychelles",
+      "Sri Lanka"
+    ],
+    "answer": "Mauritius"
+  },
+  {
+    "question": "Which company claimed to have successfully revived the extinct Dire Wolf?",
+    "options": [
+      "Colossal Biosciences",
+      "GenomeX",
+      "BioFuture Labs",
+      "GeneRevive"
+    ],
+    "answer": "Colossal Biosciences"
+  },
+  {
+    "question": "Approximately how many years ago did the Dire Wolf become extinct?",
+    "options": [
+      "13,000 years ago",
+      "10,000 years ago",
+      "15,000 years ago",
+      "20,000 years ago"
+    ],
+    "answer": "13,000 years ago"
+  },
+  {
+    "question": "Which country is the largest source of remittances for India?",
+    "options": [
+      "USA",
+      "UAE",
+      "Saudi Arabia",
+      "United Kingdom"
+    ],
+    "answer": "USA"
+  },
+  {
+    "question": "What is the name of the world's largest iceberg?",
+    "options": [
+      "A23a",
+      "A68",
+      "B15",
+      "C19"
+    ],
+    "answer": "A23a"
+  },
+  {
+    "question": "The world's largest iceberg A23a is located in which ocean?",
+    "options": [
+      "Southern Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean"
+    ],
+    "answer": "Southern Ocean"
+  },
+  {
+    "question": "A23a separated from which Antarctic ice shelf?",
+    "options": [
+      "Filchner Ice Shelf",
+      "Ross Ice Shelf",
+      "Larsen Ice Shelf",
+      "Amery Ice Shelf"
+    ],
+    "answer": "Filchner Ice Shelf"
+  },
+  {
+    "question": "Which country is the world's top milk producer?",
+    "options": [
+      "India",
+      "USA",
+      "China",
+      "Brazil"
+    ],
+    "answer": "India"
+  },
+  {
+    "question": "India contributes approximately what percentage of global milk production?",
+    "options": [
+      "24%",
+      "20%",
+      "18%",
+      "30%"
+    ],
+    "answer": "24%"
+  },
+  {
+    "question": "Which country is the second-largest milk producer in the world?",
+    "options": [
+      "USA",
+      "India",
+      "China",
+      "Russia"
+    ],
+    "answer": "USA"
+  },
+  {
+    "question": "Who is known as the 'Father of Odissi Dance'?",
+    "options": [
+      "Mayadhar Raut",
+      "Kelucharan Mohapatra",
+      "Sanjukta Panigrahi",
+      "Guru Deba Prasad Das"
+    ],
+    "answer": "Mayadhar Raut"
+  },
+  {
+    "question": "India's largest cotton export market in 2025 was which country?",
+    "options": [
+      "USA",
+      "China",
+      "Bangladesh",
+      "Vietnam"
+    ],
+    "answer": "USA"
+  },
+  {
+    "question": "Which rice variety from Assam received a GI Tag?",
+    "options": [
+      "Joha Rice",
+      "Bora Rice",
+      "Komal Rice",
+      "Chokuwa Rice"
+    ],
+    "answer": "Joha Rice"
+  },
+  {
+    "question": "What is the new name of Rajasthan's hill station Mount Abu?",
+    "options": [
+      "Aburaj",
+      "Aravalli Nagar",
+      "Abugarh",
+      "Raj Abu"
+    ],
+    "answer": "Aburaj"
+  },
+  {
+    "question": "Mount Abu is located in which mountain range?",
+    "options": [
+      "Aravalli Range",
+      "Vindhya Range",
+      "Satpura Range",
+      "Western Ghats"
+    ],
+    "answer": "Aravalli Range"
+  },
+  {
+    "question": "Who is the Chief Minister of Manipur according to the note?",
+    "options": [
+      "Yumnam Khemchand Singh",
+      "N. Biren Singh",
+      "Thongam Biswajit Singh",
+      "R. K. Ranbir Singh"
+    ],
+    "answer": "Yumnam Khemchand Singh"
+  },
+  {
+    "question": "The Edwin Lutyens statue at Rashtrapati Bhavan was replaced by whose statue?",
+    "options": [
+      "C. Rajagopalachari",
+      "Sardar Patel",
+      "B. R. Ambedkar",
+      "Subhas Chandra Bose"
+    ],
+    "answer": "C. Rajagopalachari"
+  },
+  {
+    "question": "Which state became the first in India to constitute its 8th State Pay Commission?",
+    "options": [
+      "Assam",
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "answer": "Assam"
+  },
+  {
+    "question": "Which gallantry award was conferred on Group Captain Shubhanshu Shukla?",
+    "options": [
+      "Ashok Chakra",
+      "Kirti Chakra",
+      "Param Vishisht Seva Medal",
+      "Vir Chakra"
+    ],
+    "answer": "Ashok Chakra"
+  },
+  {
+    "question": "What is India's highest peacetime gallantry award?",
+    "options": [
+      "Ashok Chakra",
+      "Vir Chakra",
+      "Shaurya Chakra",
+      "Kirti Chakra"
+    ],
+    "answer": "Ashok Chakra"
+  },
+  {
+    "question": "What is the new name of the Prime Minister's Office (PMO)?",
+    "options": [
+      "Seva Teerth",
+      "Jan Seva Kendra",
+      "Lok Seva Bhavan",
+      "Rashtra Sewa Sadan"
+    ],
+    "answer": "Seva Teerth"
+  },
+  {
+    "question": "What is the motto of the renamed PMO?",
+    "options": [
+      "Nagrik Devo Bhava",
+      "Seva Parmo Dharma",
+      "Janata Janardan",
+      "Sabka Saath Sabka Vikas"
+    ],
+    "answer": "Nagrik Devo Bhava"
+  },
+  {
+    "question": "Which district became India's first child marriage-free district?",
+    "options": [
+      "Balod",
+      "Raipur",
+      "Durg",
+      "Bilaspur"
+    ],
+    "answer": "Balod"
+  },
+  {
+    "question": "India's first child marriage-free district, Balod, is located in which state?",
+    "options": [
+      "Chhattisgarh",
+      "Odisha",
+      "Jharkhand",
+      "Madhya Pradesh"
+    ],
+    "answer": "Chhattisgarh"
+  },
+  {
+    "question": "Which site in Gujarat is associated with an Early Harappan discovery identified as a 'Highway Hotel'?",
+    "options": [
+      "Kotada Bhadli",
+      "Lothal",
+      "Dholavira",
+      "Rangpur"
+    ],
+    "answer": "Kotada Bhadli"
+  },
+  {
+    "question": "Which state is the largest producer of jaggery (gur) in India?",
+    "options": [
+      "Uttar Pradesh",
+      "Maharashtra",
+      "Karnataka",
+      "Punjab"
+    ],
+    "answer": "Uttar Pradesh"
+  },
+  {
+    "question": "Which state is home to India's first fully paperless district court?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Telangana"
+    ],
+    "answer": "Kerala"
+  },
+  {
+    "question": "Which state became the second after Kerala to publish a state-level bird atlas?",
+    "options": [
+      "Goa",
+      "Assam",
+      "Sikkim",
+      "Meghalaya"
+    ],
+    "answer": "Goa"
+  },
+  {
+    "question": "What is the name of Goa's state-level bird atlas?",
+    "options": [
+      "Bird Atlas of Goa",
+      "Avian Atlas of Goa",
+      "Goa Bird Survey",
+      "Goa Biodiversity Atlas"
+    ],
+    "answer": "Bird Atlas of Goa"
+  },
+  {
+    "question": "India's first Ring Metro service was launched in which city?",
+    "options": [
+      "Delhi",
+      "Mumbai",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "answer": "Delhi"
+  },
+  {
+    "question": "Which village in Odisha will become the state's first smart village under CSIR?",
+    "options": [
+      "Kusunpur",
+      "Pipili",
+      "Konark",
+      "Baripada"
+    ],
+    "answer": "Kusunpur"
+  },
+  {
+    "question": "Which city is recognized as India's first slum-free city?",
+    "options": [
+      "Surat",
+      "Indore",
+      "Ahmedabad",
+      "Pune"
+    ],
+    "answer": "Surat"
+  },
+  {
+    "question": "Which research institution discovered the spiral galaxy 'Alaknanda' using the James Webb Space Telescope?",
+    "options": [
+      "Tata Fundamental Research Center",
+      "ISRO",
+      "IUCAA",
+      "PRL"
+    ],
+    "answer": "Tata Fundamental Research Center"
+  },
+  {
+    "question": "What is the name of the spiral galaxy discovered using the James Webb Space Telescope?",
+    "options": [
+      "Alaknanda",
+      "Mandakini",
+      "Bhagirathi",
+      "Saraswati"
+    ],
+    "answer": "Alaknanda"
+  },
+  {
+    "question": "Which state passed the Polygamy Abolition Bill?",
+    "options": [
+      "Assam",
+      "Tripura",
+      "West Bengal",
+      "Meghalaya"
+    ],
+    "answer": "Assam"
+  },
+  {
+    "question": "Which state organized the Swadesh Mela in 2025?",
+    "options": [
+      "Uttar Pradesh",
+      "Bihar",
+      "Rajasthan",
+      "Madhya Pradesh"
+    ],
+    "answer": "Uttar Pradesh"
+  },
+  {
+    "question": "Ali Ai Ligang is a festival celebrated in which state?",
+    "options": [
+      "Assam",
+      "Arunachal Pradesh",
+      "Nagaland",
+      "Manipur"
+    ],
+    "answer": "Assam"
+  },
+  {
+    "question": "WAVES 2025 stands for what?",
+    "options": [
+      "World Audio Visual and Entertainment Summit",
+      "World Arts Visual Expo Summit",
+      "World Audiovisual Event Series",
+      "World Animation and Entertainment Summit"
+    ],
+    "answer": "World Audio Visual and Entertainment Summit"
+  },
+  {
+    "question": "WAVES 2025 was held in which city?",
+    "options": [
+      "Mumbai",
+      "Delhi",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "answer": "Mumbai"
+  },
+  {
+    "question": "The 37th Kathak Mahotsav 2025 concluded in which city?",
+    "options": [
+      "New Delhi",
+      "Lucknow",
+      "Jaipur",
+      "Varanasi"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "What is the name of India's heaviest communication satellite launched by ISRO?",
+    "options": [
+      "CMS-03",
+      "GSAT-30",
+      "INSAT-4A",
+      "CMS-01"
+    ],
+    "answer": "CMS-03"
+  },
+  {
+    "question": "India's first Tesla Centre was opened at which location?",
+    "options": [
+      "Orchid Business Park, Gurugram",
+      "Cyber Hub, Gurugram",
+      "BKC, Mumbai",
+      "Electronic City, Bengaluru"
+    ],
+    "answer": "Orchid Business Park, Gurugram"
+  },
+  {
+    "question": "What is the name of Google's newly launched computer chip?",
+    "options": [
+      "Ironwood",
+      "Titanium",
+      "QuantumX",
+      "Graphene"
+    ],
+    "answer": "Ironwood"
+  },
+  {
+    "question": "Rajasthan's first Namo Biodiversity Park was inaugurated in which district?",
+    "options": [
+      "Alwar",
+      "Jaipur",
+      "Ajmer",
+      "Udaipur"
+    ],
+    "answer": "Alwar"
+  },
+  {
+    "question": "India's first-ever Grassland Bird Census was conducted in which national park?",
+    "options": [
+      "Kaziranga National Park",
+      "Manas National Park",
+      "Keibul Lamjao National Park",
+      "Similipal National Park"
+    ],
+    "answer": "Kaziranga National Park"
+  },
+  {
+    "question": "Tso Kar Valley is located in which region?",
+    "options": [
+      "Ladakh",
+      "Spiti",
+      "Kashmir",
+      "Arunachal Pradesh"
+    ],
+    "answer": "Ladakh"
+  },
+  {
+    "question": "Under the I-T Act, 2025, Assessment Year (AY) and Financial Year (FY) are renamed as what?",
+    "options": [
+      "Tax Year",
+      "Fiscal Year",
+      "Revenue Year",
+      "Income Year"
+    ],
+    "answer": "Tax Year"
+  },
+  {
+    "question": "The Revised National Action Plan on Glanders focuses on a disease affecting which animals?",
+    "options": [
+      "Equines",
+      "Cattle",
+      "Poultry",
+      "Sheep"
+    ],
+    "answer": "Equines"
+  },
+  {
+    "question": "Glanders is described as what type of disease?",
+    "options": [
+      "Contagious and often fatal",
+      "Genetic and non-fatal",
+      "Seasonal and mild",
+      "Nutritional deficiency disease"
+    ],
+    "answer": "Contagious and often fatal"
+  }, 
+  {
+    "question": "Who is known as the Father of Green Revolution in India?",
+    "options": [
+      "M. S. Swaminathan",
+      "Verghese Kurien",
+      "Norman Borlaug",
+      "P. C. Mahalanobis"
+    ],
+    "answer": "M. S. Swaminathan"
+  },
+  {
+    "question": "The Bairabi-Sairang Rail Line is located in which state?",
+    "options": [
+      "Mizoram",
+      "Manipur",
+      "Tripura",
+      "Nagaland"
+    ],
+    "answer": "Mizoram"
+  },
+  {
+    "question": "Which country is authorized by the UN Single Convention on Narcotic Drugs (1961) to produce gum opium?",
+    "options": [
+      "India",
+      "China",
+      "Afghanistan",
+      "Myanmar"
+    ],
+    "answer": "India"
+  },
+  {
+    "question": "Carlsberg Ridge is located in which sea?",
+    "options": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Red Sea",
+      "Mediterranean Sea"
+    ],
+    "answer": "Arabian Sea"
+  },
+  {
+    "question": "What is the IUCN Red List status of the Red Panda?",
+    "options": [
+      "Endangered",
+      "Vulnerable",
+      "Critically Endangered",
+      "Near Threatened"
+    ],
+    "answer": "Endangered"
+  },
+  {
+    "question": "The Red Panda is also known as the:",
+    "options": [
+      "Original Panda",
+      "Mountain Panda",
+      "Golden Panda",
+      "Himalayan Panda"
+    ],
+    "answer": "Original Panda"
+  },
+  {
+    "question": "The Red Panda is the state animal of which Indian state?",
+    "options": [
+      "Sikkim",
+      "Arunachal Pradesh",
+      "Nagaland",
+      "Meghalaya"
+    ],
+    "answer": "Sikkim"
+  },
+  {
+    "question": "India is home to more than what percentage of the world's Greater One-Horned Rhino population?",
+    "options": [
+      "80%",
+      "60%",
+      "70%",
+      "90%"
+    ],
+    "answer": "80%"
+  },
+  {
+    "question": "Which is India's 13th Biosphere Reserve?",
+    "options": [
+      "Cold Desert Biosphere Reserve",
+      "Nilgiri Biosphere Reserve",
+      "Nanda Devi Biosphere Reserve",
+      "Sundarbans Biosphere Reserve"
+    ],
+    "answer": "Cold Desert Biosphere Reserve"
+  },
+  {
+    "question": "The Cold Desert Biosphere Reserve is located in which district?",
+    "options": [
+      "Lahaul-Spiti",
+      "Kinnaur",
+      "Chamba",
+      "Kullu"
+    ],
+    "answer": "Lahaul-Spiti"
+  },
+  {
+    "question": "KAVACH is an indigenously developed system related to which sector?",
+    "options": [
+      "Railways",
+      "Aviation",
+      "Defence",
+      "Space"
+    ],
+    "answer": "Railways"
+  },
+  {
+    "question": "KAVACH stands for an indigenously developed:",
+    "options": [
+      "Automatic Train Protection System",
+      "Automated Track Planning System",
+      "Advanced Transit Protection System",
+      "Automatic Transport Platform System"
+    ],
+    "answer": "Automatic Train Protection System"
+  },
+  {
+    "question": "Mig La Pass is located in which region?",
+    "options": [
+      "Ladakh",
+      "Sikkim",
+      "Arunachal Pradesh",
+      "Himachal Pradesh"
+    ],
+    "answer": "Ladakh"
+  },
+  {
+    "question": "Umling La Pass is located in which Union Territory?",
+    "options": [
+      "Ladakh",
+      "Jammu and Kashmir",
+      "Chandigarh",
+      "Delhi"
+    ],
+    "answer": "Ladakh"
+  },
+  {
+    "question": "Panambur Coast is located in which city?",
+    "options": [
+      "Mangaluru",
+      "Udupi",
+      "Karwar",
+      "Mysuru"
+    ],
+    "answer": "Mangaluru"
+  },
+  {
+    "question": "Panambur Coast is located in which state?",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Goa",
+      "Tamil Nadu"
+    ],
+    "answer": "Karnataka"
+  },
+  {
+    "question": "India is the ______ largest fish-producing country in the world.",
+    "options": [
+      "2nd",
+      "1st",
+      "3rd",
+      "4th"
+    ],
+    "answer": "2nd"
+  },
+  {
+    "question": "India accounts for approximately what percentage of global fish production?",
+    "options": [
+      "8%",
+      "10%",
+      "6%",
+      "12%"
+    ],
+    "answer": "8%"
+  },
+  {
+    "question": "By which year does ISRO plan to undertake a crewed Moon mission?",
+    "options": [
+      "2040",
+      "2035",
+      "2045",
+      "2050"
+    ],
+    "answer": "2040"
+  },
+  {
+    "question": "ISRO's maiden human spaceflight launch is planned for which year?",
+    "options": [
+      "2027",
+      "2026",
+      "2028",
+      "2030"
+    ],
+    "answer": "2027"
+  },
+  {
+    "question": "Which city became the first in India to implement a real-time flood forecasting system?",
+    "options": [
+      "Chennai",
+      "Mumbai",
+      "Kolkata",
+      "Hyderabad"
+    ],
+    "answer": "Chennai"
+  },
+  {
+    "question": "Which city was designated as a UNESCO Creative City of Gastronomy?",
+    "options": [
+      "Lucknow",
+      "Jaipur",
+      "Varanasi",
+      "Hyderabad"
+    ],
+    "answer": "Lucknow"
+  },
+  {
+    "question": "Lucknow is popularly known as the:",
+    "options": [
+      "City of Nawabs",
+      "Pink City",
+      "City of Lakes",
+      "Temple City"
+    ],
+    "answer": "City of Nawabs"
+  },
+  {
+    "question": "Which wetland in Bihar was designated as India's 94th Ramsar Site?",
+    "options": [
+      "Gogabeel Lake",
+      "Kanwar Lake",
+      "Kabar Tal",
+      "Baraila Wetland"
+    ],
+    "answer": "Gogabeel Lake"
+  },
+  {
+    "question": "Which state became the first in India to eliminate extreme poverty?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Goa",
+      "Sikkim"
+    ],
+    "answer": "Kerala"
+  },
+  {
+    "question": "Which city was ranked as the dirtiest city in India?",
+    "options": [
+      "Madurai",
+      "Patna",
+      "Kanpur",
+      "Agra"
+    ],
+    "answer": "Madurai"
+  },
+  {
+    "question": "The GI-tagged musical instrument 'Tungbuk' belongs to which state?",
+    "options": [
+      "Sikkim",
+      "Assam",
+      "Meghalaya",
+      "Nagaland"
+    ],
+    "answer": "Sikkim"
+  },
+  {
+    "question": "Which GI-tagged Lepcha musical instrument was recognized along with Tungbuk?",
+    "options": [
+      "Pumtong Pulit",
+      "Dhodro Banam",
+      "Pepa",
+      "Gogona"
+    ],
+    "answer": "Pumtong Pulit"
+  },
+  {
+    "question": "What is the number of the 24×7 helpline launched for women in distress?",
+    "options": [
+      "14490",
+      "181",
+      "1091",
+      "112"
+    ],
+    "answer": "14490"
+  },
+  {
+    "question": "Which city in Kerala was included in the WHO Global Age-Friendly Cities Network?",
+    "options": [
+      "Kozhikode",
+      "Kochi",
+      "Kannur",
+      "Thrissur"
+    ],
+    "answer": "Kozhikode"
+  },
+  {
+    "question": "According to the note, PMO has been renamed as:",
+    "options": [
+      "Sevati",
+      "Seva Teerth",
+      "Seva Bhavan",
+      "Jan Seva Kendra"
+    ],
+    "answer": "Sevati"
+  },
+  {
+    "question": "How many Ramsar Sites does India have according to the note?",
+    "options": [
+      "96",
+      "94",
+      "95",
+      "97"
+    ],
+    "answer": "96"
+  },
+  {
+    "question": "Which Rajasthan wetland became a new Ramsar Site in 2025?",
+    "options": [
+      "Sili Sar Lake",
+      "Sambhar Lake",
+      "Jaisamand Lake",
+      "Pushkar Lake"
+    ],
+    "answer": "Sili Sar Lake"
+  },
+  {
+    "question": "Which Chhattisgarh wetland became a new Ramsar Site in 2025?",
+    "options": [
+      "Kopra Reserve",
+      "Gangrel Reservoir",
+      "Hasdeo Wetland",
+      "Mahanadi Lake"
+    ],
+    "answer": "Kopra Reserve"
+  },
+  {
+    "question": "Rolliyan Festival is celebrated in which state?",
+    "options": [
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Jammu and Kashmir",
+      "Sikkim"
+    ],
+    "answer": "Himachal Pradesh"
+  },
+  {
+    "question": "Which festival is associated with Manipur?",
+    "options": [
+      "Ningol Chakouba",
+      "Hornbill Festival",
+      "Ali Ai Ligang",
+      "Simolu Festival"
+    ],
+    "answer": "Ningol Chakouba"
+  },
+  {
+    "question": "Which state was the first in India to implement the Uniform Civil Code?",
+    "options": [
+      "Uttarakhand",
+      "Gujarat",
+      "Himachal Pradesh",
+      "Kerala"
+    ],
+    "answer": "Uttarakhand"
+  },
+  {
+    "question": "Which state achieved 100% digital literacy?",
+    "options": [
+      "Kerala",
+      "Goa",
+      "Tamil Nadu",
+      "Sikkim"
+    ],
+    "answer": "Kerala"
+  },
+  {
+    "question": "Which state became the first to achieve full functional literacy?",
+    "options": [
+      "Mizoram",
+      "Kerala",
+      "Goa",
+      "Nagaland"
+    ],
+    "answer": "Mizoram"
+  },
+  {
+    "question": "What is the new name of Navi Mumbai International Airport?",
+    "options": [
+      "Dinkar Bhau Patil Airport",
+      "Balasaheb Thackeray Airport",
+      "Maharashtra International Airport",
+      "Konkan Airport"
+    ],
+    "answer": "Dinkar Bhau Patil Airport"
+  },
+  {
+    "question": "India aims to become free of Lymphatic Filariasis by which year?",
+    "options": [
+      "2027",
+      "2026",
+      "2030",
+      "2035"
+    ],
+    "answer": "2027"
+  },
+  {
+    "question": "India's first forest university is located in which city?",
+    "options": [
+      "Gorakhpur",
+      "Lucknow",
+      "Dehradun",
+      "Bhopal"
+    ],
+    "answer": "Gorakhpur"
+  },
+  {
+    "question": "India's first forest university is located in which state?",
+    "options": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Uttarakhand",
+      "Bihar"
+    ],
+    "answer": "Uttar Pradesh"
+  },
+  {
+    "question": "Which company from Assam was granted the 27th Navratna status?",
+    "options": [
+      "Numaligarh Refinery Limited",
+      "Oil India Limited",
+      "Assam Petrochemicals",
+      "Brahmaputra Cracker and Polymer Limited"
+    ],
+    "answer": "Numaligarh Refinery Limited"
+  },
+  {
+    "question": "CharaiChang Festival is celebrated in which district/island region?",
+    "options": [
+      "Majuli",
+      "Jorhat",
+      "Sivasagar",
+      "Dibrugarh"
+    ],
+    "answer": "Majuli"
+  },
+  {
+    "question": "Majuli is known as Asia's first protected:",
+    "options": [
+      "Royal Bird Sanctuary",
+      "Wetland Reserve",
+      "River Island Biosphere",
+      "Bird Conservation Zone"
+    ],
+    "answer": "Royal Bird Sanctuary"
+  },
+  {
+    "question": "Which Assam tea received a GI Tag and is known as India's first bagless tea?",
+    "options": [
+      "Vallati Tea",
+      "Joha Tea",
+      "Brahmaputra Tea",
+      "Majuli Tea"
+    ],
+    "answer": "Vallati Tea"
+  },
+  {
+    "question": "The Galwan War Memorial is regarded as the world's highest war memorial at approximately what altitude?",
+    "options": [
+      "14,450 ft",
+      "12,500 ft",
+      "15,800 ft",
+      "13,200 ft"
+    ],
+    "answer": "14,450 ft"
+  },
+  {
+    "question": "Which region hosted the first-ever Astro Tourism Festival?",
+    "options": [
+      "Ladakh",
+      "Spiti",
+      "Kashmir",
+      "Arunachal Pradesh"
+    ],
+    "answer": "Ladakh"
+  },
+  {
+    "question": "Mission Watershed 'Punrathan' was launched in which state?",
+    "options": [
+      "Nagaland",
+      "Manipur",
+      "Mizoram",
+      "Assam"
+    ],
+    "answer": "Nagaland"
+  },
+  {
+    "question": "The Hornbill Festival is celebrated at which heritage village?",
+    "options": [
+      "Kisama Heritage Village",
+      "Khonoma Heritage Village",
+      "Dzuleke Heritage Village",
+      "Mopungchuket Heritage Village"
+    ],
+    "answer": "Kisama Heritage Village"
+  },
+  {
+    "question": "Kisama Heritage Village is located near which city?",
+    "options": [
+      "Kohima",
+      "Dimapur",
+      "Mokokchung",
+      "Wokha"
+    ],
+    "answer": "Kohima"
+  },
+  {
+    "question": "Which Indian cities received Global Wetland City Network status?",
+    "options": [
+      "Indore and Udaipur",
+      "Jaipur and Indore",
+      "Udaipur and Bhopal",
+      "Ahmedabad and Udaipur"
+    ],
+    "answer": "Indore and Udaipur"
+  },
+  {
+    "question": "The G20 Summit 2025 was held in which city?",
+    "options": [
+      "Johannesburg",
+      "Cape Town",
+      "Pretoria",
+      "Durban"
+    ],
+    "answer": "Johannesburg"
+  },
+  {
+    "question": "The G20 Summit 2025 was held in which country?",
+    "options": [
+      "South Africa",
+      "Brazil",
+      "Argentina",
+      "Australia"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "question": "What was the theme of the G20 Summit 2025?",
+    "options": [
+      "Solidarity, Equality, Sustainability",
+      "One Earth, One Future",
+      "Inclusive Growth and Innovation",
+      "People, Planet and Prosperity"
+    ],
+    "answer": "Solidarity, Equality, Sustainability"
+  },
+  {
+    "question": "The 2025 G20 Summit was the first G20 summit held on which continent?",
+    "options": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "South America"
+    ],
+    "answer": "Africa"
+  },
+  {
+    "question": "Which leader reportedly boycotted the G20 Summit 2025?",
+    "options": [
+      "Donald Trump",
+      "Joe Biden",
+      "Emmanuel Macron",
+      "Rishi Sunak"
+    ],
+    "answer": "Donald Trump"
+  },
+  {
+    "question": "Which edition of the Raisina Dialogue was held in New Delhi?",
+    "options": [
+      "10th",
+      "9th",
+      "11th",
+      "12th"
+    ],
+    "answer": "10th"
+  },
+  {
+    "question": "What was the theme of the 10th Raisina Dialogue?",
+    "options": [
+      "Kaalchakra – People, Peace & Planet",
+      "One World, Shared Future",
+      "Global South Rising",
+      "Peace Through Cooperation"
+    ],
+    "answer": "Kaalchakra – People, Peace & Planet"
+  },
+  {
+    "question": "Where was the 6th BIMSTEC Summit held?",
+    "options": [
+      "Bangkok",
+      "Kathmandu",
+      "Dhaka",
+      "Colombo"
+    ],
+    "answer": "Bangkok"
+  },
+  {
+    "question": "What was the theme of the 6th BIMSTEC Summit?",
+    "options": [
+      "Prosperous, Resilient & Open",
+      "Together Towards Growth",
+      "Shared Prosperity for All",
+      "Regional Unity and Progress"
+    ],
+    "answer": "Prosperous, Resilient & Open"
+  },
+  {
+    "question": "WAVES Summit stands for:",
+    "options": [
+      "World Audio Visual & Entertainment Summit",
+      "World Arts and Visual Expo Summit",
+      "World Audiovisual Exchange Summit",
+      "World Animation and Video Entertainment Summit"
+    ],
+    "answer": "World Audio Visual & Entertainment Summit"
+  },
+  {
+    "question": "The WAVES Summit was held at which venue in Mumbai?",
+    "options": [
+      "Jio World Centre",
+      "NESCO Centre",
+      "BKC Convention Hall",
+      "Mumbai Exhibition Centre"
+    ],
+    "answer": "Jio World Centre"
+  }
+]
+}

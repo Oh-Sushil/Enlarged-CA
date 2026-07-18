@@ -1,0 +1,304 @@
+{
+"Species": [
+  {
+    "question": "What is the name of the new ant species discovered in the Western Ghats?",
+    "options": [
+      "Tapinoma onaele",
+      "Manis indoburmanica",
+      "Channa nachi",
+      "Amolops Shillong"
+    ],
+    "answer": "Tapinoma onaele"
+  },
+  {
+    "question": "Where was the new ant species 'Tapinoma onaele' discovered?",
+    "options": [
+      "Western Ghats",
+      "Arunachal Pradesh",
+      "Meghalaya",
+      "Assam"
+    ],
+    "answer": "Western Ghats"
+  },
+  {
+    "question": "What is the scientific name of the newly discovered Indo-Burmese pangolin?",
+    "options": [
+      "Manis indoburmanica",
+      "Manis indica",
+      "Tapinoma onaele",
+      "Channa nachi"
+    ],
+    "answer": "Manis indoburmanica"
+  },
+  {
+    "question": "The newly discovered Indo-Burmese pangolin was found in which state?",
+    "options": [
+      "Arunachal Pradesh",
+      "Assam",
+      "Meghalaya",
+      "Kerala"
+    ],
+    "answer": "Arunachal Pradesh"
+  },
+  {
+    "question": "Which new goby fish species was discovered at Coringa Wildlife Sanctuary in Andhra Pradesh?",
+    "options": [
+      "Hemigobius hoevenii",
+      "Channa nachi",
+      "Amolops Shillong",
+      "Tapinoma onaele"
+    ],
+    "answer": "Hemigobius hoevenii"
+  },
+  {
+    "question": "Which newly discovered fish species was reported from Coringa Wildlife Sanctuary in Andhra Pradesh?",
+    "options": [
+      "Mugilogobius tigrinus",
+      "Manis indoburmanica",
+      "Leptobrachium aryatium",
+      "Uniyala keralensis"
+    ],
+    "answer": "Mugilogobius tigrinus"
+  },
+  {
+    "question": "The new fish species 'Hemigobius hoevenii' and 'Mugilogobius tigrinus' were discovered in which wildlife sanctuary?",
+    "options": [
+      "Coringa Wildlife Sanctuary",
+      "Shendurny Wildlife Sanctuary",
+      "Garbhanga Reserve Forest",
+      "Agasthyamala Biosphere Reserve"
+    ],
+    "answer": "Coringa Wildlife Sanctuary"
+  },
+  {
+    "question": "'Sheathia Rosemalayensis' is a newly discovered species of:",
+    "options": [
+      "Freshwater algae",
+      "Frog",
+      "Fish",
+      "Snakehead fish"
+    ],
+    "answer": "Freshwater algae"
+  },
+  {
+    "question": "Where was the freshwater algae species 'Sheathia Rosemalayensis' discovered?",
+    "options": [
+      "Western Ghats",
+      "Arunachal Pradesh",
+      "West Bengal",
+      "Assam"
+    ],
+    "answer": "Western Ghats"
+  },
+  {
+    "question": "What is the name of the newly identified plant species discovered in Kerala's Agasthyamala Biosphere Reserve?",
+    "options": [
+      "Uniyala keralensis",
+      "Sheathia Rosemalayensis",
+      "Epicoccum indicum",
+      "Amolops Shillong"
+    ],
+    "answer": "Uniyala keralensis"
+  },
+  {
+    "question": "Uniyala keralensis was discovered in which biosphere reserve?",
+    "options": [
+      "Agasthyamala Biosphere Reserve",
+      "Nilgiri Biosphere Reserve",
+      "Sundarbans Biosphere Reserve",
+      "Nokrek Biosphere Reserve"
+    ],
+    "answer": "Agasthyamala Biosphere Reserve"
+  },
+  {
+    "question": "What is the name of the newly discovered snakehead fish species found in Meghalaya?",
+    "options": [
+      "Channa nachi",
+      "Mugilogobius tigrinus",
+      "Hemigobius hoevenii",
+      "Amolops Shillong"
+    ],
+    "answer": "Channa nachi"
+  },
+  {
+    "question": "The new snakehead fish species 'Channa nachi' was discovered in which state?",
+    "options": [
+      "Meghalaya",
+      "Assam",
+      "Kerala",
+      "Arunachal Pradesh"
+    ],
+    "answer": "Meghalaya"
+  },
+  {
+    "question": "What is the name of the new frog species discovered in Assam's Garbhanga Reserve Forest?",
+    "options": [
+      "Leptobrachium aryatium",
+      "Amolops Shillong",
+      "Channa nachi",
+      "Tapinoma onaele"
+    ],
+    "answer": "Leptobrachium aryatium"
+  },
+  {
+    "question": "Leptobrachium aryatium was discovered in which reserve forest?",
+    "options": [
+      "Garbhanga Reserve Forest",
+      "Shendurny Wildlife Sanctuary",
+      "Coringa Wildlife Sanctuary",
+      "Dampa Reserve Forest"
+    ],
+    "answer": "Garbhanga Reserve Forest"
+  },
+  {
+    "question": "Which new frog species was discovered in Meghalaya?",
+    "options": [
+      "Amolops Shillong",
+      "Leptobrachium aryatium",
+      "Channa nachi",
+      "Uniyala keralensis"
+    ],
+    "answer": "Amolops Shillong"
+  },
+  {
+    "question": "The newly discovered frog species 'Amolops Shillong' belongs to which state?",
+    "options": [
+      "Meghalaya",
+      "Assam",
+      "Kerala",
+      "West Bengal"
+    ],
+    "answer": "Meghalaya"
+  },
+  {
+    "question": "What is the name of the newly discovered phytopathogenic fungus associated with leaf spot disease in vetiver?",
+    "options": [
+      "Epicoccum indicum",
+      "Sheathia Rosemalayensis",
+      "Uniyala keralensis",
+      "Tapinoma onaele"
+    ],
+    "answer": "Epicoccum indicum"
+  },
+  {
+    "question": "Epicoccum indicum was discovered at which institution?",
+    "options": [
+      "Banaras Hindu University (BHU)",
+      "IIT Kharagpur",
+      "University of Calcutta",
+      "Kerala Agricultural University"
+    ],
+    "answer": "Banaras Hindu University (BHU)"
+  },
+  {
+    "question": "Epicoccum indicum is associated with leaf spot disease in which plant?",
+    "options": [
+      "Chrysopogon zizanioides (Vetiver)",
+      "Tea",
+      "Rice",
+      "Bamboo"
+    ],
+    "answer": "Chrysopogon zizanioides (Vetiver)"
+  },
+  {
+    "question": "The first record of the genus 'Epidelaxia' in India was reported from which region?",
+    "options": [
+      "Western Ghats",
+      "Eastern Himalayas",
+      "Arunachal Pradesh",
+      "Sundarbans"
+    ],
+    "answer": "Western Ghats"
+  },
+  {
+    "question": "Which newly recorded species belongs to the Epidelaxia genus in India?",
+    "options": [
+      "Epidelaxia falciformis",
+      "Tapinoma onaele",
+      "Channa nachi",
+      "Amolops Shillong"
+    ],
+    "answer": "Epidelaxia falciformis"
+  },
+  {
+    "question": "Which newly discovered species is part of the first Indian record of the Epidelaxia genus?",
+    "options": [
+      "Epidelaxia palustris",
+      "Epicoccum indicum",
+      "Manis indoburmanica",
+      "Uniyala keralensis"
+    ],
+    "answer": "Epidelaxia palustris"
+  },
+  {
+    "question": "The first Indian record of the Epidelaxia genus was reported from which wildlife sanctuary?",
+    "options": [
+      "Shendurny Wildlife Sanctuary",
+      "Coringa Wildlife Sanctuary",
+      "Periyar Wildlife Sanctuary",
+      "Wayanad Wildlife Sanctuary"
+    ],
+    "answer": "Shendurny Wildlife Sanctuary"
+  },
+  {
+    "question": "Shendurny Wildlife Sanctuary, where the Epidelaxia genus was recorded, is located in which state?",
+    "options": [
+      "Kerala",
+      "Karnataka",
+      "Tamil Nadu",
+      "Assam"
+    ],
+    "answer": "Kerala"
+  },
+  {
+    "question": "Which of the following is a microscopic parasitic wasp discovered in West Bengal?",
+    "options": [
+      "Idris bianor",
+      "Channa nachi",
+      "Tapinoma onaele",
+      "Manis indoburmanica"
+    ],
+    "answer": "Idris bianor"
+  },
+  {
+    "question": "Which newly discovered microscopic parasitic wasp was reported from West Bengal?",
+    "options": [
+      "Idris furvus",
+      "Hemigobius hoevenii",
+      "Amolops Shillong",
+      "Epicoccum indicum"
+    ],
+    "answer": "Idris furvus"
+  },
+  {
+    "question": "Which of the following microscopic parasitic wasps was discovered in West Bengal?",
+    "options": [
+      "Idris hyllus",
+      "Uniyala keralensis",
+      "Sheathia Rosemalayensis",
+      "Leptobrachium aryatium"
+    ],
+    "answer": "Idris hyllus"
+  },
+  {
+    "question": "Which newly discovered species belongs to the microscopic parasitic wasps found in West Bengal?",
+    "options": [
+      "Idris longiscapus",
+      "Mugilogobius tigrinus",
+      "Channa nachi",
+      "Epidelaxia palustris"
+    ],
+    "answer": "Idris longiscapus"
+  },
+  {
+    "question": "The species Idris bianor, Idris furvus, Idris hyllus, and Idris longiscapus belong to which group?",
+    "options": [
+      "Microscopic parasitic wasps",
+      "Freshwater algae",
+      "Snakehead fishes",
+      "Frogs"
+    ],
+    "answer": "Microscopic parasitic wasps"
+  }
+]
+}

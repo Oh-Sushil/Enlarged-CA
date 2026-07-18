@@ -1,0 +1,974 @@
+{
+"International": [
+  {
+    "question": "Which traditional love song of Bosnia received UNESCO Intangible Cultural Heritage recognition?",
+    "options": [
+      "Sevdalinka",
+      "Fado",
+      "Flamenco",
+      "Tango"
+    ],
+    "answer": "Sevdalinka"
+  },
+  {
+    "question": "Sevdalinka is also popularly known as:",
+    "options": [
+      "Balkan Blues",
+      "Bosnian Waltz",
+      "Danube Melody",
+      "Adriatic Ballad"
+    ],
+    "answer": "Balkan Blues"
+  },
+  {
+    "question": "Which country became the 10th full member of BRICS?",
+    "options": [
+      "Indonesia",
+      "Nigeria",
+      "Vietnam",
+      "Algeria"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "Where is the headquarters of BRICS located according to the note?",
+    "options": [
+      "Shanghai",
+      "Beijing",
+      "Moscow",
+      "Brasilia"
+    ],
+    "answer": "Shanghai"
+  },
+  {
+    "question": "Which country became the 9th BRICS Partner Country?",
+    "options": [
+      "Nigeria",
+      "Indonesia",
+      "Vietnam",
+      "Algeria"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Which country was declared the 45th malaria-free country by WHO?",
+    "options": [
+      "Georgia",
+      "Uganda",
+      "Niger",
+      "Suriname"
+    ],
+    "answer": "Georgia"
+  },
+  {
+    "question": "Which country eradicated the gambiense form of Human African Trypanosomiasis (HAT) as a public health problem?",
+    "options": [
+      "Guinea",
+      "Niger",
+      "Mali",
+      "Chad"
+    ],
+    "answer": "Guinea"
+  },
+  {
+    "question": "Human African Trypanosomiasis (HAT) is commonly known as:",
+    "options": [
+      "Sleeping Sickness",
+      "River Blindness",
+      "Yellow Fever",
+      "Black Fever"
+    ],
+    "answer": "Sleeping Sickness"
+  },
+  {
+    "question": "Human African Trypanosomiasis is endemic mainly in which region?",
+    "options": [
+      "Sub-Saharan Africa",
+      "South America",
+      "Central Asia",
+      "North Africa"
+    ],
+    "answer": "Sub-Saharan Africa"
+  },
+  {
+    "question": "Which country became the first in Africa to eliminate Onchocerciasis (River Blindness)?",
+    "options": [
+      "Niger",
+      "Nigeria",
+      "Uganda",
+      "Benin"
+    ],
+    "answer": "Niger"
+  },
+  {
+    "question": "Onchocerciasis is also known as:",
+    "options": [
+      "River Blindness",
+      "Sleeping Sickness",
+      "Dengue Fever",
+      "Yellow Fever"
+    ],
+    "answer": "River Blindness"
+  },
+  {
+    "question": "Which parasite causes Onchocerciasis?",
+    "options": [
+      "Onchocerca volvulus",
+      "Trypanosoma gambiense",
+      "Plasmodium falciparum",
+      "Leishmania donovani"
+    ],
+    "answer": "Onchocerca volvulus"
+  },
+  {
+    "question": "Onchocerciasis is transmitted through bites of infected:",
+    "options": [
+      "Black flies",
+      "Mosquitoes",
+      "Ticks",
+      "Sand flies"
+    ],
+    "answer": "Black flies"
+  },
+  {
+    "question": "Onchocerciasis is the second leading infectious cause of blindness worldwide after:",
+    "options": [
+      "Trachoma",
+      "Cataract",
+      "Glaucoma",
+      "Malaria"
+    ],
+    "answer": "Trachoma"
+  },
+  {
+    "question": "Which three countries officially withdrew from ECOWAS?",
+    "options": [
+      "Mali, Burkina Faso and Niger",
+      "Guinea, Mali and Niger",
+      "Chad, Mali and Burkina Faso",
+      "Benin, Mali and Niger"
+    ],
+    "answer": "Mali, Burkina Faso and Niger"
+  },
+  {
+    "question": "ECOWAS stands for:",
+    "options": [
+      "Economic Community of West African States",
+      "Economic Council of West African States",
+      "Eastern Community of West African States",
+      "Economic Cooperation of World African States"
+    ],
+    "answer": "Economic Community of West African States"
+  },
+  {
+    "question": "Which country became the first Latin American nation to exit China's Belt and Road Initiative (BRI)?",
+    "options": [
+      "Panama",
+      "Brazil",
+      "Colombia",
+      "Argentina"
+    ],
+    "answer": "Panama"
+  },
+  {
+    "question": "Which rocket was launched by Russia carrying military satellites?",
+    "options": [
+      "Soyuz-2v",
+      "Angara-A5",
+      "Proton-M",
+      "Soyuz-FG"
+    ],
+    "answer": "Soyuz-2v"
+  },
+  {
+    "question": "Which Chinese mission's crew produced oxygen and rocket fuel in space through artificial photosynthesis?",
+    "options": [
+      "Shenzhou-19",
+      "Shenzhou-18",
+      "Chang'e-7",
+      "Tiangong-3"
+    ],
+    "answer": "Shenzhou-19"
+  },
+  {
+    "question": "What is Shahid Bagheri?",
+    "options": [
+      "Iran's first drone carrier warship",
+      "Iran's first nuclear submarine",
+      "Iran's aircraft carrier",
+      "Iran's missile destroyer"
+    ],
+    "answer": "Iran's first drone carrier warship"
+  },
+  {
+    "question": "Chang'e-8 is a planned lunar mission of which country?",
+    "options": [
+      "China",
+      "Japan",
+      "Russia",
+      "India"
+    ],
+    "answer": "China"
+  },
+  {
+    "question": "Chang'e-8 is scheduled for launch in which year?",
+    "options": [
+      "2028",
+      "2027",
+      "2030",
+      "2029"
+    ],
+    "answer": "2028"
+  },
+  {
+    "question": "Chang'e-8 will focus on exploring which region of the Moon?",
+    "options": [
+      "South Pole",
+      "North Pole",
+      "Sea of Tranquility",
+      "Far Side"
+    ],
+    "answer": "South Pole"
+  },
+  {
+    "question": "Which country joined the OPEC+ group of major oil-exporting nations?",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Mexico",
+      "Colombia"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "question": "Which airport was named the World's Best Airport in 2025?",
+    "options": [
+      "Changi Airport",
+      "Incheon Airport",
+      "Hamad Airport",
+      "Narita Airport"
+    ],
+    "answer": "Changi Airport"
+  },
+  {
+    "question": "Changi Airport is located in which country?",
+    "options": [
+      "Singapore",
+      "Malaysia",
+      "Thailand",
+      "Indonesia"
+    ],
+    "answer": "Singapore"
+  },
+  {
+    "question": "The BIMSTEC Meeting on Agriculture was held in which city?",
+    "options": [
+      "Kathmandu",
+      "Dhaka",
+      "Bangkok",
+      "Colombo"
+    ],
+    "answer": "Kathmandu"
+  },
+  {
+    "question": "The BIMSTEC Meeting on Agriculture was hosted by which country?",
+    "options": [
+      "Nepal",
+      "India",
+      "Thailand",
+      "Bangladesh"
+    ],
+    "answer": "Nepal"
+  },
+  {
+    "question": "Where was the Mobile World Congress 2025 held?",
+    "options": [
+      "Barcelona",
+      "Madrid",
+      "Paris",
+      "Berlin"
+    ],
+    "answer": "Barcelona"
+  },
+  {
+    "question": "In which country was Mobile World Congress 2025 held?",
+    "options": [
+      "Spain",
+      "Portugal",
+      "France",
+      "Italy"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "question": "What was the theme of Mobile World Congress 2025?",
+    "options": [
+      "Converge. Connect. Create.",
+      "Innovate. Connect. Grow.",
+      "Future Through Technology.",
+      "Digital World Ahead."
+    ],
+    "answer": "Converge. Connect. Create."
+  },
+  {
+    "question": "Which two countries were banned by FIFA from the 2026 FIFA World Cup?",
+    "options": [
+      "Russia and Congo",
+      "Russia and Belarus",
+      "Congo and Sudan",
+      "Russia and Iran"
+    ],
+    "answer": "Russia and Congo"
+  },
+  {
+    "question": "The 2026 FIFA World Cup will be jointly hosted by which countries?",
+    "options": [
+      "USA, Canada and Mexico",
+      "USA, Brazil and Mexico",
+      "Canada, Mexico and Costa Rica",
+      "USA, Canada and England"
+    ],
+    "answer": "USA, Canada and Mexico"
+  },
+  {
+    "question": "Which country became the 11th member of the BRICS-backed New Development Bank (NDB)?",
+    "options": [
+      "Indonesia",
+      "Vietnam",
+      "Nigeria",
+      "Algeria"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "What percentage of UNESCO's budget was associated with the USA before it left?",
+    "options": [
+      "8%",
+      "10%",
+      "12%",
+      "15%"
+    ],
+    "answer": "8%"
+  },
+  {
+    "question": "What does 'Shinkansen' refer to?",
+    "options": [
+      "Japan's high-speed rail technology",
+      "Japan's lunar mission",
+      "Japan's bullet submarine",
+      "Japan's AI platform"
+    ],
+    "answer": "Japan's high-speed rail technology"
+  },
+  {
+    "question": "What is the top speed mentioned for Shinkansen?",
+    "options": [
+      "320 km/h",
+      "300 km/h",
+      "350 km/h",
+      "280 km/h"
+    ],
+    "answer": "320 km/h"
+  },
+  {
+    "question": "Which country declared an end to the Ebola Sudan Virus outbreak?",
+    "options": [
+      "Uganda",
+      "Kenya",
+      "Tanzania",
+      "Rwanda"
+    ],
+    "answer": "Uganda"
+  },
+  {
+    "question": "Which country withdrew from UNESCO?",
+    "options": [
+      "Nicaragua",
+      "Panama",
+      "Colombia",
+      "Venezuela"
+    ],
+    "answer": "Nicaragua"
+  },
+  {
+    "question": "The RIMES Ministerial Conference was hosted in which city?",
+    "options": [
+      "Colombo",
+      "Kathmandu",
+      "Dhaka",
+      "Male"
+    ],
+    "answer": "Colombo"
+  },
+  {
+    "question": "Which country hosted the RIMES Ministerial Conference?",
+    "options": [
+      "Sri Lanka",
+      "India",
+      "Nepal",
+      "Bangladesh"
+    ],
+    "answer": "Sri Lanka"
+  },
+  {
+    "question": "Which glacier in Nepal was declared 'dead'?",
+    "options": [
+      "Yala Glacier",
+      "Khumbu Glacier",
+      "Langtang Glacier",
+      "Ngozumpa Glacier"
+    ],
+    "answer": "Yala Glacier"
+  },
+  {
+    "question": "Yala Glacier is located in which valley?",
+    "options": [
+      "Langtang Valley",
+      "Kathmandu Valley",
+      "Everest Valley",
+      "Annapurna Valley"
+    ],
+    "answer": "Langtang Valley"
+  },
+  {
+    "question": "WHO declared a polio outbreak in which country due to cVDPV2 detection?",
+    "options": [
+      "Papua New Guinea",
+      "Fiji",
+      "Solomon Islands",
+      "Vanuatu"
+    ],
+    "answer": "Papua New Guinea"
+  },
+  {
+    "question": "The cVDPV2 poliovirus was detected in which city of Papua New Guinea?",
+    "options": [
+      "Lae",
+      "Port Moresby",
+      "Madang",
+      "Wewak"
+    ],
+    "answer": "Lae"
+  },
+  {
+    "question": "Which country officially joined the BRICS-backed NDB as a new member?",
+    "options": [
+      "Algeria",
+      "Nigeria",
+      "Tunisia",
+      "Morocco"
+    ],
+    "answer": "Algeria"
+  },
+  {
+    "question": "What is the name of the missile defense initiative planned by the USA by 2029?",
+    "options": [
+      "Golden Dome",
+      "Silver Shield",
+      "Iron Horizon",
+      "Liberty Guard"
+    ],
+    "answer": "Golden Dome"
+  },
+  {
+    "question": "Which country became the 10th BRICS Partner Country?",
+    "options": [
+      "Vietnam",
+      "Indonesia",
+      "Nigeria",
+      "Algeria"
+    ],
+    "answer": "Vietnam"
+  },
+  {
+    "question": "UNFCCC 2025 was held in which city?",
+    "options": [
+      "Bonn",
+      "Berlin",
+      "Geneva",
+      "Brussels"
+    ],
+    "answer": "Bonn"
+  },
+  {
+    "question": "UNFCCC 2025 was hosted by which country?",
+    "options": [
+      "Germany",
+      "France",
+      "Switzerland",
+      "Austria"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "question": "Which country became the first Amazon nation to receive WHO Malaria-Free Certification?",
+    "options": [
+      "Suriname",
+      "Brazil",
+      "Peru",
+      "Colombia"
+    ],
+    "answer": "Suriname"
+  },
+  {
+    "question": "Which African country achieved WHO Gold Tier status in ending HIV transmission?",
+    "options": [
+      "Botswana",
+      "South Africa",
+      "Namibia",
+      "Kenya"
+    ],
+    "answer": "Botswana"
+  },
+  {
+    "question": "Which two countries joined the BRICS-backed NDB as new members according to the note?",
+    "options": [
+      "Colombia and Uzbekistan",
+      "Colombia and Vietnam",
+      "Uzbekistan and Algeria",
+      "Nigeria and Uzbekistan"
+    ],
+    "answer": "Colombia and Uzbekistan"
+  },
+  {
+    "question": "By which year does Russia plan to build a nuclear power plant on the Moon?",
+    "options": [
+      "2036",
+      "2030",
+      "2035",
+      "2040"
+    ],
+    "answer": "2036"
+  },
+  {
+    "question": "Who discovered regulatory T cells (Tregs)?",
+    "options": [
+      "Shimon Sakaguchi",
+      "Tasuku Honjo",
+      "Yoshinori Ohsumi",
+      "Akira Endo"
+    ],
+    "answer": "Shimon Sakaguchi"
+  },
+  {
+    "question": "Shimon Sakaguchi belongs to which country?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Singapore"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "question": "Which countries are collectively known as the 'Cotton Four'?",
+    "options": [
+      "Benin, Burkina Faso, Chad and Mali",
+      "Mali, Niger, Chad and Sudan",
+      "Benin, Togo, Mali and Niger",
+      "Burkina Faso, Ghana, Chad and Mali"
+    ],
+    "answer": "Benin, Burkina Faso, Chad and Mali"
+  }, 
+  {
+    "question": "Which country became the first to achieve 'Triple Elimination' of mother-to-child transmission of HIV, Syphilis, and Hepatitis B?",
+    "options": [
+      "Maldives",
+      "Sri Lanka",
+      "Bangladesh",
+      "Nepal"
+    ],
+    "answer": "Maldives"
+  },
+  {
+    "question": "The 'Triple Elimination' achieved by Maldives includes prevention of mother-to-child transmission of which diseases?",
+    "options": [
+      "HIV, Syphilis and Hepatitis B",
+      "HIV, Tuberculosis and Hepatitis B",
+      "Malaria, HIV and Syphilis",
+      "Hepatitis A, HIV and Syphilis"
+    ],
+    "answer": "HIV, Syphilis and Hepatitis B"
+  },
+  {
+    "question": "What is e-krona?",
+    "options": [
+      "Sweden's government-backed digital currency",
+      "Norway's digital currency",
+      "Finland's cryptocurrency",
+      "Denmark's virtual payment system"
+    ],
+    "answer": "Sweden's government-backed digital currency"
+  },
+  {
+    "question": "Which country became the world's first cashless country?",
+    "options": [
+      "Sweden",
+      "Norway",
+      "Finland",
+      "Denmark"
+    ],
+    "answer": "Sweden"
+  },
+  {
+    "question": "Which South Asian country became the 56th member of the UN Water Convention?",
+    "options": [
+      "Bangladesh",
+      "Nepal",
+      "Sri Lanka",
+      "Bhutan"
+    ],
+    "answer": "Bangladesh"
+  },
+  {
+    "question": "Bangladesh became which numbered member of the UN Water Convention globally?",
+    "options": [
+      "56th",
+      "55th",
+      "57th",
+      "58th"
+    ],
+    "answer": "56th"
+  },
+  {
+    "question": "What is the currency of Oman?",
+    "options": [
+      "Rial",
+      "Dinar",
+      "Dirham",
+      "Toman"
+    ],
+    "answer": "Rial"
+  },
+  {
+    "question": "Where was the G20 Leaders' Summit held?",
+    "options": [
+      "Johannesburg",
+      "Cape Town",
+      "Pretoria",
+      "Durban"
+    ],
+    "answer": "Johannesburg"
+  },
+  {
+    "question": "The G20 Leaders' Summit was hosted by which country?",
+    "options": [
+      "South Africa",
+      "Brazil",
+      "Argentina",
+      "Australia"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "question": "What was the theme of the G20 Leaders' Summit in Johannesburg?",
+    "options": [
+      "Solidarity, Equality, Sustainability",
+      "One Earth, One Family, One Future",
+      "Global Prosperity Through Unity",
+      "People, Peace and Planet"
+    ],
+    "answer": "Solidarity, Equality, Sustainability"
+  },
+  {
+    "question": "Which country was officially declared polio-free by WHO?",
+    "options": [
+      "Indonesia",
+      "Malaysia",
+      "Philippines",
+      "Thailand"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "The Nepalese Rupee 100 note depicts which disputed territories as part of Nepal?",
+    "options": [
+      "Kalapani, Lipulekh and Limpiyadhura",
+      "Mustang, Dolpa and Humla",
+      "Janakpur, Birgunj and Nepalgunj",
+      "Pokhara, Lumbini and Dharan"
+    ],
+    "answer": "Kalapani, Lipulekh and Limpiyadhura"
+  },
+  {
+    "question": "Which country became the 107th member of the International Solar Alliance (ISA)?",
+    "options": [
+      "Moldova",
+      "Romania",
+      "Georgia",
+      "Ukraine"
+    ],
+    "answer": "Moldova"
+  },
+  {
+    "question": "The Talaud Islands belong to which country?",
+    "options": [
+      "Indonesia",
+      "Philippines",
+      "Malaysia",
+      "Brunei"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "Hayli Gubbi volcano is located in which country?",
+    "options": [
+      "Ethiopia",
+      "Kenya",
+      "Uganda",
+      "Tanzania"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "question": "After approximately how many years did the Hayli Gubbi volcano erupt again?",
+    "options": [
+      "12,000 years",
+      "10,000 years",
+      "15,000 years",
+      "8,000 years"
+    ],
+    "answer": "12,000 years"
+  },
+  {
+    "question": "Which country launched Southeast Asia's first Coral Larvae Cryobank?",
+    "options": [
+      "Philippines",
+      "Indonesia",
+      "Malaysia",
+      "Thailand"
+    ],
+    "answer": "Philippines"
+  },
+  {
+    "question": "Which country became the 90th member of IUCN?",
+    "options": [
+      "Tuvalu",
+      "Kiribati",
+      "Nauru",
+      "Samoa"
+    ],
+    "answer": "Tuvalu"
+  },
+  {
+    "question": "Cyclone Montha was named by which country?",
+    "options": [
+      "Thailand",
+      "Myanmar",
+      "Bangladesh",
+      "Sri Lanka"
+    ],
+    "answer": "Thailand"
+  },
+  {
+    "question": "According to the UN World Urbanization Prospect 2025 report, which city became the world's most populous city?",
+    "options": [
+      "Jakarta",
+      "Dhaka",
+      "Tokyo",
+      "Mumbai"
+    ],
+    "answer": "Jakarta"
+  },
+  {
+    "question": "Jakarta is located in which country?",
+    "options": [
+      "Indonesia",
+      "Malaysia",
+      "Philippines",
+      "Thailand"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "Jakarta surpassed which city to become the world's most populous city?",
+    "options": [
+      "Dhaka",
+      "Tokyo",
+      "Delhi",
+      "Shanghai"
+    ],
+    "answer": "Dhaka"
+  },
+  {
+    "question": "The Israel-Hamas peace plan was signed in which Egyptian city?",
+    "options": [
+      "Sharm El-Sheikh",
+      "Cairo",
+      "Alexandria",
+      "Luxor"
+    ],
+    "answer": "Sharm El-Sheikh"
+  },
+  {
+    "question": "Which country returned the Chagos Islands to Mauritius?",
+    "options": [
+      "United Kingdom",
+      "France",
+      "Portugal",
+      "Spain"
+    ],
+    "answer": "United Kingdom"
+  },
+  {
+    "question": "Which country became the first to criminalize AI-generated child abuse content?",
+    "options": [
+      "United Kingdom",
+      "United States",
+      "Canada",
+      "Australia"
+    ],
+    "answer": "United Kingdom"
+  },
+  {
+    "question": "Which rocket was launched by Russia from the Vostochny Spaceport carrying 52 satellites?",
+    "options": [
+      "Soyuz-2.1b",
+      "Soyuz-2v",
+      "Angara-A5",
+      "Proton-M"
+    ],
+    "answer": "Soyuz-2.1b"
+  },
+  {
+    "question": "From which spaceport was the Soyuz-2.1b rocket launched?",
+    "options": [
+      "Vostochny Spaceport",
+      "Baikonur Cosmodrome",
+      "Plesetsk Cosmodrome",
+      "Kapustin Yar"
+    ],
+    "answer": "Vostochny Spaceport"
+  },
+  {
+    "question": "How many satellites were carried by the Soyuz-2.1b rocket launch?",
+    "options": [
+      "52",
+      "48",
+      "50",
+      "55"
+    ],
+    "answer": "52"
+  },
+  {
+    "question": "Which satellite among the payload had a mass of 150 kg?",
+    "options": [
+      "Paya",
+      "Kowsar",
+      "Zafar-2",
+      "Pars-1"
+    ],
+    "answer": "Paya"
+  },
+  {
+    "question": "Which satellite among the payload had a mass of 35 kg?",
+    "options": [
+      "Kowsar",
+      "Paya",
+      "Zafar-2",
+      "Pars-1"
+    ],
+    "answer": "Kowsar"
+  },
+  {
+    "question": "WHO declared Rubella eliminated as a public health problem in which country?",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Sri Lanka",
+      "Bangladesh"
+    ],
+    "answer": "Nepal"
+  },
+  {
+    "question": "Rubella is commonly known as:",
+    "options": [
+      "German Measles",
+      "Scarlet Fever",
+      "Chickenpox",
+      "Mumps"
+    ],
+    "answer": "German Measles"
+  },
+  {
+    "question": "Rubella poses serious risks particularly to:",
+    "options": [
+      "Pregnant women",
+      "Elderly people",
+      "Athletes",
+      "Teenagers"
+    ],
+    "answer": "Pregnant women"
+  },
+  {
+    "question": "Which of the following is a birth defect associated with Rubella according to the note?",
+    "options": [
+      "Deafness",
+      "Diabetes",
+      "Asthma",
+      "Arthritis"
+    ],
+    "answer": "Deafness"
+  },
+  {
+    "question": "Which of the following birth defects is linked with Rubella infection during pregnancy?",
+    "options": [
+      "Cardiac defects",
+      "Kidney stones",
+      "Hypertension",
+      "Migraine"
+    ],
+    "answer": "Cardiac defects"
+  },
+  {
+    "question": "Rubella infection during pregnancy can also lead to:",
+    "options": [
+      "Cataracts",
+      "Tuberculosis",
+      "Malaria",
+      "Anemia"
+    ],
+    "answer": "Cataracts"
+  },
+  {
+    "question": "Which neurological complication mentioned in the note can result from Rubella infection?",
+    "options": [
+      "Neurologic impairment",
+      "Parkinsonism",
+      "Epilepsy",
+      "Alzheimer's disease"
+    ],
+    "answer": "Neurologic impairment"
+  },
+  {
+    "question": "What is the name of China's fastest high-speed train unveiled recently?",
+    "options": [
+      "CR450",
+      "CR400",
+      "Fuxing Max",
+      "Dragon Express"
+    ],
+    "answer": "CR450"
+  },
+  {
+    "question": "What is the top speed of China's CR450 high-speed train?",
+    "options": [
+      "450 km/h",
+      "400 km/h",
+      "420 km/h",
+      "500 km/h"
+    ],
+    "answer": "450 km/h"
+  },
+  {
+    "question": "Compared to previous models, the CR450 consumes approximately how much less energy?",
+    "options": [
+      "20%",
+      "15%",
+      "25%",
+      "10%"
+    ],
+    "answer": "20%"
+  }
+]
+}

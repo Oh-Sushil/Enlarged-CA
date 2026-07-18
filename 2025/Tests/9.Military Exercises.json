@@ -1,0 +1,1534 @@
+{
+"Military Exercises": [
+  {
+    "question": "Exercise Harimau Shakti is a joint military exercise between India and which country?",
+    "options": [
+      "Malaysia",
+      "Indonesia",
+      "Singapore",
+      "Thailand"
+    ],
+    "answer": "Malaysia"
+  },
+  {
+    "question": "The 5th edition of Exercise Harimau Shakti was conducted in which Indian state?",
+    "options": [
+      "Rajasthan",
+      "Kerala",
+      "Uttarakhand",
+      "Himachal Pradesh"
+    ],
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "Exercise Aqueryant 25 was conducted between India and which country?",
+    "options": [
+      "Maldives",
+      "Nepal",
+      "Sri Lanka",
+      "Bangladesh"
+    ],
+    "answer": "Maldives"
+  },
+  {
+    "question": "Exercise Aqueryant 25 was held at which location?",
+    "options": [
+      "Thiruvananthapuram, Kerala",
+      "Male, Maldives",
+      "Visakhapatnam, Andhra Pradesh",
+      "Kochi, Kerala"
+    ],
+    "answer": "Thiruvananthapuram, Kerala"
+  },
+  {
+    "question": "Exercise Toot 25 was conducted between India and which country?",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Myanmar",
+      "Bangladesh"
+    ],
+    "answer": "Nepal"
+  },
+  {
+    "question": "Exercise Toot 25 was conducted in which Indian state?",
+    "options": [
+      "Uttarakhand",
+      "Rajasthan",
+      "Sikkim",
+      "Arunachal Pradesh"
+    ],
+    "answer": "Uttarakhand"
+  },
+  {
+    "question": "Exercise Ekta is a joint military exercise between India and which country?",
+    "options": [
+      "Maldives",
+      "Mauritius",
+      "Indonesia",
+      "France"
+    ],
+    "answer": "Maldives"
+  },
+  {
+    "question": "Exercise Desert Cyclone 2 was conducted between India and which country?",
+    "options": [
+      "UAE",
+      "Egypt",
+      "Saudi Arabia",
+      "Oman"
+    ],
+    "answer": "UAE"
+  },
+  {
+    "question": "Exercise Desert Cyclone 2 was conducted in which city?",
+    "options": [
+      "Abu Dhabi",
+      "Dubai",
+      "Riyadh",
+      "Cairo"
+    ],
+    "answer": "Abu Dhabi"
+  },
+  {
+    "question": "Garuda Shakti 2025 is a joint military exercise between India and which country?",
+    "options": [
+      "Indonesia",
+      "France",
+      "Singapore",
+      "Japan"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "Garuda Shakti 2025 was conducted in which Indian state?",
+    "options": [
+      "Himachal Pradesh",
+      "Rajasthan",
+      "Goa",
+      "Punjab"
+    ],
+    "answer": "Himachal Pradesh"
+  },
+  {
+    "question": "Exercise Garuda 2025 is a joint air exercise between India and which country?",
+    "options": [
+      "France",
+      "Russia",
+      "USA",
+      "Australia"
+    ],
+    "answer": "France"
+  },
+  {
+    "question": "Exercise Garuda 2025 was conducted in which country?",
+    "options": [
+      "France",
+      "India",
+      "Japan",
+      "Germany"
+    ],
+    "answer": "France"
+  },
+  {
+    "question": "Malabar Exercise 2025 involves which group of countries?",
+    "options": [
+      "India, USA, Australia and Japan",
+      "India, France, Russia and Japan",
+      "India, UK, USA and Australia",
+      "India, Nepal, Bhutan and Bangladesh"
+    ],
+    "answer": "India, USA, Australia and Japan"
+  },
+  {
+    "question": "Malabar Exercise 2025 was conducted at which location?",
+    "options": [
+      "Goa",
+      "Chennai",
+      "Mumbai",
+      "Visakhapatnam"
+    ],
+    "answer": "Goa"
+  },
+  {
+    "question": "Mitra Shakti 2025 is a joint military exercise between India and which country?",
+    "options": [
+      "Sri Lanka",
+      "Maldives",
+      "Thailand",
+      "Vietnam"
+    ],
+    "answer": "Sri Lanka"
+  },
+  {
+    "question": "Mitra Shakti 2025 was conducted in which Indian state?",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu",
+      "Maharashtra"
+    ],
+    "answer": "Karnataka"
+  },
+  {
+    "question": "VINBAX 2025 is a joint military exercise between India and which country?",
+    "options": [
+      "Vietnam",
+      "Indonesia",
+      "Malaysia",
+      "Myanmar"
+    ],
+    "answer": "Vietnam"
+  },
+  {
+    "question": "VINBAX 2025 was held in which city?",
+    "options": [
+      "Hanoi",
+      "Ho Chi Minh City",
+      "Da Nang",
+      "Jakarta"
+    ],
+    "answer": "Hanoi"
+  },
+  {
+    "question": "Exercise Ajeya Warrior 2025 is conducted between India and which country?",
+    "options": [
+      "United Kingdom",
+      "USA",
+      "France",
+      "Australia"
+    ],
+    "answer": "United Kingdom"
+  },
+  {
+    "question": "Exercise Ajeya Warrior 2025 was conducted in which Indian state?",
+    "options": [
+      "Rajasthan",
+      "Punjab",
+      "Gujarat",
+      "Haryana"
+    ],
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "Exercise Austrahind 2025 is a joint military exercise between India and which country?",
+    "options": [
+      "Australia",
+      "Austria",
+      "USA",
+      "Japan"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "question": "Exercise Austrahind 2025 was conducted in which country?",
+    "options": [
+      "Australia",
+      "India",
+      "Japan",
+      "Singapore"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "question": "Samudra Shakti 2025 is a naval exercise between India and which country?",
+    "options": [
+      "Indonesia",
+      "Thailand",
+      "Sri Lanka",
+      "Vietnam"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "Samudra Shakti 2025 was conducted at which Indian port city?",
+    "options": [
+      "Visakhapatnam",
+      "Mumbai",
+      "Chennai",
+      "Kochi"
+    ],
+    "answer": "Visakhapatnam"
+  },
+  {
+    "question": "INRO-N 2025 was conducted between Indian Navy and which country's Navy?",
+    "options": [
+      "South Korea",
+      "Japan",
+      "France",
+      "USA"
+    ],
+    "answer": "South Korea"
+  },
+  {
+    "question": "JEMX 25 is a maritime exercise between India and which country?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Vietnam"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "question": "Exercise Kokan 2025 is a naval exercise between India and which country?",
+    "options": [
+      "United Kingdom",
+      "France",
+      "Russia",
+      "Australia"
+    ],
+    "answer": "United Kingdom"
+  },
+  {
+    "question": "Exercise Kokan 2025 was conducted at which location?",
+    "options": [
+      "Mumbai",
+      "Goa",
+      "Chennai",
+      "Kochi"
+    ],
+    "answer": "Mumbai"
+  },
+  {
+    "question": "Exercise Yudh Abhyas 2025 is conducted between India and which country?",
+    "options": [
+      "USA",
+      "UK",
+      "Russia",
+      "Japan"
+    ],
+    "answer": "USA"
+  },
+  {
+    "question": "Exercise Yudh Abhyas 2025 was conducted in which location?",
+    "options": [
+      "Alaska",
+      "Hawaii",
+      "Texas",
+      "California"
+    ],
+    "answer": "Alaska"
+  }, 
+  {
+    "question": "Exercise Maitri 2025 is a joint military exercise between India and which country?",
+    "options": [
+      "Thailand",
+      "Myanmar",
+      "Indonesia",
+      "Vietnam"
+    ],
+    "answer": "Thailand"
+  },
+  {
+    "question": "Exercise Maitri 2025 was conducted in which Indian state?",
+    "options": [
+      "Meghalaya",
+      "Rajasthan",
+      "Kerala",
+      "Assam"
+    ],
+    "answer": "Meghalaya"
+  },
+  {
+    "question": "Exercise Bold Kurukshetra 2025 is conducted between India and which country?",
+    "options": [
+      "Singapore",
+      "Malaysia",
+      "Thailand",
+      "Indonesia"
+    ],
+    "answer": "Singapore"
+  },
+  {
+    "question": "Exercise Bold Kurukshetra 2025 was held in which Indian state?",
+    "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Punjab",
+      "Haryana"
+    ],
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "SIMBEX 2025 is a maritime exercise between India and which country?",
+    "options": [
+      "Singapore",
+      "Sri Lanka",
+      "Japan",
+      "Australia"
+    ],
+    "answer": "Singapore"
+  },
+  {
+    "question": "SIMBEX 2025 was conducted in which country?",
+    "options": [
+      "Singapore",
+      "India",
+      "Indonesia",
+      "Malaysia"
+    ],
+    "answer": "Singapore"
+  },
+  {
+    "question": "Exercise Shakti 8 2025 is a joint military exercise between India and which country?",
+    "options": [
+      "France",
+      "USA",
+      "UK",
+      "Germany"
+    ],
+    "answer": "France"
+  },
+  {
+    "question": "Exercise Shakti 8 2025 was conducted in which country?",
+    "options": [
+      "France",
+      "India",
+      "Japan",
+      "Russia"
+    ],
+    "answer": "France"
+  },
+  {
+    "question": "Exercise Nomadic Elephant is a joint military exercise between India and which country?",
+    "options": [
+      "Mongolia",
+      "Nepal",
+      "Bhutan",
+      "Kazakhstan"
+    ],
+    "answer": "Mongolia"
+  },
+  {
+    "question": "Exercise Nomadic Elephant 2025 was held in which city?",
+    "options": [
+      "Ulaanbaatar",
+      "Tokyo",
+      "Astana",
+      "Kathmandu"
+    ],
+    "answer": "Ulaanbaatar"
+  },
+  {
+    "question": "Exercise Dharma Guardian is conducted between India and which country?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Vietnam"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "question": "Exercise Dharma Guardian was conducted in which country?",
+    "options": [
+      "Japan",
+      "India",
+      "Nepal",
+      "Thailand"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "question": "Exercise Desert Cyclone 2025 was conducted between India and which country?",
+    "options": [
+      "Egypt",
+      "UAE",
+      "Saudi Arabia",
+      "Oman"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "question": "Exercise Desert Cyclone 2025 was conducted in which Indian state?",
+    "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Punjab",
+      "Maharashtra"
+    ],
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "AKAM exercise was conducted between India and which country?",
+    "options": [
+      "South Africa",
+      "Australia",
+      "France",
+      "Brazil"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "question": "AKAM exercise was conducted in which region?",
+    "options": [
+      "Indian Ocean",
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Pacific Ocean"
+    ],
+    "answer": "Indian Ocean"
+  },
+  {
+    "question": "Exercise Varuna is a naval exercise between India and which country?",
+    "options": [
+      "France",
+      "Russia",
+      "USA",
+      "Japan"
+    ],
+    "answer": "France"
+  },
+  {
+    "question": "Exercise Varuna 2025 was conducted in which water body?",
+    "options": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Indian Ocean",
+      "Pacific Ocean"
+    ],
+    "answer": "Arabian Sea"
+  },
+  {
+    "question": "Exercise Indra is a joint military exercise between India and which country?",
+    "options": [
+      "Russia",
+      "France",
+      "USA",
+      "China"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "question": "Exercise Indra was conducted at which locations?",
+    "options": [
+      "Chennai and Bay of Bengal",
+      "Mumbai and Arabian Sea",
+      "Goa and Indian Ocean",
+      "Kochi and Lakshadweep"
+    ],
+    "answer": "Chennai and Bay of Bengal"
+  },
+  {
+    "question": "Exercise Khanjar is a joint special forces exercise between India and which country?",
+    "options": [
+      "Kyrgyzstan",
+      "Uzbekistan",
+      "Mongolia",
+      "Tajikistan"
+    ],
+    "answer": "Kyrgyzstan"
+  },
+  {
+    "question": "Exercise Khanjar-XII commenced in which country?",
+    "options": [
+      "Kyrgyzstan",
+      "India",
+      "Uzbekistan",
+      "Kazakhstan"
+    ],
+    "answer": "Kyrgyzstan"
+  },
+  {
+    "question": "Tiger Triumph 2025 is a tri-service exercise between India and which country?",
+    "options": [
+      "USA",
+      "France",
+      "Russia",
+      "Japan"
+    ],
+    "answer": "USA"
+  },
+  {
+    "question": "Exercise Tiger Triumph 2025 was conducted in which Indian city?",
+    "options": [
+      "Visakhapatnam",
+      "Mumbai",
+      "Chennai",
+      "Kochi"
+    ],
+    "answer": "Visakhapatnam"
+  },
+  {
+    "question": "Exercise Dustlik 2025 is a joint military exercise between India and which country?",
+    "options": [
+      "Uzbekistan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Mongolia"
+    ],
+    "answer": "Uzbekistan"
+  },
+  {
+    "question": "Exercise Dustlik 2025 was conducted in which Indian city?",
+    "options": [
+      "Pune",
+      "Delhi",
+      "Jaipur",
+      "Lucknow"
+    ],
+    "answer": "Pune"
+  },
+  {
+    "question": "Exercise Surya Kiran is a joint military exercise between India and which country?",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Bangladesh",
+      "Myanmar"
+    ],
+    "answer": "Nepal"
+  },
+  {
+    "question": "Exercise Surya Kiran XIX was conducted in which Indian state?",
+    "options": [
+      "Uttarakhand",
+      "Sikkim",
+      "Arunachal Pradesh",
+      "Himachal Pradesh"
+    ],
+    "answer": "Uttarakhand"
+  },
+  {
+    "question": "TROPEX-2025 is conducted by which Indian force?",
+    "options": [
+      "Indian Navy",
+      "Indian Army",
+      "Indian Air Force",
+      "Indian Coast Guard"
+    ],
+    "answer": "Indian Navy"
+  },
+  {
+    "question": "The Theatre Level Operational Readiness Exercise (TROPEX-2025) was conducted in which region?",
+    "options": [
+      "Indian Ocean",
+      "Arabian Desert",
+      "Himalayan Region",
+      "Bay of Bengal"
+    ],
+    "answer": "Indian Ocean"
+  }, 
+  {
+    "question": "Exercise Ekuverin 2025 is a joint military exercise between India and which country?",
+    "options": [
+      "Maldives",
+      "Mauritius",
+      "Sri Lanka",
+      "Seychelles"
+    ],
+    "answer": "Maldives"
+  },
+  {
+    "question": "Exercise Ekuverin 2025 was conducted in which Indian state?",
+    "options": [
+      "Kerala",
+      "Goa",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "answer": "Kerala"
+  },
+  {
+    "question": "Exercise Harimau Shakti is conducted between India and which country?",
+    "options": [
+      "Malaysia",
+      "Indonesia",
+      "Thailand",
+      "Vietnam"
+    ],
+    "answer": "Malaysia"
+  },
+  {
+    "question": "Exercise Harimau Shakti 5th edition was conducted in which Indian state?",
+    "options": [
+      "Rajasthan",
+      "Punjab",
+      "Haryana",
+      "Gujarat"
+    ],
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "Exercise Aqueryant 25 is a joint military exercise between India and which country?",
+    "options": [
+      "Maldives",
+      "Sri Lanka",
+      "Nepal",
+      "Bangladesh"
+    ],
+    "answer": "Maldives"
+  },
+  {
+    "question": "Exercise Aqueryant 25 was conducted in which Indian city?",
+    "options": [
+      "Thiruvananthapuram",
+      "Kochi",
+      "Chennai",
+      "Visakhapatnam"
+    ],
+    "answer": "Thiruvananthapuram"
+  },
+  {
+    "question": "Exercise Toot 25 is a joint military exercise between India and which country?",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Myanmar",
+      "Bangladesh"
+    ],
+    "answer": "Nepal"
+  },
+  {
+    "question": "Exercise Toot 25 was conducted in which Indian state?",
+    "options": [
+      "Uttarakhand",
+      "Sikkim",
+      "Arunachal Pradesh",
+      "Himachal Pradesh"
+    ],
+    "answer": "Uttarakhand"
+  },
+  {
+    "question": "Exercise Ekta is a joint military exercise between India and which country?",
+    "options": [
+      "Maldives",
+      "Mauritius",
+      "Indonesia",
+      "Seychelles"
+    ],
+    "answer": "Maldives"
+  },
+  {
+    "question": "Exercise Ekta was conducted in which country?",
+    "options": [
+      "Maldives",
+      "India",
+      "Sri Lanka",
+      "Bangladesh"
+    ],
+    "answer": "Maldives"
+  },
+  {
+    "question": "Desert Cyclone 2 is a joint exercise between India and which country?",
+    "options": [
+      "UAE",
+      "Egypt",
+      "Saudi Arabia",
+      "Oman"
+    ],
+    "answer": "UAE"
+  },
+  {
+    "question": "Desert Cyclone 2 was conducted in which city?",
+    "options": [
+      "Abu Dhabi",
+      "Dubai",
+      "Riyadh",
+      "Cairo"
+    ],
+    "answer": "Abu Dhabi"
+  },
+  {
+    "question": "Garuda Shakti 2025 is a joint military exercise between India and which country?",
+    "options": [
+      "Indonesia",
+      "France",
+      "Singapore",
+      "Malaysia"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "Garuda Shakti 2025 was conducted in which Indian state?",
+    "options": [
+      "Himachal Pradesh",
+      "Rajasthan",
+      "Punjab",
+      "Kerala"
+    ],
+    "answer": "Himachal Pradesh"
+  },
+  {
+    "question": "Exercise Garuda is conducted between the Indian Air Force and which country's air force?",
+    "options": [
+      "France",
+      "Russia",
+      "USA",
+      "Japan"
+    ],
+    "answer": "France"
+  },
+  {
+    "question": "Exercise Garuda 2025 was conducted in which country?",
+    "options": [
+      "France",
+      "India",
+      "Germany",
+      "Italy"
+    ],
+    "answer": "France"
+  },
+  {
+    "question": "Malabar Exercise 2025 included which group of countries?",
+    "options": [
+      "India, USA, Australia and Japan",
+      "India, France, Russia and Japan",
+      "India, UK, USA and Canada",
+      "India, China, Japan and Australia"
+    ],
+    "answer": "India, USA, Australia and Japan"
+  },
+  {
+    "question": "Malabar Exercise 2025 was conducted at which location?",
+    "options": [
+      "Guam",
+      "Goa",
+      "Mumbai",
+      "Visakhapatnam"
+    ],
+    "answer": "Guam"
+  },
+  {
+    "question": "Exercise Mitra Shakti 2025 is a joint military exercise between India and which country?",
+    "options": [
+      "Sri Lanka",
+      "Nepal",
+      "Bangladesh",
+      "Thailand"
+    ],
+    "answer": "Sri Lanka"
+  },
+  {
+    "question": "Exercise Mitra Shakti 2025 was conducted in which Indian state?",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu",
+      "Maharashtra"
+    ],
+    "answer": "Karnataka"
+  },
+  {
+    "question": "VINBAX 2025 is a joint military exercise between India and which country?",
+    "options": [
+      "Vietnam",
+      "Indonesia",
+      "Thailand",
+      "Malaysia"
+    ],
+    "answer": "Vietnam"
+  },
+  {
+    "question": "VINBAX 2025 was conducted in which city?",
+    "options": [
+      "Hanoi",
+      "Ho Chi Minh City",
+      "Da Nang",
+      "Bangkok"
+    ],
+    "answer": "Hanoi"
+  },
+  {
+    "question": "Exercise Ajeya Warrior 2025 is conducted between India and which country?",
+    "options": [
+      "United Kingdom",
+      "USA",
+      "France",
+      "Australia"
+    ],
+    "answer": "United Kingdom"
+  },
+  {
+    "question": "Exercise Ajeya Warrior 2025 was conducted in which Indian state?",
+    "options": [
+      "Rajasthan",
+      "Punjab",
+      "Gujarat",
+      "Haryana"
+    ],
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "Exercise Austrahind 2025 is a joint military exercise between India and which country?",
+    "options": [
+      "Australia",
+      "Austria",
+      "USA",
+      "Japan"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "question": "Exercise Austrahind 2025 was conducted in which country?",
+    "options": [
+      "Australia",
+      "India",
+      "New Zealand",
+      "Indonesia"
+    ],
+    "answer": "Australia"
+  }, 
+  {
+    "question": "Exercise Samudra Shakti 2025 is a naval exercise between India and which country?",
+    "options": [
+      "Indonesia",
+      "Singapore",
+      "Sri Lanka",
+      "Japan"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "Exercise Samudra Shakti 2025 commenced from which Indian city?",
+    "options": [
+      "Visakhapatnam",
+      "Mumbai",
+      "Chennai",
+      "Kochi"
+    ],
+    "answer": "Visakhapatnam"
+  },
+  {
+    "question": "INRO-N 2025 was conducted between the Indian Navy and which country's Navy?",
+    "options": [
+      "South Korea",
+      "Japan",
+      "Vietnam",
+      "Indonesia"
+    ],
+    "answer": "South Korea"
+  },
+  {
+    "question": "Exercise Agni Prime is related to which type of missile?",
+    "options": [
+      "Intermediate-range missile",
+      "Surface-to-air missile",
+      "Anti-tank missile",
+      "Cruise missile"
+    ],
+    "answer": "Intermediate-range missile"
+  },
+  {
+    "question": "Agni Prime missile is capable of which type of launch?",
+    "options": [
+      "Rail launch",
+      "Submarine launch",
+      "Air launch",
+      "Space launch"
+    ],
+    "answer": "Rail launch"
+  },
+  {
+    "question": "JAIMAX 2025 is a maritime exercise between India and which country?",
+    "options": [
+      "Japan",
+      "France",
+      "USA",
+      "Australia"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "question": "JAIMAX 2025 was held in which country?",
+    "options": [
+      "Japan",
+      "India",
+      "South Korea",
+      "Singapore"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "question": "Exercise KONKAN 2025 is a naval exercise between India and which country?",
+    "options": [
+      "United Kingdom",
+      "France",
+      "USA",
+      "Australia"
+    ],
+    "answer": "United Kingdom"
+  },
+  {
+    "question": "Exercise KONKAN 2025 commenced off which coast of India?",
+    "options": [
+      "Western Coast",
+      "Eastern Coast",
+      "Southern Coast",
+      "Andaman Coast"
+    ],
+    "answer": "Western Coast"
+  },
+  {
+    "question": "Exercise Yudh Abhyas 2025 is conducted between India and which country?",
+    "options": [
+      "USA",
+      "Russia",
+      "UK",
+      "France"
+    ],
+    "answer": "USA"
+  },
+  {
+    "question": "Exercise Yudh Abhyas 2025 was conducted in which region?",
+    "options": [
+      "Alaska",
+      "California",
+      "Texas",
+      "Hawaii"
+    ],
+    "answer": "Alaska"
+  },
+  {
+    "question": "Exercise Mathri 2025 is a joint military exercise between India and which country?",
+    "options": [
+      "Thailand",
+      "Myanmar",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "answer": "Thailand"
+  },
+  {
+    "question": "Exercise Mathri 2025 was conducted in which Indian state?",
+    "options": [
+      "Meghalaya",
+      "Assam",
+      "Kerala",
+      "Nagaland"
+    ],
+    "answer": "Meghalaya"
+  },
+  {
+    "question": "Exercise Bolt Kurukshetra 2025 is conducted between India and which country?",
+    "options": [
+      "Singapore",
+      "Malaysia",
+      "Indonesia",
+      "Thailand"
+    ],
+    "answer": "Singapore"
+  },
+  {
+    "question": "Exercise Bolt Kurukshetra 2025 was held in which Indian city?",
+    "options": [
+      "Jodhpur",
+      "Jaipur",
+      "Delhi",
+      "Pune"
+    ],
+    "answer": "Jodhpur"
+  },
+  {
+    "question": "Exercise Desert Hunt 2025 was conducted by which Indian force?",
+    "options": [
+      "Tri-Force",
+      "Indian Navy",
+      "Indian Coast Guard",
+      "Border Security Force"
+    ],
+    "answer": "Tri-Force"
+  },
+  {
+    "question": "Exercise Desert Hunt 2025 was conducted in which Indian state?",
+    "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Punjab",
+      "Haryana"
+    ],
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "Exercise Khaan Quest is associated with India and which country?",
+    "options": [
+      "Mongolia",
+      "Japan",
+      "Nepal",
+      "Bhutan"
+    ],
+    "answer": "Mongolia"
+  },
+  {
+    "question": "Exercise Khaan Quest was conducted in which city?",
+    "options": [
+      "Ulaanbaatar",
+      "Tokyo",
+      "Kathmandu",
+      "Seoul"
+    ],
+    "answer": "Ulaanbaatar"
+  },
+  {
+    "question": "Exercise Bright Star 2025 was conducted in which country?",
+    "options": [
+      "Egypt",
+      "UAE",
+      "Saudi Arabia",
+      "Jordan"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "question": "Exercise Talisman Sabre 2025 was conducted in which country?",
+    "options": [
+      "Australia",
+      "USA",
+      "Japan",
+      "France"
+    ],
+    "answer": "Australia"
+  }, 
+  {
+    "question": "CORPAT and BONGOSAGAR exercises were conducted between India and which country?",
+    "options": [
+      "Bangladesh",
+      "Sri Lanka",
+      "Myanmar",
+      "Thailand"
+    ],
+    "answer": "Bangladesh"
+  },
+  {
+    "question": "CORPAT and BONGOSAGAR exercises were conducted in which water body?",
+    "options": [
+      "Bay of Bengal",
+      "Arabian Sea",
+      "Indian Ocean",
+      "Pacific Ocean"
+    ],
+    "answer": "Bay of Bengal"
+  },
+  {
+    "question": "Which Indian Navy ship participated in CORPAT and BONGOSAGAR exercises with Bangladesh?",
+    "options": [
+      "INS Ranvir",
+      "INS Vikrant",
+      "INS Jalashwa",
+      "INS Chennai"
+    ],
+    "answer": "INS Ranvir"
+  },
+  {
+    "question": "The P-8I Maritime Patrol Aircraft deployed by India is manufactured by which company?",
+    "options": [
+      "Boeing",
+      "Lockheed Martin",
+      "Dassault Aviation",
+      "Airbus"
+    ],
+    "answer": "Boeing"
+  },
+  {
+    "question": "Sea Dragon 2025 was conducted by India along with which group of countries?",
+    "options": [
+      "Japan, South Korea and Australia",
+      "USA, France and UK",
+      "Russia, China and Japan",
+      "Singapore, Malaysia and Thailand"
+    ],
+    "answer": "Japan, South Korea and Australia"
+  },
+  {
+    "question": "Exercise SARVSHAKTI was conducted by which Indian Army formation?",
+    "options": [
+      "Trishakti Corps",
+      "Desert Corps",
+      "Strike Corps",
+      "Mountain Corps"
+    ],
+    "answer": "Trishakti Corps"
+  },
+  {
+    "question": "Exercise AIKEYME was conducted between India and which country?",
+    "options": [
+      "Tanzania",
+      "South Africa",
+      "Kenya",
+      "Egypt"
+    ],
+    "answer": "Tanzania"
+  },
+  {
+    "question": "Exercise AIKEYME was conducted in which country?",
+    "options": [
+      "Tanzania",
+      "India",
+      "Kenya",
+      "Mauritius"
+    ],
+    "answer": "Tanzania"
+  },
+  {
+    "question": "‘Samudra Pradakshina’ is related to which type of expedition?",
+    "options": [
+      "Tri-service all-women sailing expedition",
+      "Submarine warfare exercise",
+      "Air combat exercise",
+      "Mountain expedition"
+    ],
+    "answer": "Tri-service all-women sailing expedition"
+  },
+  {
+    "question": "Samudra Pradakshina expedition was flagged off from which place?",
+    "options": [
+      "Colaba, Mumbai",
+      "Gateway of India, Mumbai",
+      "Kochi Port",
+      "Visakhapatnam Port"
+    ],
+    "answer": "Colaba, Mumbai"
+  },
+  {
+    "question": "Exercise Teesta Prahar was conducted in which Indian state?",
+    "options": [
+      "West Bengal",
+      "Assam",
+      "Sikkim",
+      "Bihar"
+    ],
+    "answer": "West Bengal"
+  },
+  {
+    "question": "Exercise Tiger Claw 2025 was conducted by which country's special forces?",
+    "options": [
+      "USA",
+      "India",
+      "UK",
+      "France"
+    ],
+    "answer": "USA"
+  },
+  {
+    "question": "Exercise Tiger Claw 2025 was held in which Indian state?",
+    "options": [
+      "Uttar Pradesh",
+      "Rajasthan",
+      "Punjab",
+      "Haryana"
+    ],
+    "answer": "Uttar Pradesh"
+  },
+  {
+    "question": "Exercise AviaIndra 2025 was conducted between India and which country?",
+    "options": [
+      "Russia",
+      "France",
+      "USA",
+      "Japan"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "question": "SLINEX 2025 is a maritime exercise between India and which country?",
+    "options": [
+      "Sri Lanka",
+      "Singapore",
+      "Indonesia",
+      "Maldives"
+    ],
+    "answer": "Sri Lanka"
+  },
+  {
+    "question": "SLINEX 2025 was held in which city?",
+    "options": [
+      "Colombo",
+      "Kandy",
+      "Galle",
+      "Trincomalee"
+    ],
+    "answer": "Colombo"
+  },
+  {
+    "question": "Exercise Ocean Sky 2025 was conducted in which country/region?",
+    "options": [
+      "Canary Islands, Spain",
+      "France",
+      "Australia",
+      "Japan"
+    ],
+    "answer": "Canary Islands, Spain"
+  },
+  {
+    "question": "Exercise Malabar 2025 was hosted by which country?",
+    "options": [
+      "USA",
+      "India",
+      "Japan",
+      "Australia"
+    ],
+    "answer": "USA"
+  },
+  {
+    "question": "Exercise Malabar 2025 was conducted at which location?",
+    "options": [
+      "Guam, North Pacific Ocean",
+      "Goa, Arabian Sea",
+      "Mumbai Coast",
+      "Bay of Bengal"
+    ],
+    "answer": "Guam, North Pacific Ocean"
+  },
+  {
+    "question": "Exercise Jaa Mata was conducted between Indian Coast Guard and which country's Coast Guard?",
+    "options": [
+      "Japan",
+      "South Korea",
+      "Vietnam",
+      "Indonesia"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "question": "Exercise Jaa Mata means what in Japanese?",
+    "options": [
+      "See you later",
+      "Good morning",
+      "Welcome friend",
+      "Victory together"
+    ],
+    "answer": "See you later"
+  },
+  {
+    "question": "Exercise Sagar Kavach was conducted by which Indian force?",
+    "options": [
+      "Indian Coast Guard",
+      "Indian Navy",
+      "Indian Army",
+      "BSF"
+    ],
+    "answer": "Indian Coast Guard"
+  },
+  {
+    "question": "Exercise Sagar Kavach was conducted in which Indian state?",
+    "options": [
+      "West Bengal",
+      "Odisha",
+      "Gujarat",
+      "Kerala"
+    ],
+    "answer": "West Bengal"
+  },
+  {
+    "question": "International Fleet Review (IFR) 2025 was held in which country?",
+    "options": [
+      "Indonesia",
+      "India",
+      "Singapore",
+      "Japan"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "The 5th Multilateral Naval Exercise Komodo was held in which country?",
+    "options": [
+      "Indonesia",
+      "Malaysia",
+      "Thailand",
+      "Vietnam"
+    ],
+    "answer": "Indonesia"
+  }, 
+  {
+    "question": "Exercise Jal-Thal-Raksha 2025 was conducted by the Indian Army at which location?",
+    "options": [
+      "Bet Dwarka, Gujarat",
+      "Kutch, Gujarat",
+      "Jaisalmer, Rajasthan",
+      "Port Blair, Andaman"
+    ],
+    "answer": "Bet Dwarka, Gujarat"
+  },
+  {
+    "question": "The primary objective of Exercise Jal-Thal-Raksha 2025 was related to security of which area?",
+    "options": [
+      "Dwarka",
+      "Siachen",
+      "Northeast Frontier",
+      "Andaman Islands"
+    ],
+    "answer": "Dwarka"
+  },
+  {
+    "question": "The 8th Missile Cum Ammunition Barge (LSAM 11) was launched by which force?",
+    "options": [
+      "Indian Navy",
+      "Indian Army",
+      "Indian Air Force",
+      "Indian Coast Guard"
+    ],
+    "answer": "Indian Navy"
+  },
+  {
+    "question": "The 8th Missile Cum Ammunition Barge (LSAM 11) was launched at which location?",
+    "options": [
+      "Mira Bhayandar, Maharashtra",
+      "Mumbai Port",
+      "Goa Shipyard",
+      "Kochi Port"
+    ],
+    "answer": "Mira Bhayandar, Maharashtra"
+  },
+  {
+    "question": "Exercise Winged Raider was conducted by which Indian forces?",
+    "options": [
+      "Indian Army and Indian Air Force",
+      "Indian Navy and Coast Guard",
+      "Army and Navy",
+      "Air Force and Coast Guard"
+    ],
+    "answer": "Indian Army and Indian Air Force"
+  },
+  {
+    "question": "Exercise Winged Raider was conducted in which region of India?",
+    "options": [
+      "Eastern India",
+      "Western India",
+      "Northern India",
+      "Southern India"
+    ],
+    "answer": "Eastern India"
+  },
+  {
+    "question": "Exercise Shakti 8 2025 is associated with which branch of the Indian Armed Forces?",
+    "options": [
+      "Indian Army",
+      "Indian Navy",
+      "Indian Air Force",
+      "Indian Coast Guard"
+    ],
+    "answer": "Indian Army"
+  },
+  {
+    "question": "Exercise Garuda is conducted between which two air forces?",
+    "options": [
+      Indian Air Force and French Air and Space Force",
+      "Indian Navy and French Navy",
+      "Indian Army and French Army",
+      "Indian Air Force and Russian Air Force"
+    ],
+    "answer": "Indian Air Force and French Air and Space Force"
+  },
+  {
+    "question": "Exercise Varuna is conducted between which two navies?",
+    "options": [
+      "Indian Navy and French Navy",
+      "Indian Navy and US Navy",
+      "Indian Navy and Japanese Navy",
+      "Indian Navy and Russian Navy"
+    ],
+    "answer": "Indian Navy and French Navy"
+  },
+  {
+    "question": "Exercise Dharma Guardian is a joint military exercise between India and which country?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Thailand"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "question": "Exercise Dharma Guardian was conducted in which country?",
+    "options": [
+      "Japan",
+      "India",
+      "Nepal",
+      "Bhutan"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "question": "Exercise Bright Star 2025 was a multinational military exercise held in which country?",
+    "options": [
+      "Egypt",
+      "UAE",
+      "Saudi Arabia",
+      "Qatar"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "question": "Exercise Talisman Sabre 2025 was a multinational military exercise held in which country?",
+    "options": [
+      "Australia",
+      "USA",
+      "Japan",
+      "France"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "question": "Exercise AUSTRAHIND 2025 was conducted between India and which country?",
+    "options": [
+      "Australia",
+      "Austria",
+      "New Zealand",
+      "Singapore"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "question": "Exercise AUSTRAHIND 2025 was commenced in which country?",
+    "options": [
+      "Australia",
+      "India",
+      "Indonesia",
+      "Japan"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "question": "Exercise IN-RN 2025 was conducted between Indian Navy and which country's Navy?",
+    "options": [
+      "South Korea",
+      "Japan",
+      "Vietnam",
+      "Indonesia"
+    ],
+    "answer": "South Korea"
+  },
+  {
+    "question": "Exercise KOKAN 2025 is a bilateral naval exercise between India and which country?",
+    "options": [
+      "United Kingdom",
+      "France",
+      "USA",
+      "Australia"
+    ],
+    "answer": "United Kingdom"
+  },
+  {
+    "question": "Exercise Desert Cyclone 2 was conducted between India and which country?",
+    "options": [
+      "UAE",
+      "Egypt",
+      "Oman",
+      "Saudi Arabia"
+    ],
+    "answer": "UAE"
+  },
+  {
+    "question": "Exercise Harimau Shakti 5th edition was conducted between India and which country?",
+    "options": [
+      "Malaysia",
+      "Indonesia",
+      "Thailand",
+      "Singapore"
+    ],
+    "answer": "Malaysia"
+  },
+  {
+    "question": "Exercise Garuda Shakti 2025 was conducted between India and which country?",
+    "options": [
+      "Indonesia",
+      "France",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "answer": "Indonesia"
+  }
+]
+}

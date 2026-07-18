@@ -1,0 +1,404 @@
+{
+"Important Days": [
+  {
+    "question": "World Soil Day is observed on which date?",
+    "options": [
+      "5 December",
+      "10 December",
+      "22 March",
+      "16 September"
+    ],
+    "answer": "5 December"
+  },
+  {
+    "question": "What is the theme of World Soil Day?",
+    "options": [
+      "Healthy Soil for Healthy Cities",
+      "Forest and Food",
+      "Our Power Our Planet",
+      "Beat Plastic Pollution"
+    ],
+    "answer": "Healthy Soil for Healthy Cities"
+  },
+  {
+    "question": "Human Rights Day is observed on which date?",
+    "options": [
+      "10 December",
+      "24 December",
+      "25 December",
+      "11 November"
+    ],
+    "answer": "10 December"
+  },
+  {
+    "question": "What is the theme of Human Rights Day?",
+    "options": [
+      "Human Rights are Everyday Essentials",
+      "Human Rights for Global Peace",
+      "Justice for Every Citizen",
+      "Rights and Responsibilities"
+    ],
+    "answer": "Human Rights are Everyday Essentials"
+  },
+  {
+    "question": "National Consumer Rights Day is observed on which date?",
+    "options": [
+      "24 December",
+      "10 December",
+      "25 December",
+      "31 October"
+    ],
+    "answer": "24 December"
+  },
+  {
+    "question": "What is the theme of National Consumer Rights Day?",
+    "options": [
+      "Efficient Speedy Disposal through Digital Justice",
+      "Digital India for Consumers",
+      "Consumer Awareness for Better Future",
+      "Justice through Technology"
+    ],
+    "answer": "Efficient Speedy Disposal through Digital Justice"
+  },
+  {
+    "question": "Good Governance Day is observed on which date?",
+    "options": [
+      "25 December",
+      "24 December",
+      "11 November",
+      "31 October"
+    ],
+    "answer": "25 December"
+  },
+  {
+    "question": "National Education Day is observed on which date?",
+    "options": [
+      "11 November",
+      "5 September",
+      "24 January",
+      "15 August"
+    ],
+    "answer": "11 November"
+  },
+  {
+    "question": "National Education Day commemorates the birth anniversary of whom?",
+    "options": [
+      "Maulana Abul Kalam Azad",
+      "Sardar Vallabhbhai Patel",
+      "Dr. B.R. Ambedkar",
+      "Mahatma Gandhi"
+    ],
+    "answer": "Maulana Abul Kalam Azad"
+  },
+  {
+    "question": "International Men's Day is observed on which date?",
+    "options": [
+      "19 November",
+      "10 December",
+      "8 March",
+      "21 June"
+    ],
+    "answer": "19 November"
+  },
+  {
+    "question": "What is the theme of International Men's Day?",
+    "options": [
+      "Celebrating Men and Boys",
+      "Men for Peace",
+      "Healthy Men Healthy Society",
+      "Equality for All"
+    ],
+    "answer": "Celebrating Men and Boys"
+  },
+  {
+    "question": "World Food Day is observed on which date?",
+    "options": [
+      "16 October",
+      "24 October",
+      "5 June",
+      "22 April"
+    ],
+    "answer": "16 October"
+  },
+  {
+    "question": "What is the theme of World Food Day?",
+    "options": [
+      "Hand in Hand for a Better Food and Better Future",
+      "Food Security for Everyone",
+      "Zero Hunger Mission",
+      "Healthy Food Healthy Life"
+    ],
+    "answer": "Hand in Hand for a Better Food and Better Future"
+  },
+  {
+    "question": "United Nations Day is observed on which date?",
+    "options": [
+      "24 October",
+      "16 October",
+      "27 September",
+      "18 April"
+    ],
+    "answer": "24 October"
+  },
+  {
+    "question": "National Unity Day is observed on which date?",
+    "options": [
+      "31 October",
+      "25 December",
+      "24 April",
+      "11 November"
+    ],
+    "answer": "31 October"
+  },
+  {
+    "question": "National Unity Day commemorates the birth anniversary of whom?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Rajendra Prasad"
+    ],
+    "answer": "Sardar Vallabhbhai Patel"
+  },
+  {
+    "question": "World Ozone Day is observed on which date?",
+    "options": [
+      "16 September",
+      "27 September",
+      "5 June",
+      "21 March"
+    ],
+    "answer": "16 September"
+  },
+  {
+    "question": "What is the theme of World Ozone Day?",
+    "options": [
+      "From Science to Global Action",
+      "Beat Plastic Pollution",
+      "Save the Blue Planet",
+      "Ozone for Future Generations"
+    ],
+    "answer": "From Science to Global Action"
+  },
+  {
+    "question": "World Tourism Day is observed on which date?",
+    "options": [
+      "27 September",
+      "18 April",
+      "22 April",
+      "21 June"
+    ],
+    "answer": "27 September"
+  },
+  {
+    "question": "What is the theme of World Tourism Day?",
+    "options": [
+      "Tourism and Sustainable Transformation",
+      "Tourism for Peace",
+      "Green Tourism",
+      "Travel for Future"
+    ],
+    "answer": "Tourism and Sustainable Transformation"
+  },
+  {
+    "question": "World Environment Day is observed on which date?",
+    "options": [
+      "5 June",
+      "22 April",
+      "21 March",
+      "2 February"
+    ],
+    "answer": "5 June"
+  },
+  {
+    "question": "What is the theme of World Environment Day?",
+    "options": [
+      "Beat Plastic Pollution",
+      "Our Power Our Planet",
+      "Forest and Food",
+      "Glacier Preservation"
+    ],
+    "answer": "Beat Plastic Pollution"
+  },
+  {
+    "question": "The United Nations has declared which year as International Year of Women Farmers?",
+    "options": [
+      "2026",
+      "2025",
+      "2027",
+      "2030"
+    ],
+    "answer": "2026"
+  },
+  {
+    "question": "International Yoga Day is observed on which date?",
+    "options": [
+      "21 June",
+      "5 June",
+      "24 April",
+      "21 March"
+    ],
+    "answer": "21 June"
+  },
+  {
+    "question": "What is the theme of International Yoga Day?",
+    "options": [
+      "Yoga for One Earth One Health",
+      "Yoga for Humanity",
+      "Yoga and Wellness",
+      "Yoga for Peace"
+    ],
+    "answer": "Yoga for One Earth One Health"
+  },
+  {
+    "question": "International Yoga Day was celebrated in which city?",
+    "options": [
+      "Visakhapatnam",
+      "New Delhi",
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "answer": "Visakhapatnam"
+  }, 
+  {
+    "question": "World Heritage Day is observed on which date?",
+    "options": [
+      "18 April",
+      "22 April",
+      "24 April",
+      "3 March"
+    ],
+    "answer": "18 April"
+  },
+  {
+    "question": "What is the theme of World Heritage Day?",
+    "options": [
+      "Heritage Under Threat from Disaster and Conflict",
+      "Heritage for Future Generations",
+      "Culture and Sustainable Development",
+      "Protecting Historical Monuments"
+    ],
+    "answer": "Heritage Under Threat from Disaster and Conflict"
+  },
+  {
+    "question": "World Earth Day is observed on which date?",
+    "options": [
+      "22 April",
+      "18 April",
+      "5 June",
+      "22 March"
+    ],
+    "answer": "22 April"
+  },
+  {
+    "question": "What is the theme of World Earth Day?",
+    "options": [
+      "Our Power Our Planet",
+      "Beat Plastic Pollution",
+      "Glacier Preservation",
+      "Forest and Food"
+    ],
+    "answer": "Our Power Our Planet"
+  },
+  {
+    "question": "National Panchayati Raj Day is observed on which date?",
+    "options": [
+      "24 April",
+      "24 October",
+      "31 October",
+      "2 February"
+    ],
+    "answer": "24 April"
+  },
+  {
+    "question": "National Panchayati Raj Day commemorates which Act?",
+    "options": [
+      "1993 Panchayati Raj Act",
+      "1948 Census Act",
+      "1950 Constitution Act",
+      "2005 Right to Information Act"
+    ],
+    "answer": "1993 Panchayati Raj Act"
+  },
+  {
+    "question": "World Wildlife Day is observed on which date?",
+    "options": [
+      "3 March",
+      "21 March",
+      "22 March",
+      "2 February"
+    ],
+    "answer": "3 March"
+  },
+  {
+    "question": "What is the theme of World Wildlife Day?",
+    "options": [
+      "Wildlife Conservation Finance: Investing in People and Planet",
+      "Wildlife for Future Generations",
+      "Protecting Species Through Science",
+      "Save Wildlife Save Earth"
+    ],
+    "answer": "Wildlife Conservation Finance: Investing in People and Planet"
+  },
+  {
+    "question": "International Day of Forests is observed on which date?",
+    "options": [
+      "21 March",
+      "22 March",
+      "3 March",
+      "5 June"
+    ],
+    "answer": "21 March"
+  },
+  {
+    "question": "What is the theme of International Day of Forests?",
+    "options": [
+      "Forest and Food",
+      "Forests for Climate Action",
+      "Green Forest Green Future",
+      "Protecting Forest Ecosystems"
+    ],
+    "answer": "Forest and Food"
+  },
+  {
+    "question": "World Water Day is observed on which date?",
+    "options": [
+      "22 March",
+      "21 March",
+      "2 February",
+      "22 April"
+    ],
+    "answer": "22 March"
+  },
+  {
+    "question": "What is the theme of World Water Day?",
+    "options": [
+      "Glacier Preservation",
+      "Water for Sustainable Development",
+      "Clean Water for All",
+      "Save Rivers Save Life"
+    ],
+    "answer": "Glacier Preservation"
+  },
+  {
+    "question": "World Wetlands Day is observed on which date?",
+    "options": [
+      "2 February",
+      "3 March",
+      "22 March",
+      "18 April"
+    ],
+    "answer": "2 February"
+  },
+  {
+    "question": "What is the theme of World Wetlands Day?",
+    "options": [
+      "Protecting Wetlands for a Common Future",
+      "Wetlands and Climate Change",
+      "Save Water Save Wetlands",
+      "Wetlands for Biodiversity"
+    ],
+    "answer": "Protecting Wetlands for a Common Future"
+  }
+]
+}

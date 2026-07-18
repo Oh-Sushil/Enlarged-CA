@@ -1,0 +1,404 @@
+{
+"Books": [
+  {
+    "question": "Who is the author of the book 'Sanatan Sanskriti ki Atal Drishti'?",
+    "options": [
+      "Vasudev Devanani",
+      "Sanjeev Chopra",
+      "Arun Shourie",
+      "Kailash Satyarthi"
+    ],
+    "answer": "Vasudev Devanani"
+  },
+  {
+    "question": "Who wrote the book 'I Am Georgia'?",
+    "options": [
+      "Italy's Prime Minister",
+      "Kiran Desai",
+      "Arundhati Roy",
+      "Pankaj Mishra"
+    ],
+    "answer": "Italy's Prime Minister"
+  },
+  {
+    "question": "Who is the author of 'The Loneliness of Sonia and Sunny'?",
+    "options": [
+      "Kiran Desai",
+      "Namita Gokhale",
+      "Anuradha Sharma",
+      "Sugata Srinivasa Raju"
+    ],
+    "answer": "Kiran Desai"
+  },
+  {
+    "question": "Who wrote 'Brahmastra Unlisted'?",
+    "options": [
+      "D. Shivandan",
+      "KGS Dilan",
+      "Arun Shourie",
+      "Prem Prakash"
+    ],
+    "answer": "D. Shivandan"
+  },
+  {
+    "question": "'Brahmastra Unlisted' was authored by which retired professional?",
+    "options": [
+      "Retired IPS Officer",
+      "Retired Army General",
+      "Retired Judge",
+      "Retired Diplomat"
+    ],
+    "answer": "Retired IPS Officer"
+  },
+  {
+    "question": "Who authored 'Ready Relevant and Resurgent Second'?",
+    "options": [
+      "General Anil Chauhan",
+      "Shikhar Dhawan",
+      "Justice Chandrachud",
+      "Sanjeev Chopra"
+    ],
+    "answer": "General Anil Chauhan"
+  },
+  {
+    "question": "Who wrote 'A Billion Butterflies: A Life in Climate and Chaos Theory'?",
+    "options": [
+      "Jagadish Shukla",
+      "Sunil Amrit",
+      "Pankaj Mishra",
+      "Sugata Srinivasa Raju"
+    ],
+    "answer": "Jagadish Shukla"
+  },
+  {
+    "question": "Who is the author of 'Great Consigliatore: A Book on Lal Bahadur Shastri'?",
+    "options": [
+      "Sanjeev Chopra",
+      "Arun Singhal",
+      "Priyambada Jayakumar",
+      "Abhishek Choudhary"
+    ],
+    "answer": "Sanjeev Chopra"
+  },
+  {
+    "question": "Who wrote 'Mother Mary Comes to Me'?",
+    "options": [
+      "Arundhati Roy",
+      "Kiran Desai",
+      "Namita Gokhale",
+      "Anupama Sharma"
+    ],
+    "answer": "Arundhati Roy"
+  },
+  {
+    "question": "Who authored 'Operation Sindoor: Untold Story of India’s Deep Strike inside Pakistan'?",
+    "options": [
+      "KGS Dilan",
+      "D. Shivandan",
+      "Prem Prakash",
+      "Sanjay Baru"
+    ],
+    "answer": "KGS Dilan"
+  },
+  {
+    "question": "Who wrote the book 'Bhupen Hazarika'?",
+    "options": [
+      "Anuradha Sharma",
+      "Namita Gokhale",
+      "Priyambada Jayakumar",
+      "Puja Pujara"
+    ],
+    "answer": "Anuradha Sharma"
+  },
+  {
+    "question": "Who is the author of 'Why The Constitution Matters'?",
+    "options": [
+      "Justice Chandrachud",
+      "Gopalkrishna Gandhi",
+      "Arun Shourie",
+      "Sanjay Baru"
+    ],
+    "answer": "Justice Chandrachud"
+  },
+  {
+    "question": "Who wrote the biography 'The Man Who Fed India' on M.S. Swaminathan?",
+    "options": [
+      "Priyambada Jayakumar",
+      "Anuradha Sharma",
+      "Geetika Lidder",
+      "Namita Kala"
+    ],
+    "answer": "Priyambada Jayakumar"
+  },
+  {
+    "question": "Who co-authored 'Ramanujan: Journey of a Great Mathematician'?",
+    "options": [
+      "Arun Singhal and Devendra Kumar Sharma",
+      "Puja Pujara and Namita Kala",
+      "Sunil Amrit and Pankaj Mishra",
+      "Prem Prakash and Arun Shourie"
+    ],
+    "answer": "Arun Singhal and Devendra Kumar Sharma"
+  },
+  {
+    "question": "Who authored 'The Burning Earth'?",
+    "options": [
+      "Sunil Amrit",
+      "Jagadish Shukla",
+      "Kiran Desai",
+      "Arundhati Roy"
+    ],
+    "answer": "Sunil Amrit"
+  },
+  {
+    "question": "Who wrote 'The Conscience Network'?",
+    "options": [
+      "Sugata Srinivasa Raju",
+      "Sanjeev Chopra",
+      "Anupama Sharma",
+      "Prem Prakash"
+    ],
+    "answer": "Sugata Srinivasa Raju"
+  },
+  {
+    "question": "Who is the author of 'The One: Cricket My Life and More'?",
+    "options": [
+      "Shikhar Dhawan",
+      "P.S. Raman",
+      "Puja Pujara",
+      "Geetika Lidder"
+    ],
+    "answer": "Shikhar Dhawan"
+  },
+  {
+    "question": "Who wrote 'Life and Mass: Collected Stories'?",
+    "options": [
+      "Namita Gokhale",
+      "Kiran Desai",
+      "Arundhati Roy",
+      "Anupama Sharma"
+    ],
+    "answer": "Namita Gokhale"
+  },
+  {
+    "question": "Who authored 'The World After Gaza'?",
+    "options": [
+      "Pankaj Mishra",
+      "Sunil Amrit",
+      "Sugata Srinivasa Raju",
+      "Arun Shourie"
+    ],
+    "answer": "Pankaj Mishra"
+  },
+  {
+    "question": "Who wrote 'The New Icon: Savarkar and the Facts'?",
+    "options": [
+      "Arun Shourie",
+      "Prem Prakash",
+      "Sanjay Baru",
+      "Abhishek Choudhary"
+    ],
+    "answer": "Arun Shourie"
+  },
+  {
+    "question": "Who is the author of 'Karuna: The Power of Compassion'?",
+    "options": [
+      "Kailash Satyarthi",
+      "Gopalkrishna Gandhi",
+      "Justice Chandrachud",
+      "Shikhar Dhawan"
+    ],
+    "answer": "Kailash Satyarthi"
+  },
+  {
+    "question": "Who received the Sahitya Akademi Award 2024 for the Dogri work 'Ik Hor Ashwthama'?",
+    "options": [
+      "Chaman Arora",
+      "Ramdarash Mishra",
+      "Anupama Sharma",
+      "Namita Gokhale"
+    ],
+    "answer": "Chaman Arora"
+  },
+  {
+    "question": "'Ik Hor Ashwthama' is written in which language?",
+    "options": [
+      "Dogri",
+      "Hindi",
+      "Punjabi",
+      "Sanskrit"
+    ],
+    "answer": "Dogri"
+  },
+  {
+    "question": "Who authored 'I Am a Soldier’s Wife: The Life and Love of Toni Lidder'?",
+    "options": [
+      "Geetika Lidder",
+      "Puja Pujara",
+      "Namita Kala",
+      "Anuradha Sharma"
+    ],
+    "answer": "Geetika Lidder"
+  },
+  {
+    "question": "Who released 'Life on Mars: Collected Stories'?",
+    "options": [
+      "Namita Gokhale",
+      "Kiran Desai",
+      "Arundhati Roy",
+      "Anupama Sharma"
+    ],
+    "answer": "Namita Gokhale"
+  },
+  {
+    "question": "'Leo — The Untold Story' is a book about which cricket franchise?",
+    "options": [
+      "Chennai Super Kings",
+      "Mumbai Indians",
+      "Kolkata Knight Riders",
+      "Royal Challengers Bengaluru"
+    ],
+    "answer": "Chennai Super Kings"
+  },
+  {
+    "question": "Who authored 'Leo — The Untold Story'?",
+    "options": [
+      "P.S. Raman",
+      "Shikhar Dhawan",
+      "Sanjeev Chopra",
+      "Prem Prakash"
+    ],
+    "answer": "P.S. Raman"
+  },
+  {
+    "question": "Which autobiography was launched by Kailash Satyarthi?",
+    "options": [
+      "Diyasalaai",
+      "Karuna: The Power of Compassion",
+      "The Conscience Network",
+      "The Burning Earth"
+    ],
+    "answer": "Diyasalaai"
+  },
+  {
+    "question": "Who authored the poetry collection 'Buransh: The Fragrance of Words'?",
+    "options": [
+      "Anupama Sharma",
+      "Namita Gokhale",
+      "Arundhati Roy",
+      "Mamta Kalia"
+    ],
+    "answer": "Anupama Sharma"
+  },
+  {
+    "question": "Who wrote 'The Undying Light: A Personal History of Independent India'?",
+    "options": [
+      "Gopalkrishna Gandhi",
+      "Justice Chandrachud",
+      "Sunil Amrit",
+      "Sanjay Baru"
+    ],
+    "answer": "Gopalkrishna Gandhi"
+  },
+  {
+    "question": "Who is the author of 'The Tamils: A Portrait of Community'?",
+    "options": [
+      "Nirmala Lakshman",
+      "Anuradha Sharma",
+      "Kiran Desai",
+      "Namita Gokhale"
+    ],
+    "answer": "Nirmala Lakshman"
+  },
+  {
+    "question": "Who co-authored 'The Diary of a Cricketer’s Wife: A Very Unusual Memoir'?",
+    "options": [
+      "Puja Pujara and Namita Kala",
+      "Arun Singhal and Devendra Kumar Sharma",
+      "Sunil Amrit and Pankaj Mishra",
+      "Geetika Lidder and Anupama Sharma"
+    ],
+    "answer": "Puja Pujara and Namita Kala"
+  },
+  {
+    "question": "Who wrote 'History That India Ignored'?",
+    "options": [
+      "Prem Prakash",
+      "Arun Shourie",
+      "Sanjay Baru",
+      "Gopalkrishna Gandhi"
+    ],
+    "answer": "Prem Prakash"
+  },
+  {
+    "question": "Who authored 'Secession of the Successful: The Flight Out of New India'?",
+    "options": [
+      "Sanjay Baru",
+      "Prem Prakash",
+      "Sugata Srinivasa Raju",
+      "Pankaj Mishra"
+    ],
+    "answer": "Sanjay Baru"
+  },
+  {
+    "question": "Whose biography is titled 'Believer’s Dilemma'?",
+    "options": [
+      "Atal Bihari Vajpayee",
+      "Lal Bahadur Shastri",
+      "M.S. Swaminathan",
+      "Savarkar"
+    ],
+    "answer": "Atal Bihari Vajpayee"
+  },
+  {
+    "question": "Who wrote the biography 'Believer’s Dilemma'?",
+    "options": [
+      "Abhishek Choudhary",
+      "Sanjeev Chopra",
+      "Arun Shourie",
+      "Prem Prakash"
+    ],
+    "answer": "Abhishek Choudhary"
+  },
+  {
+    "question": "Who authored 'I am a Cancer Survivor (Maine Cancer Ko Jeet Liye)'?",
+    "options": [
+      "Dr. Palakonda Vijay Anand Reddy",
+      "Kailash Satyarthi",
+      "Justice Chandrachud",
+      "Gopalkrishna Gandhi"
+    ],
+    "answer": "Dr. Palakonda Vijay Anand Reddy"
+  },
+  {
+    "question": "Who wrote the poem 'Main toh Yahan Hoon'?",
+    "options": [
+      "Ramdarash Mishra",
+      "Vinod Kumar Shukla",
+      "Mamta Kalia",
+      "Banu Mushtaq"
+    ],
+    "answer": "Ramdarash Mishra"
+  },
+  {
+    "question": "Who is the original author of 'The Last Day'?",
+    "options": [
+      "Jaroslavas Melnikas",
+      "Dr. Poonam Tiwari",
+      "Prem Prakash",
+      "Arun Shourie"
+    ],
+    "answer": "Jaroslavas Melnikas"
+  },
+  {
+    "question": "Who translated 'The Last Day' into Hindi as 'Antim Din'?",
+    "options": [
+      "Dr. Poonam Tiwari",
+      "Daisy Rockwell",
+      "Deepa Bhasthi",
+      "Namita Kala"
+    ],
+    "answer": "Dr. Poonam Tiwari"
+  }
+]
+}
