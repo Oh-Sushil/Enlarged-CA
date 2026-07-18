@@ -1,0 +1,209 @@
+{
+"Awards": [
+  {
+    "question": "Which Manipuri film won the BAFTA Award for Best Children’s & Family Film?",
+    "options": ["Boong", "Hara Parbati Katha", "Sinners", "One Battle After Another"],
+    "answer": "Boong"
+  },
+  {
+    "question": "Who directed the BAFTA-winning Manipuri film 'Boong'?",
+    "options": ["Lakhsmipriya Devi", "Rouble Nagi", "Parveen Sheikh", "Barkha Subba"],
+    "answer": "Lakhsmipriya Devi"
+  },
+  {
+    "question": "Who received the 35th Saraswati Samman (2025)?",
+    "options": ["Ramkumar Mukhopadhyay", "Sudha Murty", "Vinod Rai", "Prabhat Kumar"],
+    "answer": "Ramkumar Mukhopadhyay"
+  },
+  {
+    "question": "Ramkumar Mukhopadhyay was honored with the 35th Saraswati Samman (2025) for which novel?",
+    "options": ["Hara Parbati Katha", "Taiwan Travelogue", "Boong", "Wildflower"],
+    "answer": "Hara Parbati Katha"
+  },
+  {
+    "question": "Which two Indian women conservationists won the 2026 Green Oscar Awards?",
+    "options": ["Parveen Sheikh and Barkha Subba", "Suparna Sharma and Anand RK", "Parul Chaudhary and Rouble Nagi", "Lakhsmipriya Devi and Barkha Subba"],
+    "answer": "Parveen Sheikh and Barkha Subba"
+  },
+  {
+    "question": "The Whitley Award is popularly known by what name?",
+    "options": ["Green Oscars", "Blue Planet Award", "Earth Medal", "Nature Excellence Award"],
+    "answer": "Green Oscars"
+  },
+  {
+    "question": "Which organization presents the Whitley Award?",
+    "options": ["Whitley Fund for Nature (UK)", "UNESCO", "WWF", "IUCN"],
+    "answer": "Whitley Fund for Nature (UK)"
+  },
+  {
+    "question": "Who won the 2026 Whitley Award for efforts to protect the Indian Skimmer bird?",
+    "options": ["Parveen Shaikh", "Barkha Subba", "Rouble Nagi", "Florence Rabier"],
+    "answer": "Parveen Shaikh"
+  },
+  {
+    "question": "Which film won recognition at the Oscars 2026 and was directed by Paul Thomas Anderson?",
+    "options": ["One Battle After Another", "Sinners", "Boong", "Hemnet"],
+    "answer": "One Battle After Another"
+  },
+  {
+    "question": "Who won the Oscar 2026 for Best Actor?",
+    "options": ["Michael B. Jordan", "Paul Thomas Anderson", "Bad Bunny", "Lionel Messi"],
+    "answer": "Michael B. Jordan"
+  },
+  {
+    "question": "Michael B. Jordan won the Oscar 2026 for Best Actor for which film?",
+    "options": ["Sinners", "Hemnet", "Boong", "One Battle After Another"],
+    "answer": "Sinners"
+  },
+  {
+    "question": "Who won the Oscar 2026 for Best Actress?",
+    "options": ["Jessie Buckley", "Olivia Dean", "Parul Chaudhary", "Barkha Subba"],
+    "answer": "Jessie Buckley"
+  },
+  {
+    "question": "Jessie Buckley won the Oscar 2026 for Best Actress for which film?",
+    "options": ["Hemnet", "Sinners", "Boong", "Wildflower"],
+    "answer": "Hemnet"
+  },
+  {
+    "question": "Who won the Oscar 2026 for Best Director?",
+    "options": ["Paul Thomas Anderson", "Lakhsmipriya Devi", "Michael B. Jordan", "Bad Bunny"],
+    "answer": "Paul Thomas Anderson"
+  },
+  {
+    "question": "National Panchayat Awards 2025 saw which state win the highest number of awards?",
+    "options": ["Karnataka", "Assam", "Kerala", "Tamil Nadu"],
+    "answer": "Karnataka"
+  },
+  {
+    "question": "How many awards did Karnataka win at the National Panchayat Awards 2025?",
+    "options": ["6", "5", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "question": "Which Gram Panchayat received India's Best GP Award at the National Panchayat Awards 2025?",
+    "options": ["New Napam Gaon Panchayat", "Jugal Kishore Nagar Village Committee", "Soundala Gram Panchayat", "Chumur Village Panchayat"],
+    "answer": "New Napam Gaon Panchayat"
+  },
+  {
+    "question": "India’s Best GP Award 2025 was awarded to New Napam Gaon Panchayat in which state?",
+    "options": ["Assam", "Tripura", "Meghalaya", "Nagaland"],
+    "answer": "Assam"
+  },
+  {
+    "question": "Who was named Best Male Athlete at AFI’s 1st Indian Athletics Award 2025?",
+    "options": ["Neeraj Chopra", "Michael B. Jordan", "Lionel Messi", "Vishal Kumar"],
+    "answer": "Neeraj Chopra"
+  },
+  {
+    "question": "Who was named Best Female Athlete at AFI’s 1st Indian Athletics Award 2025?",
+    "options": ["Parul Chaudhary", "Rouble Nagi", "Olivia Dean", "Jessie Buckley"],
+    "answer": "Parul Chaudhary"
+  },
+  {
+    "question": "Who received the WMO’s top IMO Prize for contributions to Numerical Weather Prediction?",
+    "options": ["Dr. Florence Rabier", "Jainendra K. Jain", "Gerd Faltings", "Parveen Shaikh"],
+    "answer": "Dr. Florence Rabier"
+  },
+  {
+    "question": "Which port authority received the ‘Sagar Aankalan’ Award for Best Port Performance?",
+    "options": ["Deendayal Port Authority", "VOC Port Authority", "Mumbai Port Authority", "Paradip Port Authority"],
+    "answer": "Deendayal Port Authority"
+  },
+  {
+    "question": "Who received the 2025 Wolf Prize in Physics?",
+    "options": ["Jainendra K. Jain", "Gerd Faltings", "Florence Rabier", "Vishal Kumar"],
+    "answer": "Jainendra K. Jain"
+  },
+  {
+    "question": "The Wolf Prize in Physics awarded to Jainendra K. Jain is presented by which country?",
+    "options": ["Israel", "USA", "Germany", "France"],
+    "answer": "Israel"
+  },
+  {
+    "question": "Who received the Sword of Honour and President’s Gold Medal from President Droupadi Murmu?",
+    "options": ["Lt Vishal Kumar", "Major Prabhat Mishra", "Neeraj Chopra", "Anand RK"],
+    "answer": "Lt Vishal Kumar"
+  },
+  {
+    "question": "Which footballer became the first recipient of the Princess of Asturias Award?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Kylian Mbappe", "Neymar Jr."],
+    "answer": "Lionel Messi"
+  },
+  {
+    "question": "Which Indian military officer received the Birrer-Brookes Award and the General Douglas MacArthur Military Leadership Writing Award?",
+    "options": ["Major Prabhat Mishra", "Lt Vishal Kumar", "General Upendra Dwivedi", "Ajit Doval"],
+    "answer": "Major Prabhat Mishra"
+  },
+  {
+    "question": "Who won the Global Teacher Prize 2026?",
+    "options": ["Rouble Nagi", "Parul Chaudhary", "Barkha Subba", "Suparna Sharma"],
+    "answer": "Rouble Nagi"
+  },
+  {
+    "question": "Who won the Abel Prize 2026?",
+    "options": ["Gerd Faltings", "Jainendra K. Jain", "Florence Rabier", "Lin King"],
+    "answer": "Gerd Faltings"
+  },
+  {
+    "question": "Gerd Faltings, winner of the Abel Prize 2026, belongs to which country?",
+    "options": ["Germany", "France", "Austria", "Switzerland"],
+    "answer": "Germany"
+  },
+  {
+    "question": "Which two Indian journalists won the Pulitzer Prize 2026?",
+    "options": ["Suparna Sharma and Anand RK", "Parveen Sheikh and Barkha Subba", "Rouble Nagi and Parul Chaudhary", "Vinod Rai and Prabhat Kumar"],
+    "answer": "Suparna Sharma and Anand RK"
+  },
+  {
+    "question": "Who won the Grammy Award 2026 for Record of the Year?",
+    "options": ["Kendrick Lamar", "Bad Bunny", "Olivia Dean", "Lin King"],
+    "answer": "Kendrick Lamar"
+  },
+  {
+    "question": "Which song won the Grammy Award 2026 for Record of the Year?",
+    "options": ["luther", "Wildflower", "Taiwan Travelogue", "Sinners"],
+    "answer": "luther"
+  },
+  {
+    "question": "Which album won the Grammy Award 2026 for Album of the Year?",
+    "options": ["Debí Tirar Más Fotos", "Wildflower", "luther", "Taiwan Travelogue"],
+    "answer": "Debí Tirar Más Fotos"
+  },
+  {
+    "question": "Who won the Grammy Award 2026 for Album of the Year?",
+    "options": ["Bad Bunny", "Kendrick Lamar", "Olivia Dean", "Michael B. Jordan"],
+    "answer": "Bad Bunny"
+  },
+  {
+    "question": "Which song won the Grammy Award 2026 for Song of the Year?",
+    "options": ["Wildflower", "luther", "Hemnet", "Sinners"],
+    "answer": "Wildflower"
+  },
+  {
+    "question": "Who was named Best New Artist at the 68th Annual Grammy Awards 2026?",
+    "options": ["Olivia Dean", "Jessie Buckley", "Parul Chaudhary", "Lin King"],
+    "answer": "Olivia Dean"
+  },
+  {
+    "question": "Who won the International Booker Prize 2026?",
+    "options": ["Yáng Shuāng-zǐ", "Ramkumar Mukhopadhyay", "Sudha Murty", "Lin King"],
+    "answer": "Yáng Shuāng-zǐ"
+  },
+  {
+    "question": "Which novel won the International Booker Prize 2026?",
+    "options": ["Taiwan Travelogue", "Hara Parbati Katha", "Tides of Time", "Boong"],
+    "answer": "Taiwan Travelogue"
+  },
+  {
+    "question": "The novel 'Taiwan Travelogue' was originally written in which language?",
+    "options": ["Mandarin Chinese", "English", "Japanese", "Korean"],
+    "answer": "Mandarin Chinese"
+  },
+  {
+    "question": "Who translated the International Booker Prize-winning novel 'Taiwan Travelogue' into English?",
+    "options": ["Lin King", "Vinod Rai", "Olivia Dean", "Prabhat Kumar"],
+    "answer": "Lin King"
+  }
+]
+}

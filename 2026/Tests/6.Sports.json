@@ -1,0 +1,354 @@
+{
+"Sports": [
+  {
+    "question": "Which team won the Vijay Hazare Trophy 2025-26?",
+    "options": [
+      "Saurashtra",
+      "Karnataka",
+      "Vidarbha",
+      "Kerala"
+    ],
+    "answer": "Vidarbha"
+  },
+  {
+    "question": "Which team was defeated by Vidarbha in the Vijay Hazare Trophy 2025-26 final?",
+    "options": [
+      "Karnataka",
+      "Services",
+      "Saurashtra",
+      "Delhi"
+    ],
+    "answer": "Saurashtra"
+  },
+  {
+    "question": "The Vijay Hazare Trophy 2025-26 title was the maiden title for which team?",
+    "options": [
+      "Vidarbha",
+      "Saurashtra",
+      "Kerala",
+      "Jammu & Kashmir"
+    ],
+    "answer": "Vidarbha"
+  },
+  {
+    "question": "Which team clinched the Women's Premier League (WPL) 2026 title?",
+    "options": [
+      "Delhi Capitals",
+      "Mumbai Indians",
+      "Royal Challengers Bengaluru",
+      "UP Warriorz"
+    ],
+    "answer": "Royal Challengers Bengaluru"
+  },
+  {
+    "question": "RCB won its second WPL title in 2026 by defeating which team?",
+    "options": [
+      "Mumbai Indians",
+      "Gujarat Giants",
+      "Delhi Capitals",
+      "UP Warriorz"
+    ],
+    "answer": "Delhi Capitals"
+  },
+  {
+    "question": "Which team won the Santosh Trophy 2025-26?",
+    "options": [
+      "Kerala",
+      "West Bengal",
+      "Services",
+      "Punjab"
+    ],
+    "answer": "Services"
+  },
+  {
+    "question": "Services won its 8th Santosh Trophy title by defeating which team?",
+    "options": [
+      "West Bengal",
+      "Punjab",
+      "Kerala",
+      "Goa"
+    ],
+    "answer": "Kerala"
+  },
+  {
+    "question": "The Santosh Trophy 2025-26 final was held in which state?",
+    "options": [
+      "West Bengal",
+      "Kerala",
+      "Assam",
+      "Odisha"
+    ],
+    "answer": "Assam"
+  },
+  {
+    "question": "Where was the Asian Rifle/Pistol Championship 2026 held?",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "How many medals did India win at the Asian Rifle/Pistol Championship 2026?",
+    "options": [
+      "84",
+      "94",
+      "104",
+      "114"
+    ],
+    "answer": "94"
+  },
+  {
+    "question": "Which cricket team won its first-ever Ranji Trophy title in 2025-26?",
+    "options": [
+      "Vidarbha",
+      "Kerala",
+      "Jammu & Kashmir",
+      "Saurashtra"
+    ],
+    "answer": "Jammu & Kashmir"
+  },
+  {
+    "question": "Jammu & Kashmir won the Ranji Trophy 2025-26 by defeating which team in the final?",
+    "options": [
+      "Mumbai",
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu"
+    ],
+    "answer": "Karnataka"
+  },
+  {
+    "question": "How many Ranji Trophy titles had Karnataka won before finishing runner-up in 2025-26?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Which city will host the World Indoor Athletics Championships 2028?",
+    "options": [
+      "New Delhi",
+      "Bengaluru",
+      "Bhubaneswar",
+      "Hyderabad"
+    ],
+    "answer": "Bhubaneswar"
+  },
+  {
+    "question": "The World Indoor Athletics Championships 2028 will be held at which venue?",
+    "options": [
+      "Jawaharlal Nehru Stadium",
+      "Kalinga Indoor Athletics Stadium",
+      "Indira Gandhi Indoor Stadium",
+      "Kanteerava Indoor Stadium"
+    ],
+    "answer": "Kalinga Indoor Athletics Stadium"
+  },
+  {
+    "question": "Kalinga Indoor Athletics Stadium is located in which state?",
+    "options": [
+      "West Bengal",
+      "Assam",
+      "Odisha",
+      "Jharkhand"
+    ],
+    "answer": "Odisha"
+  },
+  {
+    "question": "Which country topped the medal tally at the ISSF Junior World Cup 2026 held in Cairo?",
+    "options": [
+      "China",
+      "India",
+      "South Korea",
+      "Germany"
+    ],
+    "answer": "India"
+  },
+  {
+    "question": "How many total medals did India win at the ISSF Junior World Cup 2026?",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "answer": "16"
+  },
+  {
+    "question": "How many gold medals did India win at the ISSF Junior World Cup 2026?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "The ISSF Junior World Cup 2026 was held in which city?",
+    "options": [
+      "Doha",
+      "Cairo",
+      "Athens",
+      "Istanbul"
+    ],
+    "answer": "Cairo"
+  },
+  {
+    "question": "In which country was the ISSF Junior World Cup 2026 held?",
+    "options": [
+      "Qatar",
+      "Turkey",
+      "Egypt",
+      "Jordan"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "question": "What is the name of the new species discovered in Rajasthan that marks the first record of the genus Mesalina in India?",
+    "options": [
+      "Mesalina bishnoi",
+      "Mesalina indica",
+      "Mesalina rajasthanensis",
+      "Mesalina tharensis"
+    ],
+    "answer": "Mesalina bishnoi"
+  },
+  {
+    "question": "The species Mesalina bishnoi was discovered in which Indian state?",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh",
+      "Haryana"
+    ],
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "Mesalina bishnoi represents the first Indian record of which genus?",
+    "options": [
+      "Calotes",
+      "Mesalina",
+      "Draco",
+      "Hemidactylus"
+    ],
+    "answer": "Mesalina"
+  },
+  {
+    "question": "At the 2026 Doha Diamond League, what position did Neeraj Chopra finish in the men's javelin event?",
+    "options": [
+      "2nd",
+      "3rd",
+      "4th",
+      "5th"
+    ],
+    "answer": "4th"
+  },
+  {
+    "question": "Who topped the men's javelin event at the 2026 Doha Diamond League?",
+    "options": [
+      "Neeraj Chopra",
+      "Arshad Nadeem",
+      "Rumesh Pathirage",
+      "Anderson Peters"
+    ],
+    "answer": "Rumesh Pathirage"
+  },
+  {
+    "question": "Rumesh Pathirage, winner of the men's javelin at the 2026 Doha Diamond League, belongs to which country?",
+    "options": [
+      "India",
+      "Pakistan",
+      "Sri Lanka",
+      "Bangladesh"
+    ],
+    "answer": "Sri Lanka"
+  },
+  {
+    "question": "Which team won the IPL 2026 title?",
+    "options": [
+      "Gujarat Titans",
+      "Mumbai Indians",
+      "Royal Challengers Bengaluru",
+      "Chennai Super Kings"
+    ],
+    "answer": "Royal Challengers Bengaluru"
+  },
+  {
+    "question": "RCB won the IPL 2026 title by defeating which team in the final?",
+    "options": [
+      "Punjab Kings",
+      "Mumbai Indians",
+      "Gujarat Titans",
+      "Lucknow Super Giants"
+    ],
+    "answer": "Gujarat Titans"
+  },
+  {
+    "question": "The Thomas Cup is associated with which sport?",
+    "options": [
+      "Table Tennis",
+      "Badminton",
+      "Tennis",
+      "Squash"
+    ],
+    "answer": "Badminton"
+  },
+  {
+    "question": "Which country hosted the Thomas Cup 2026?",
+    "options": [
+      "China",
+      "France",
+      "Denmark",
+      "India"
+    ],
+    "answer": "Denmark"
+  },
+  {
+    "question": "Which country won the Thomas Cup 2026 men's badminton championship?",
+    "options": [
+      "India",
+      "France",
+      "China",
+      "Indonesia"
+    ],
+    "answer": "China"
+  },
+  {
+    "question": "China defeated which country in the final of the Thomas Cup 2026?",
+    "options": [
+      "India",
+      "Malaysia",
+      "France",
+      "Japan"
+    ],
+    "answer": "France"
+  },
+  {
+    "question": "Which medal was won by India at the Thomas Cup 2026?",
+    "options": [
+      "Gold",
+      "Silver",
+      "Bronze",
+      "No medal"
+    ],
+    "answer": "Bronze"
+  },
+  {
+    "question": "Which Indian shuttler was associated with India's bronze medal performance at the Thomas Cup 2026?",
+    "options": [
+      "HS Prannoy",
+      "Lakshya Sen",
+      "Kidambi Srikanth",
+      "Priyanshu Rajawat"
+    ],
+    "answer": "Lakshya Sen"
+  }
+]
+}

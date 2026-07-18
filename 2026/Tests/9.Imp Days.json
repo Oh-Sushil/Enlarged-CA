@@ -1,0 +1,64 @@
+{
+"Important Days": [
+  {
+    "question": "When is World Wildlife Day observed in 2026?",
+    "options": ["March 3", "March 5", "February 3", "June 5"],
+    "answer": "March 3"
+  },
+  {
+    "question": "Which of the following international observances is celebrated on March 3?",
+    "options": [
+      "World Wildlife Day",
+      "World Environment Day",
+      "World Unani Day",
+      "International Day of Yoga"
+    ],
+    "answer": "World Wildlife Day"
+  },
+  {
+    "question": "When is World Unani Day observed in 2026?",
+    "options": ["February 11", "February 21", "January 11", "March 11"],
+    "answer": "February 11"
+  },
+  {
+    "question": "World Unani Day is associated with which personality according to the note?",
+    "options": [
+      "Mohammad Ajmal Khan",
+      "Sudarshan Patnaik",
+      "Dhanvantari",
+      "Hakim Abdul Hameed"
+    ],
+    "answer": "Mohammad Ajmal Khan"
+  },
+  {
+    "question": "On which date is the International Day of Yoga celebrated?",
+    "options": ["June 21", "June 5", "May 21", "July 21"],
+    "answer": "June 21"
+  },
+  {
+    "question": "What is the theme of the International Day of Yoga 2026?",
+    "options": [
+      "Yoga for Healthy Ageing",
+      "Yoga for One Earth One Health",
+      "Yoga for Humanity",
+      "Yoga for Wellness"
+    ],
+    "answer": "Yoga for Healthy Ageing"
+  },
+  {
+    "question": "World Environment Day 2026 is observed on which date?",
+    "options": ["June 5", "June 21", "May 5", "July 5"],
+    "answer": "June 5"
+  },
+  {
+    "question": "Which of the following observances is celebrated on June 5?",
+    "options": [
+      "World Environment Day",
+      "World Wildlife Day",
+      "World Unani Day",
+      "International Day of Yoga"
+    ],
+    "answer": "World Environment Day"
+  }
+]
+}

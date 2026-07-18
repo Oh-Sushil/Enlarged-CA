@@ -1,0 +1,159 @@
+{
+"International": [
+  {
+    "question": "According to WHO, which country became the first in Latin America to eliminate leprosy?",
+    "options": ["Chile", "Brazil", "Argentina", "Peru"],
+    "answer": "Chile"
+  },
+  {
+    "question": "Chile became the world's second country to eliminate leprosy after which nation?",
+    "options": ["Jordan", "Denmark", "Saudi Arabia", "Vietnam"],
+    "answer": "Jordan"
+  },
+  {
+    "question": "Which country has been ranked as the nation most impacted by terrorism?",
+    "options": ["Pakistan", "Afghanistan", "Iran", "Syria"],
+    "answer": "Pakistan"
+  },
+  {
+    "question": "Prambanan Temple, also known as Roro Jonggrang, is located in which country?",
+    "options": ["Indonesia", "Malaysia", "Thailand", "Cambodia"],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "Prambanan Temple is situated near which city in Java?",
+    "options": ["Yogyakarta", "Jakarta", "Bandung", "Surabaya"],
+    "answer": "Yogyakarta"
+  },
+  {
+    "question": "Prambanan Temple is recognized as what?",
+    "options": [
+      "Largest Hindu temple complex",
+      "Largest Buddhist temple complex",
+      "Oldest mosque in Southeast Asia",
+      "Largest Jain temple complex"
+    ],
+    "answer": "Largest Hindu temple complex"
+  },
+  {
+    "question": "Which space telescope was unveiled by NASA to probe the mysteries of dark matter?",
+    "options": [
+      "Roman Space Telescope",
+      "Hubble Space Telescope",
+      "James Webb Space Telescope",
+      "Kepler Space Telescope"
+    ],
+    "answer": "Roman Space Telescope"
+  },
+  {
+    "question": "The Roman Space Telescope unveiled by NASA is intended to study which phenomenon?",
+    "options": ["Dark Matter", "Black Holes", "Solar Flares", "Asteroids"],
+    "answer": "Dark Matter"
+  },
+  {
+    "question": "What is 'Taimoor'?",
+    "options": [
+      "Pakistan's indigenous Anti-Ship Cruise Missile",
+      "Pakistan's ballistic missile",
+      "Iran's air defence system",
+      "UAE's surveillance drone"
+    ],
+    "answer": "Pakistan's indigenous Anti-Ship Cruise Missile"
+  },
+  {
+    "question": "Which country developed the indigenous Anti-Ship Cruise Missile named 'Taimoor'?",
+    "options": ["Pakistan", "Iran", "Turkey", "Saudi Arabia"],
+    "answer": "Pakistan"
+  },
+  {
+    "question": "Which country announced its withdrawal from the OPEC and OPEC+ oil alliance?",
+    "options": ["UAE", "Qatar", "Kuwait", "Bahrain"],
+    "answer": "UAE"
+  },
+  {
+    "question": "'Project Freedom' was launched by which country?",
+    "options": ["USA", "UK", "France", "Israel"],
+    "answer": "USA"
+  },
+  {
+    "question": "What is the purpose of the USA's 'Project Freedom'?",
+    "options": [
+      "To escort ships through the Strait of Hormuz",
+      "To monitor Arctic shipping routes",
+      "To secure the Panama Canal",
+      "To protect the Suez Canal"
+    ],
+    "answer": "To escort ships through the Strait of Hormuz"
+  },
+  {
+    "question": "Which country became the second overseas buyer of the BrahMos missile system after the Philippines?",
+    "options": ["Vietnam", "Indonesia", "Malaysia", "Thailand"],
+    "answer": "Vietnam"
+  },
+  {
+    "question": "Who was the first overseas buyer of the BrahMos missile system?",
+    "options": ["Philippines", "Vietnam", "Indonesia", "UAE"],
+    "answer": "Philippines"
+  },
+  {
+    "question": "Which country became the 10th member of the New Development Bank (NDB)?",
+    "options": ["Uzbekistan", "Kazakhstan", "Kyrgyzstan", "Tajikistan"],
+    "answer": "Uzbekistan"
+  },
+  {
+    "question": "Uzbekistan became the first country from which region to join the New Development Bank (NDB)?",
+    "options": ["Central Asia", "West Asia", "Eastern Europe", "Southeast Asia"],
+    "answer": "Central Asia"
+  },
+  {
+    "question": "Who was elected as the 81st President of the United Nations General Assembly (UNGA)?",
+    "options": [
+      "Rahman",
+      "Ajit Doval",
+      "Antonio Guterres",
+      "Taimoor Khan"
+    ],
+    "answer": "Rahman"
+  },
+  {
+    "question": "Rahman, elected as the 81st President of the UNGA, is the Foreign Minister of which country?",
+    "options": ["Bangladesh", "Pakistan", "Malaysia", "Indonesia"],
+    "answer": "Bangladesh"
+  },
+  {
+    "question": "Operation Epic Fury was launched by which countries?",
+    "options": [
+      "USA and Israel",
+      "USA and UK",
+      "Israel and France",
+      "USA and Germany"
+    ],
+    "answer": "USA and Israel"
+  },
+  {
+    "question": "Operation Epic Fury was launched against which country?",
+    "options": ["Iran", "Iraq", "Syria", "Yemen"],
+    "answer": "Iran"
+  },
+  {
+    "question": "Which country became the first in the European Union to eliminate mother-to-child transmission of HIV and syphilis?",
+    "options": ["Denmark", "Sweden", "Norway", "Finland"],
+    "answer": "Denmark"
+  },
+  {
+    "question": "Denmark achieved elimination of mother-to-child transmission of which two diseases?",
+    "options": [
+      "HIV and Syphilis",
+      "Tuberculosis and HIV",
+      "Malaria and Syphilis",
+      "Hepatitis B and HIV"
+    ],
+    "answer": "HIV and Syphilis"
+  },
+  {
+    "question": "Which country became the 26th member of the International Big Cat Alliance (IBCA)?",
+    "options": ["Saudi Arabia", "UAE", "Jordan", "Oman"],
+    "answer": "Saudi Arabia"
+  }
+]
+}

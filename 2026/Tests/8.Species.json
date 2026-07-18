@@ -1,0 +1,324 @@
+{
+"Species": [
+  {
+    "question": "Which new dragonfly species was discovered in Kerala?",
+    "options": [
+      "Lyriothemis keralensis",
+      "Lyriothemis indica",
+      "Orthetrum keralense",
+      "Brachythemis malabarica"
+    ],
+    "answer": "Lyriothemis keralensis"
+  },
+  {
+    "question": "The newly discovered dragonfly species 'Lyriothemis keralensis' was found in which state?",
+    "options": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Kerala",
+      "Assam"
+    ],
+    "answer": "Kerala"
+  },
+  {
+    "question": "Two new marine worm species belonging to which group were discovered in the Bay of Bengal?",
+    "options": [
+      "Annelida: Nereididae",
+      "Arthropoda: Crustacea",
+      "Mollusca: Gastropoda",
+      "Echinodermata: Asteroidea"
+    ],
+    "answer": "Annelida: Nereididae"
+  },
+  {
+    "question": "Two new marine worm species were discovered in which water body?",
+    "options": [
+      "Arabian Sea",
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Laccadive Sea"
+    ],
+    "answer": "Bay of Bengal"
+  },
+  {
+    "question": "Which of the following is one of the two new ant fly species discovered in India?",
+    "options": [
+      "Metadon ghorpadei",
+      "Metadon indicus",
+      "Metadon delhiensis",
+      "Metadon ghaticus"
+    ],
+    "answer": "Metadon ghorpadei"
+  },
+  {
+    "question": "Which of the following is the second newly discovered ant fly species?",
+    "options": [
+      "Metadon reemeri",
+      "Metadon siruvani",
+      "Metadon tamilensis",
+      "Metadon ridgei"
+    ],
+    "answer": "Metadon reemeri"
+  },
+  {
+    "question": "One of the newly discovered ant fly species was found in which forest of Delhi?",
+    "options": [
+      "Central Ridge Forest",
+      "Northern Ridge Forest",
+      "Asola Forest",
+      "Sanjay Van"
+    ],
+    "answer": "Northern Ridge Forest"
+  },
+  {
+    "question": "The Siruvani Hills, where one of the new ant fly species was discovered, are located in which mountain range?",
+    "options": [
+      "Eastern Ghats",
+      "Aravalli Range",
+      "Western Ghats",
+      "Vindhya Range"
+    ],
+    "answer": "Western Ghats"
+  },
+  {
+    "question": "What is the name of the new reed snake species discovered in Mizoram?",
+    "options": [
+      "Calamaria mizoramensis",
+      "Calamaria garoensis",
+      "Calamaria indicus",
+      "Calamaria arunachalensis"
+    ],
+    "answer": "Calamaria mizoramensis"
+  },
+  {
+    "question": "The reed snake species 'Calamaria mizoramensis' was discovered in which state?",
+    "options": [
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland",
+      "Assam"
+    ],
+    "answer": "Mizoram"
+  },
+  {
+    "question": "Which newly discovered frog species is named after Soman?",
+    "options": [
+      "Leptobrachium mechuka",
+      "Leptobrachium somani",
+      "Leptobrachium arunachalensis",
+      "Leptobrachium himalayensis"
+    ],
+    "answer": "Leptobrachium somani"
+  },
+  {
+    "question": "Which newly discovered slender-armed frog species is named after Mechuka?",
+    "options": [
+      "Leptobrachium somani",
+      "Leptobrachium mechuka",
+      "Leptobrachium mizoramensis",
+      "Leptobrachium nagalandensis"
+    ],
+    "answer": "Leptobrachium mechuka"
+  },
+  {
+    "question": "The two new slender-armed frog species were discovered in which state?",
+    "options": [
+      "Sikkim",
+      "Arunachal Pradesh",
+      "Mizoram",
+      "Meghalaya"
+    ],
+    "answer": "Arunachal Pradesh"
+  },
+  {
+    "question": "Which of the following is a newly discovered earthworm species from Silent Valley National Park?",
+    "options": [
+      "Moniligaster girishi",
+      "Drawida vazhania",
+      "Drawida keralaensis",
+      "Moniligaster malabarica"
+    ],
+    "answer": "Moniligaster girishi"
+  },
+  {
+    "question": "Which newly discovered earthworm species was found along with Moniligaster girishi in Silent Valley National Park?",
+    "options": [
+      "Drawida reynoldsi",
+      "Drawida vazhania",
+      "Drawida silentensis",
+      "Moniligaster reynoldsi"
+    ],
+    "answer": "Drawida reynoldsi"
+  },
+  {
+    "question": "Silent Valley National Park, where two new earthworm species were discovered, is located in which state?",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu",
+      "Goa"
+    ],
+    "answer": "Kerala"
+  },
+  {
+    "question": "What is the name of the newly discovered blind miniature fish from Assam?",
+    "options": [
+      "Gitchak nakan",
+      "Gitchak assamensis",
+      "Blindichthys nakan",
+      "Nakania gitchak"
+    ],
+    "answer": "Gitchak nakan"
+  },
+  {
+    "question": "The blind miniature fish 'Gitchak nakan' was discovered in which state?",
+    "options": [
+      "Arunachal Pradesh",
+      "Assam",
+      "Nagaland",
+      "Meghalaya"
+    ],
+    "answer": "Assam"
+  },
+  {
+    "question": "Which new plant species was discovered in Manas National Park?",
+    "options": [
+      "Osbeckia zubeengargiana",
+      "Osbeckia manasensis",
+      "Osbeckia assamica",
+      "Osbeckia indica"
+    ],
+    "answer": "Osbeckia zubeengargiana"
+  },
+  {
+    "question": "Manas National Park, where Osbeckia zubeengargiana was discovered, is located in which state?",
+    "options": [
+      "Assam",
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland"
+    ],
+    "answer": "Assam"
+  },
+  {
+    "question": "Which new earthworm species was discovered in Kerala?",
+    "options": [
+      "Drawida vazhania",
+      "Drawida reynoldsi",
+      "Moniligaster girishi",
+      "Drawida keralaica"
+    ],
+    "answer": "Drawida vazhania"
+  },
+  {
+    "question": "What is the name of the new cockroach species discovered in the Deccan Peninsula?",
+    "options": [
+      "Neoloboptera peninsularis",
+      "Periplaneta deccanica",
+      "Neoloboptera indicus",
+      "Peninsularis nathachiwadi"
+    ],
+    "answer": "Neoloboptera peninsularis"
+  },
+  {
+    "question": "The new cockroach species Neoloboptera peninsularis was discovered in Nathachiwadi of which state?",
+    "options": [
+      "Karnataka",
+      "Maharashtra",
+      "Telangana",
+      "Kerala"
+    ],
+    "answer": "Maharashtra"
+  },
+  {
+    "question": "Which new burrowing reed snake species was discovered in Meghalaya?",
+    "options": [
+      "Calamaria mizoramensis",
+      "Calamaria garoensis",
+      "Calamaria meghalayaensis",
+      "Calamaria khasiensis"
+    ],
+    "answer": "Calamaria garoensis"
+  },
+  {
+    "question": "Which spider species was newly discovered in Nagaland?",
+    "options": [
+      "Psechrus ntu",
+      "Psechrus meghalaya",
+      "Psechrus garoensis",
+      "Psechrus indicus"
+    ],
+    "answer": "Psechrus ntu"
+  },
+  {
+    "question": "Which spider species was newly discovered along with Psechrus ntu?",
+    "options": [
+      "Psechrus phenshunyu",
+      "Psechrus nagalandensis",
+      "Psechrus himalayensis",
+      "Psechrus arunachali"
+    ],
+    "answer": "Psechrus phenshunyu"
+  },
+  {
+    "question": "Researchers completed the first comprehensive taxonomic revision of which Indian arachnid group in over 100 years?",
+    "options": [
+      "Scorpions",
+      "Whip Scorpions (Thelyphonids)",
+      "Tarantulas",
+      "Harvestmen"
+    ],
+    "answer": "Whip Scorpions (Thelyphonids)"
+  },
+  {
+    "question": "What is the name of the newly discovered worm-eating snake from Mizoram?",
+    "options": [
+      "Trachischium lalremsangai",
+      "Calamaria mizoramensis",
+      "Trachischium indicum",
+      "Trachischium mizoensis"
+    ],
+    "answer": "Trachischium lalremsangai"
+  },
+  {
+    "question": "Which new lynx spider species was discovered in Meghalaya?",
+    "options": [
+      "Hamataliwa mawlyngot",
+      "Hamataliwa meghalayaensis",
+      "Oxyopes mawlyngot",
+      "Hamataliwa garoensis"
+    ],
+    "answer": "Hamataliwa mawlyngot"
+  },
+  {
+    "question": "Which microscopic snail species was discovered in Meghalaya?",
+    "options": [
+      "Georissa meghalayaensis",
+      "Georissa assamensis",
+      "Acmella meghalaya",
+      "Georissa puriensis"
+    ],
+    "answer": "Georissa meghalayaensis"
+  },
+  {
+    "question": "Which of the following is the second newly discovered microscopic snail species from Meghalaya?",
+    "options": [
+      "Acmella bensoni",
+      "Acmella indica",
+      "Georissa bensoni",
+      "Acmella puriensis"
+    ],
+    "answer": "Acmella bensoni"
+  },
+  {
+    "question": "The newly discovered microscopic snail species were found in which limestone caves of Meghalaya?",
+    "options": [
+      "Mawsmai and Siju",
+      "Krem Puri and Arwah",
+      "Krem Liat Prah and Synrang",
+      "Mawmluh and Tetengkol"
+    ],
+    "answer": "Krem Puri and Arwah"
+  }
+]
+}

@@ -1,0 +1,64 @@
+{
+"Appointments": [
+  {
+    "question": "Who was appointed as the Director of the Intelligence Bureau (IB)?",
+    "options": [
+      "Mahesh Dixit",
+      "Tushar Mehta",
+      "Giles Thomson",
+      "Ajit Doval"
+    ],
+    "answer": "Mahesh Dixit"
+  },
+  {
+    "question": "Mahesh Dixit was appointed as the Director of which organization?",
+    "options": [
+      "Intelligence Bureau (IB)",
+      "Research and Analysis Wing (RAW)",
+      "National Investigation Agency (NIA)",
+      "Central Bureau of Investigation (CBI)"
+    ],
+    "answer": "Intelligence Bureau (IB)"
+  },
+  {
+    "question": "Who was appointed as the next President of the Financial Action Task Force (FATF)?",
+    "options": [
+      "Giles Thomson",
+      "Tushar Mehta",
+      "Mahesh Dixit",
+      "Vivek Aggarwal"
+    ],
+    "answer": "Giles Thomson"
+  },
+  {
+    "question": "Giles Thomson was appointed as the next President of which international body?",
+    "options": [
+      "Financial Action Task Force (FATF)",
+      "World Bank",
+      "International Monetary Fund (IMF)",
+      "World Trade Organization (WTO)"
+    ],
+    "answer": "Financial Action Task Force (FATF)"
+  },
+  {
+    "question": "Who is serving as the Solicitor General of India?",
+    "options": [
+      "Tushar Mehta",
+      "R. Venkataramani",
+      "Mahesh Dixit",
+      "Giles Thomson"
+    ],
+    "answer": "Tushar Mehta"
+  },
+  {
+    "question": "Tushar Mehta holds which constitutional/legal position in India?",
+    "options": [
+      "Solicitor General",
+      "Attorney General",
+      "Chief Election Commissioner",
+      "Central Vigilance Commissioner"
+    ],
+    "answer": "Solicitor General"
+  }
+]
+}

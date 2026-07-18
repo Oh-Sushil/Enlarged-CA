@@ -1,0 +1,114 @@
+{
+"Books": [
+  {
+    "question": "Who is the author of the book 'Red Lines Redrawn: Operation Sindoor and India’s New Normal'?",
+    "options": ["General Upendra Dwivedi", "Vinod Rai", "Prabhat Kumar", "P. P. Sathyan"],
+    "answer": "General Upendra Dwivedi"
+  },
+  {
+    "question": "The book 'Red Lines Redrawn: Operation Sindoor and India’s New Normal' is authored by which Chief of Army Staff?",
+    "options": ["General Upendra Dwivedi", "General Manoj Pande", "General Anil Chauhan", "General Bipin Rawat"],
+    "answer": "General Upendra Dwivedi"
+  },
+  {
+    "question": "Who wrote 'The Library Man of India: The Story of P.N. Panicker'?",
+    "options": ["P. P. Sathyan", "Prabhat Kumar", "Sudha Murty", "Vinod Rai"],
+    "answer": "P. P. Sathyan"
+  },
+  {
+    "question": "'The Library Man of India: The Story of P.N. Panicker' is based on the life of whom?",
+    "options": ["P.N. Panicker", "Mahatma Gandhi", "Agatthiyar", "C. P. Radhakrishnan"],
+    "answer": "P.N. Panicker"
+  },
+  {
+    "question": "Who authored the book 'IIT: The Story of India’s Most Prestigious Educational Ecosystem'?",
+    "options": ["Prabhat Kumar", "P. P. Sathyan", "Sudha Murty", "Vinod Rai"],
+    "answer": "Prabhat Kumar"
+  },
+  {
+    "question": "Which book explores India's most prestigious educational ecosystem?",
+    "options": [
+      "IIT: The Story of India’s Most Prestigious Educational Ecosystem",
+      "When Audit Matters",
+      "Tides of Time",
+      "Mahatma: A Great Communicator"
+    ],
+    "answer": "IIT: The Story of India’s Most Prestigious Educational Ecosystem"
+  },
+  {
+    "question": "Who are the authors of the book 'Agatthiyar – The Unifier'?",
+    "options": [
+      "O. Shama Bhat and Dr. M. N. Sudha",
+      "Prabhat Kumar and Vinod Rai",
+      "Sudha Murty and P. P. Sathyan",
+      "General Upendra Dwivedi and Vinod Rai"
+    ],
+    "answer": "O. Shama Bhat and Dr. M. N. Sudha"
+  },
+  {
+    "question": "Which book was authored by O. Shama Bhat and Dr. M. N. Sudha?",
+    "options": [
+      "Agatthiyar – The Unifier",
+      "Tides of Time",
+      "When Audit Matters",
+      "Mahatma: A Great Communicator"
+    ],
+    "answer": "Agatthiyar – The Unifier"
+  },
+  {
+    "question": "Which Vice-President released the book 'When Audit Matters'?",
+    "options": [
+      "C. P. Radhakrishnan",
+      "Jagdeep Dhankhar",
+      "M. Venkaiah Naidu",
+      "Hamid Ansari"
+    ],
+    "answer": "C. P. Radhakrishnan"
+  },
+  {
+    "question": "Who edited the book 'When Audit Matters'?",
+    "options": ["Vinod Rai", "Prabhat Kumar", "P. P. Sathyan", "Sudha Murty"],
+    "answer": "Vinod Rai"
+  },
+  {
+    "question": "Former CAG Vinod Rai is associated with which book as editor?",
+    "options": [
+      "When Audit Matters",
+      "Tides of Time",
+      "Agatthiyar – The Unifier",
+      "The Library Man of India"
+    ],
+    "answer": "When Audit Matters"
+  },
+  {
+    "question": "Who is the author of the book 'Mahatma: A Great Communicator'?",
+    "options": ["Dr Dhiraj Kakadia", "Vinod Rai", "Prabhat Kumar", "Sudha Murty"],
+    "answer": "Dr Dhiraj Kakadia"
+  },
+  {
+    "question": "Which book was written by Dr Dhiraj Kakadia?",
+    "options": [
+      "Mahatma: A Great Communicator",
+      "When Audit Matters",
+      "Tides of Time",
+      "Agatthiyar – The Unifier"
+    ],
+    "answer": "Mahatma: A Great Communicator"
+  },
+  {
+    "question": "Who authored the book 'Tides of Time'?",
+    "options": ["Sudha Murty", "Prabhat Kumar", "Vinod Rai", "P. P. Sathyan"],
+    "answer": "Sudha Murty"
+  },
+  {
+    "question": "Which of the following books is written by Sudha Murty?",
+    "options": [
+      "Tides of Time",
+      "When Audit Matters",
+      "The Library Man of India",
+      "Mahatma: A Great Communicator"
+    ],
+    "answer": "Tides of Time"
+  }
+]
+}

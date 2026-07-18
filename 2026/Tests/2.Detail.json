@@ -1,0 +1,974 @@
+{
+"Detail": [
+  {
+    "question": "Which country officially withdrew from the World Health Organization (WHO)?",
+    "options": ["USA", "Canada", "Germany", "Australia"],
+    "answer": "USA"
+  },
+  {
+    "question": "Approximately what percentage of WHO funding is contributed by the USA?",
+    "options": ["18%", "12%", "25%", "30%"],
+    "answer": "18%"
+  },
+  {
+    "question": "Who launched the Responsible Nations Index (RNI)?",
+    "options": ["Ram Nath Kovind", "Droupadi Murmu", "Narendra Modi", "M. Venkaiah Naidu"],
+    "answer": "Ram Nath Kovind"
+  },
+  {
+    "question": "Which country topped the Responsible Nations Index (RNI)?",
+    "options": ["Singapore", "India", "Japan", "Sweden"],
+    "answer": "Singapore"
+  },
+  {
+    "question": "What was India's rank in the Responsible Nations Index (RNI)?",
+    "options": ["16th", "12th", "18th", "20th"],
+    "answer": "16th"
+  },
+  {
+    "question": "India is the world's largest producer of which fruit?",
+    "options": ["Papaya", "Apple", "Orange", "Grapes"],
+    "answer": "Papaya"
+  },
+  {
+    "question": "India is the world's largest producer of which fruit?",
+    "options": ["Mango", "Pineapple", "Pear", "Cherry"],
+    "answer": "Mango"
+  },
+  {
+    "question": "India is the world's largest producer of which fruit?",
+    "options": ["Banana", "Peach", "Kiwi", "Plum"],
+    "answer": "Banana"
+  },
+  {
+    "question": "India ranks as the world's _____ largest vegetable producer.",
+    "options": ["2nd", "1st", "3rd", "4th"],
+    "answer": "2nd"
+  },
+  {
+    "question": "India is the world's largest producer and consumer of which commodity?",
+    "options": ["Spices", "Tea", "Coffee", "Cocoa"],
+    "answer": "Spices"
+  },
+  {
+    "question": "India is the world's largest producer of which crop?",
+    "options": ["Coconut", "Rubber", "Olive", "Date Palm"],
+    "answer": "Coconut"
+  },
+  {
+    "question": "India is the world's largest producer of which nut crop?",
+    "options": ["Arecanut", "Almond", "Walnut", "Pistachio"],
+    "answer": "Arecanut"
+  },
+  {
+    "question": "India's fish production increased by what percentage over the past decade?",
+    "options": ["106%", "96%", "116%", "126%"],
+    "answer": "106%"
+  },
+  {
+    "question": "India's fish production in FY 2024-25 reached approximately how many lakh tonnes?",
+    "options": ["197.75", "187.75", "207.75", "177.75"],
+    "answer": "197.75"
+  },
+  {
+    "question": "Which institution developed the first-ever supercomputer-powered simulation to model the Mpemba Effect?",
+    "options": [
+      "Jawaharlal Nehru Centre for Advanced Scientific Research",
+      "IISc Bengaluru",
+      "IIT Madras",
+      "TIFR Mumbai"
+    ],
+    "answer": "Jawaharlal Nehru Centre for Advanced Scientific Research"
+  },
+  {
+    "question": "The Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) is located in which city?",
+    "options": ["Bengaluru", "Hyderabad", "Chennai", "Pune"],
+    "answer": "Bengaluru"
+  },
+  {
+    "question": "What does the Mpemba Effect state?",
+    "options": [
+      "Hot water freezes faster than cold water",
+      "Cold water boils faster than hot water",
+      "Hot water evaporates slower than cold water",
+      "Cold water melts ice faster than hot water"
+    ],
+    "answer": "Hot water freezes faster than cold water"
+  },
+  {
+    "question": "India and Pakistan exchanged nuclear installation lists on January 1, 2026, for the _____ time.",
+    "options": ["35th", "30th", "32nd", "40th"],
+    "answer": "35th"
+  },
+  {
+    "question": "India and Pakistan exchange nuclear installation lists under which agreement?",
+    "options": [
+      "Prohibition of Attack against Nuclear Installations and Facilities",
+      "Lahore Declaration",
+      "Simla Agreement",
+      "Indus Waters Treaty"
+    ],
+    "answer": "Prohibition of Attack against Nuclear Installations and Facilities"
+  },
+  {
+    "question": "Pradhan Mantri Matru Vandana Yojana was launched on:",
+    "options": [
+      "1 January 2017",
+      "1 January 2018",
+      "26 January 2017",
+      "15 August 2017"
+    ],
+    "answer": "1 January 2017"
+  },
+  {
+    "question": "Pradhan Mantri Matru Vandana Yojana provides financial support to:",
+    "options": [
+      "Pregnant and lactating mothers",
+      "Senior citizens",
+      "Farmers",
+      "School children"
+    ],
+    "answer": "Pregnant and lactating mothers"
+  },
+  {
+    "question": "Which scheme provides cashless treatment to road accident victims up to Rs 1.5 lakh?",
+    "options": [
+      "PM RAHAT Scheme",
+      "Ayushman Bharat",
+      "PM Suraksha Yojana",
+      "Jeevan Raksha Scheme"
+    ],
+    "answer": "PM RAHAT Scheme"
+  },
+  {
+    "question": "Under the PM RAHAT Scheme, cashless treatment is available up to what amount per victim?",
+    "options": [
+      "Rs 1.5 lakh",
+      "Rs 1 lakh",
+      "Rs 2 lakh",
+      "Rs 50,000"
+    ],
+    "answer": "Rs 1.5 lakh"
+  },
+  {
+    "question": "For how many days from the date of accident is treatment covered under the PM RAHAT Scheme?",
+    "options": ["7 days", "10 days", "15 days", "30 days"],
+    "answer": "7 days"
+  },
+  {
+    "question": "Which ministry's Department of Posts released eight new postage stamps based on traditional puppetry?",
+    "options": [
+      "Department of Posts",
+      "Ministry of Culture",
+      "Ministry of Information and Broadcasting",
+      "Ministry of Tourism"
+    ],
+    "answer": "Department of Posts"
+  },
+  {
+    "question": "Kathputli, featured on a new postage stamp, is associated with which state?",
+    "options": ["Rajasthan", "Gujarat", "Madhya Pradesh", "Punjab"],
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "Yakshagana Sutrada Gombeyatta is a traditional puppet form from:",
+    "options": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh"],
+    "answer": "Karnataka"
+  },
+  {
+    "question": "Benir Putul is a traditional puppet form associated with:",
+    "options": ["West Bengal", "Odisha", "Assam", "Tripura"],
+    "answer": "West Bengal"
+  },
+  {
+    "question": "Daanger Putul belongs to which state?",
+    "options": ["West Bengal", "Bihar", "Jharkhand", "Odisha"],
+    "answer": "West Bengal"
+  },
+  {
+    "question": "Ravanachhaya is a traditional puppet art of:",
+    "options": ["Odisha", "Chhattisgarh", "Assam", "Tripura"],
+    "answer": "Odisha"
+  },
+  {
+    "question": "Kathi Kundhei is associated with which state?",
+    "options": ["Odisha", "Kerala", "Telangana", "Karnataka"],
+    "answer": "Odisha"
+  },
+  {
+    "question": "Pavakathakali is a traditional puppet form from:",
+    "options": ["Kerala", "Tamil Nadu", "Karnataka", "Goa"],
+    "answer": "Kerala"
+  },
+  {
+    "question": "Tolu Bommalatta is associated with which state?",
+    "options": ["Andhra Pradesh", "Telangana", "Tamil Nadu", "Karnataka"],
+    "answer": "Andhra Pradesh"
+  },
+  {
+    "question": "India plans to acquire how many Rafale fighter jets from France?",
+    "options": ["114", "126", "96", "144"],
+    "answer": "114"
+  },
+  {
+    "question": "Out of the 114 Rafale fighter jets, how many will be delivered directly?",
+    "options": ["18", "24", "36", "12"],
+    "answer": "18"
+  },
+  {
+    "question": "How many Rafale fighter jets will be manufactured in India under the new acquisition plan?",
+    "options": ["96", "78", "88", "108"],
+    "answer": "96"
+  },
+  {
+    "question": "How many Rafale fighter jets are currently with the Indian Air Force?",
+    "options": ["36", "26", "18", "54"],
+    "answer": "36"
+  },
+  {
+    "question": "How many Rafale fighter jets are currently with the Indian Navy?",
+    "options": ["26", "36", "18", "12"],
+    "answer": "26"
+  },
+  {
+    "question": "After the new acquisition, the total number of Rafale fighter jets with India will be:",
+    "options": ["176", "150", "162", "190"],
+    "answer": "176"
+  },
+  {
+    "question": "Which ministry launched White Revolution 2.0?",
+    "options": [
+      "Ministry of Cooperation",
+      "Ministry of Agriculture",
+      "Ministry of Food Processing Industries",
+      "Ministry of Rural Development"
+    ],
+    "answer": "Ministry of Cooperation"
+  },
+  {
+    "question": "White Revolution 2.0 aims to increase milk procurement by dairy cooperatives by how much over the next five years?",
+    "options": ["50%", "40%", "60%", "75%"],
+    "answer": "50%"
+  },
+  {
+    "question": "India's NDC target for GDP emissions intensity reduction by 2035 compared to 2005 levels is:",
+    "options": ["47%", "40%", "50%", "55%"],
+    "answer": "47%"
+  },
+  {
+    "question": "India had already reduced GDP emissions intensity by what percentage during 2005-2020?",
+    "options": ["36%", "32%", "40%", "42%"],
+    "answer": "36%"
+  },
+  {
+    "question": "Under India's NDC for 2031-2035, non-fossil fuel sources should account for what percentage of installed electric power capacity by 2035?",
+    "options": ["60%", "50%", "70%", "75%"],
+    "answer": "60%"
+  },
+  {
+    "question": "By February 2026, India had already achieved what percentage of installed electric power capacity from non-fossil fuel sources?",
+    "options": ["52.57%", "48.57%", "55.57%", "50.57%"],
+    "answer": "52.57%"
+  },
+  {
+    "question": "India aims to create an additional carbon sink of how many billion tonnes of CO₂ equivalent by 2035?",
+    "options": [
+      "3.5–4 billion tonnes",
+      "2–3 billion tonnes",
+      "4.5–5 billion tonnes",
+      "1.5–2 billion tonnes"
+    ],
+    "answer": "3.5–4 billion tonnes"
+  },
+  {
+    "question": "By 2021, India had already created a carbon sink of how many billion tonnes of CO₂ equivalent?",
+    "options": [
+      "2.29 billion tonnes",
+      "1.89 billion tonnes",
+      "2.79 billion tonnes",
+      "3.29 billion tonnes"
+    ],
+    "answer": "2.29 billion tonnes"
+  },
+  {
+    "question": "Which rail infrastructure project approved by the Ministry of Railways is located in Gujarat?",
+    "options": [
+      "Kosamba Rail Over Rail Flyover",
+      "Bhagalpur Bypass",
+      "Dedicated Freight Corridor",
+      "Siliguri Rail Link"
+    ],
+    "answer": "Kosamba Rail Over Rail Flyover"
+  },
+  {
+    "question": "Which rail infrastructure project approved by the Ministry of Railways is located in Bihar?",
+    "options": [
+      "Bhagalpur Bypass",
+      "Kosamba Rail Over Rail Flyover",
+      "Kishanganj Freight Link",
+      "Patna Circular Rail"
+    ],
+    "answer": "Bhagalpur Bypass"
+  }, 
+  {
+    "question": "What was India's installed power generation capacity as of 31 January 2026?",
+    "options": ["520 GW", "620 GW", "720 GW", "420 GW"],
+    "answer": "520 GW"
+  },
+  {
+    "question": "India's installed power generation capacity is projected to reach by 2035-36:",
+    "options": ["1,121 GW", "1,021 GW", "1,221 GW", "921 GW"],
+    "answer": "1,121 GW"
+  },
+  {
+    "question": "By 2035-36, India's peak electricity demand is expected to reach:",
+    "options": ["459 GW", "559 GW", "359 GW", "659 GW"],
+    "answer": "459 GW"
+  },
+  {
+    "question": "What is the projected CAGR of India's peak electricity demand between FY25 and FY36?",
+    "options": ["5.58%", "4.58%", "6.58%", "7.58%"],
+    "answer": "5.58%"
+  },
+  {
+    "question": "India's total electricity requirement is projected to reach by FY36:",
+    "options": ["3,365 BU", "3,065 BU", "3,565 BU", "2,965 BU"],
+    "answer": "3,365 BU"
+  },
+  {
+    "question": "What is the projected CAGR of India's total electricity requirement between FY25 and FY36?",
+    "options": ["6.41%", "5.41%", "7.41%", "4.41%"],
+    "answer": "6.41%"
+  },
+  {
+    "question": "As per the FAE of 2025-26, the total area under horticulture production in India was:",
+    "options": ["301.31 lakh ha", "291.31 lakh ha", "311.31 lakh ha", "321.31 lakh ha"],
+    "answer": "301.31 lakh ha"
+  },
+  {
+    "question": "The area under horticulture production increased by how many lakh hectares according to the FAE of 2025-26?",
+    "options": ["10.50 lakh ha", "12.50 lakh ha", "8.50 lakh ha", "15.50 lakh ha"],
+    "answer": "10.50 lakh ha"
+  },
+  {
+    "question": "The increase in horticulture area reported in the FAE of 2025-26 was:",
+    "options": ["3.61%", "2.61%", "4.61%", "5.61%"],
+    "answer": "3.61%"
+  },
+  {
+    "question": "Which NITI Aayog report focuses on improving research and development processes in India?",
+    "options": [
+      "Ease of Doing Research & Development in India",
+      "Innovation India Report",
+      "National Research Outlook",
+      "Future Science India"
+    ],
+    "answer": "Ease of Doing Research & Development in India"
+  },
+  {
+    "question": "Which of the following is a NITI Aayog report on R&D?",
+    "options": [
+      "Survey Report on Ease of Doing R&D in India",
+      "Research Excellence Index",
+      "Innovation Readiness Survey",
+      "National Technology Report"
+    ],
+    "answer": "Survey Report on Ease of Doing R&D in India"
+  },
+  {
+    "question": "Which NITI Aayog initiative was launched to support Atal Tinkering Labs?",
+    "options": ["ATL Sarthi", "ATL Pragati", "ATL Mission", "ATL Connect"],
+    "answer": "ATL Sarthi"
+  },
+  {
+    "question": "Which new NITI Aayog initiative aims to strengthen mentoring ecosystems?",
+    "options": [
+      "Mentor India Academy",
+      "Mentor Bharat Mission",
+      "India Research Academy",
+      "Atal Mentor Network"
+    ],
+    "answer": "Mentor India Academy"
+  },
+  {
+    "question": "India ranked which position globally in tech funding during FY26?",
+    "options": ["4th", "3rd", "5th", "6th"],
+    "answer": "4th"
+  },
+  {
+    "question": "How much tech funding did India attract in FY26?",
+    "options": ["USD 11.7 billion", "USD 10.7 billion", "USD 12.7 billion", "USD 14.3 billion"],
+    "answer": "USD 11.7 billion"
+  },
+  {
+    "question": "India's tech funding in FY26 reflected what percentage decline from FY25?",
+    "options": ["18%", "15%", "20%", "12%"],
+    "answer": "18%"
+  },
+  {
+    "question": "India's tech funding increased by what percentage in FY26 compared to FY24?",
+    "options": ["20%", "18%", "22%", "25%"],
+    "answer": "20%"
+  },
+  {
+    "question": "What is the name of India's first privately built orbital rocket developed by Skyroot Aerospace?",
+    "options": ["Vikram-1", "Agni-1", "Pragyan-1", "Skyrocket-1"],
+    "answer": "Vikram-1"
+  },
+  {
+    "question": "Which company developed the Vikram-1 rocket?",
+    "options": [
+      "Skyroot Aerospace",
+      "Agnikul Cosmos",
+      "HAL",
+      "L&T Defence"
+    ],
+    "answer": "Skyroot Aerospace"
+  },
+  {
+    "question": "Vikram-1 was transported from Skyroot's Max-Q campus located in:",
+    "options": ["Hyderabad", "Bengaluru", "Chennai", "Pune"],
+    "answer": "Hyderabad"
+  },
+  {
+    "question": "Vikram-1 was transported to which launch center?",
+    "options": [
+      "Satish Dhawan Space Centre",
+      "Vikram Sarabhai Space Centre",
+      "UR Rao Satellite Centre",
+      "ISRO Telemetry Centre"
+    ],
+    "answer": "Satish Dhawan Space Centre"
+  },
+  {
+    "question": "According to NITI Aayog's Digital Public Infrastructure roadmap, DPI 2.0 covers which period?",
+    "options": ["2025-2035", "2024-2034", "2030-2040", "2026-2036"],
+    "answer": "2025-2035"
+  },
+  {
+    "question": "According to NITI Aayog's Digital Public Infrastructure roadmap, DPI 3.0 covers which period?",
+    "options": ["2035-2047", "2030-2045", "2040-2050", "2036-2048"],
+    "answer": "2035-2047"
+  },
+  {
+    "question": "NITI Aayog estimates Digital Public Infrastructure could raise GDP by:",
+    "options": ["4%", "3%", "5%", "6%"],
+    "answer": "4%"
+  },
+  {
+    "question": "How many districts does Ladakh have after the creation of new districts?",
+    "options": ["7", "5", "6", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "Which of the following is one of the original districts of Ladakh?",
+    "options": ["Leh", "Nubra", "Drass", "Zanskar"],
+    "answer": "Leh"
+  },
+  {
+    "question": "Which of the following is one of the original districts of Ladakh?",
+    "options": ["Kargil", "Changthang", "Sham", "Nubra"],
+    "answer": "Kargil"
+  },
+  {
+    "question": "Which of the following is a newly created district in Ladakh?",
+    "options": ["Nubra", "Leh", "Kargil", "Srinagar"],
+    "answer": "Nubra"
+  },
+  {
+    "question": "Google Cloud India established its AI Hub in:",
+    "options": ["Tarluvada, Visakhapatnam", "Hyderabad", "Bengaluru", "Chennai"],
+    "answer": "Tarluvada, Visakhapatnam"
+  },
+  {
+    "question": "The Google Cloud India AI Hub project represents an investment of:",
+    "options": ["USD 15 billion", "USD 10 billion", "USD 20 billion", "USD 12 billion"],
+    "answer": "USD 15 billion"
+  },
+  {
+    "question": "Google Cloud India's AI Hub is described as India's:",
+    "options": [
+      "Largest Single FDI",
+      "Largest Data Centre",
+      "Largest AI Startup",
+      "Largest Software Export Zone"
+    ],
+    "answer": "Largest Single FDI"
+  },
+  {
+    "question": "India became the world's _____ largest military spender.",
+    "options": ["5th", "4th", "6th", "7th"],
+    "answer": "5th"
+  },
+  {
+    "question": "India's military expenditure reached how much according to the report?",
+    "options": ["USD 92.1 billion", "USD 82.1 billion", "USD 102.1 billion", "USD 72.1 billion"],
+    "answer": "USD 92.1 billion"
+  },
+  {
+    "question": "India's military spending increased by what percentage over the previous year?",
+    "options": ["8.9%", "7.9%", "9.9%", "6.9%"],
+    "answer": "8.9%"
+  },
+  {
+    "question": "India accounted for what percentage of global military spending?",
+    "options": ["3.2%", "2.2%", "4.2%", "5.2%"],
+    "answer": "3.2%"
+  },
+  {
+    "question": "According to the Global Forest Report 2026, the major driver of global forest loss is:",
+    "options": [
+      "Fuelwood demand",
+      "Urbanisation",
+      "Mining",
+      "Industrial pollution"
+    ],
+    "answer": "Fuelwood demand"
+  },
+  {
+    "question": "According to the Global Forest Report 2026, the second major driver of global forest loss is:",
+    "options": [
+      "Agriculture expansion",
+      "Mining activities",
+      "Industrialisation",
+      "Infrastructure projects"
+    ],
+    "answer": "Agriculture expansion"
+  },
+  {
+    "question": "Which regions recorded the highest forest loss according to the Global Forest Report 2026?",
+    "options": [
+      "South America and Africa",
+      "Europe and Asia",
+      "North America and Europe",
+      "Australia and Asia"
+    ],
+    "answer": "South America and Africa"
+  },
+  {
+    "question": "Which city introduced India's first solar-powered Algae Tree?",
+    "options": ["Bhopal", "Indore", "Nagpur", "Jaipur"],
+    "answer": "Bhopal"
+  },
+  {
+    "question": "One Algae Tree unit is considered equivalent to how many mature trees?",
+    "options": ["25", "20", "30", "35"],
+    "answer": "25"
+  },
+  {
+    "question": "The Algae Tree can reduce pollution within a 15-meter radius by:",
+    "options": ["45-55%", "35-45%", "55-65%", "25-35%"],
+    "answer": "45-55%"
+  },
+  {
+    "question": "Mission Coffee of Nagaland promotes Arabica coffee cultivation in:",
+    "options": [
+      "Tuophema village, Kohima district",
+      "Ghotovi village, Niuland district",
+      "Mokokchung town",
+      "Mon district"
+    ],
+    "answer": "Tuophema village, Kohima district"
+  },
+  {
+    "question": "Mission Coffee of Nagaland promotes Robusta coffee cultivation in:",
+    "options": [
+      "Ghotovi village, Niuland district",
+      "Tuophema village, Kohima district",
+      "Mon district",
+      "Wokha district"
+    ],
+    "answer": "Ghotovi village, Niuland district"
+  },
+  {
+    "question": "According to Women and Men in India 2025, the sex ratio at birth improved to what level during 2021-23?",
+    "options": ["917", "904", "927", "897"],
+    "answer": "917"
+  },
+  {
+    "question": "According to Women and Men in India 2025, the sex ratio at birth during 2017-19 was:",
+    "options": ["904", "917", "914", "924"],
+    "answer": "904"
+  },
+  {
+    "question": "According to Women and Men in India 2025, the Total Fertility Rate in urban areas is:",
+    "options": ["1.5", "1.8", "2.1", "2.3"],
+    "answer": "1.5"
+  },
+  {
+    "question": "According to Women and Men in India 2025, the Total Fertility Rate in rural areas is:",
+    "options": ["2.1", "1.5", "2.5", "1.9"],
+    "answer": "2.1"
+  },
+  {
+    "question": "The rural female Labour Force Participation Rate (15+ years) increased to:",
+    "options": ["45.9%", "37.5%", "42.9%", "48.9%"],
+    "answer": "45.9%"
+  },
+  {
+    "question": "The rural female Labour Force Participation Rate (15+ years) was previously:",
+    "options": ["37.5%", "45.9%", "35.5%", "40.5%"],
+    "answer": "37.5%"
+  },
+  {
+    "question": "The Gross Enrolment Ratio (GER) in higher education for females increased to:",
+    "options": ["30.2", "28.5", "31.2", "29.2"],
+    "answer": "30.2"
+  },
+  {
+    "question": "The Gross Enrolment Ratio (GER) in higher education for males increased to:",
+    "options": ["28.9", "28.3", "29.9", "27.9"],
+    "answer": "28.9"
+  }, 
+  {
+    "question": "Under the Citizenship (Amendment) Rules, 2026, what is the rule regarding dual passports for minor children?",
+    "options": [
+      "They can hold both Indian and foreign passports simultaneously",
+      "They cannot hold Indian and foreign passports simultaneously",
+      "They can hold dual passports until age 21",
+      "They need only a foreign passport"
+    ],
+    "answer": "They cannot hold Indian and foreign passports simultaneously"
+  },
+  {
+    "question": "What is a key feature of the e-OCI system introduced under the Citizenship (Amendment) Rules, 2026?",
+    "options": [
+      "Only registration is online",
+      "Only renunciation is online",
+      "Entire OCI process is conducted online",
+      "OCI applications must be submitted physically"
+    ],
+    "answer": "Entire OCI process is conducted online"
+  },
+  {
+    "question": "Who set the world record for the youngest and fastest Palk Strait crossing?",
+    "options": [
+      "Ishank Singh",
+      "Sajan Prakash",
+      "Virdhawal Khade",
+      "Srihari Nataraj"
+    ],
+    "answer": "Ishank Singh"
+  },
+  {
+    "question": "Ishank Singh belongs to which Indian state?",
+    "options": [
+      "Bihar",
+      "Jharkhand",
+      "Odisha",
+      "West Bengal"
+    ],
+    "answer": "Jharkhand"
+  },
+  {
+    "question": "The Palk Strait crossing by Ishank Singh was completed between which two locations?",
+    "options": [
+      "Rameswaram and Jaffna",
+      "Talaimannar and Dhanushkodi",
+      "Kanyakumari and Colombo",
+      "Nagapattinam and Mannar"
+    ],
+    "answer": "Talaimannar and Dhanushkodi"
+  },
+  {
+    "question": "What is the approximate distance covered by Ishank Singh during his Palk Strait crossing?",
+    "options": [
+      "21 km",
+      "25 km",
+      "29 km",
+      "35 km"
+    ],
+    "answer": "29 km"
+  },
+  {
+    "question": "Which ministry launched the Panchayat Advancement Index (PAI) 2.0 for FY 2024?",
+    "options": [
+      "Ministry of Rural Development",
+      "Ministry of Panchayati Raj",
+      "Ministry of Home Affairs",
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "answer": "Ministry of Panchayati Raj"
+  },
+  {
+    "question": "Which state topped the Panchayat Advancement Index (PAI) 2.0 among participating states?",
+    "options": [
+      "Kerala",
+      "Sikkim",
+      "Tripura",
+      "Assam"
+    ],
+    "answer": "Tripura"
+  },
+  {
+    "question": "Which village committee emerged as the top-performing Gram Panchayat under PAI 2.0?",
+    "options": [
+      "Mawlynnong Village Committee",
+      "Jugal Kishore Nagar Village Committee",
+      "Khonoma Village Committee",
+      "Majuli Village Committee"
+    ],
+    "answer": "Jugal Kishore Nagar Village Committee"
+  },
+  {
+    "question": "India’s first green methanol production plant is being established at which port?",
+    "options": [
+      "Jawaharlal Nehru Port",
+      "Paradip Port",
+      "Deendayal Port Authority",
+      "VOC Port"
+    ],
+    "answer": "Deendayal Port Authority"
+  },
+  {
+    "question": "India’s first green methanol production plant is located in which district of Gujarat?",
+    "options": [
+      "Kutch",
+      "Surat",
+      "Rajkot",
+      "Jamnagar"
+    ],
+    "answer": "Kutch"
+  },
+  {
+    "question": "Which invasive shrub will be used for green methanol production at Deendayal Port?",
+    "options": [
+      "Lantana camara",
+      "Parthenium hysterophorus",
+      "Prosopis juliflora",
+      "Water hyacinth"
+    ],
+    "answer": "Prosopis juliflora"
+  },
+  {
+    "question": "Prosopis juliflora is locally known by what name?",
+    "options": [
+      "Bhur Baval",
+      "Gando Baval",
+      "Kala Baval",
+      "Desi Baval"
+    ],
+    "answer": "Gando Baval"
+  },
+  {
+    "question": "Which organization released the roadmap titled 'Future of India’s Semiconductor Industry'?",
+    "options": [
+      "ISRO",
+      "NASSCOM",
+      "NITI Aayog",
+      "MeitY"
+    ],
+    "answer": "NITI Aayog"
+  },
+  {
+    "question": "According to NITI Aayog’s semiconductor roadmap, India aims to build a semiconductor value chain of what size by 2035?",
+    "options": [
+      "50-75 billion USD",
+      "80-100 billion USD",
+      "120-150 billion USD",
+      "200-250 billion USD"
+    ],
+    "answer": "120-150 billion USD"
+  },
+  {
+    "question": "India-Oman CEPA officially came into force on which date?",
+    "options": [
+      "January 1, 2026",
+      "March 1, 2026",
+      "June 1, 2026",
+      "July 1, 2026"
+    ],
+    "answer": "June 1, 2026"
+  },
+  {
+    "question": "What percentage of Indian exports received duty-free access under the India-Oman CEPA?",
+    "options": [
+      "95.25%",
+      "97.80%",
+      "99.38%",
+      "100%"
+    ],
+    "answer": "99.38%"
+  },
+  {
+    "question": "What is the objective of the PMRC Scheme 2026?",
+    "options": [
+      "Promote renewable energy projects",
+      "Attract global Indian-origin researchers and professionals",
+      "Support MSME exports",
+      "Enhance tourism infrastructure"
+    ],
+    "answer": "Attract global Indian-origin researchers and professionals"
+  },
+  {
+    "question": "How many priority sectors are covered under the PMRC Scheme 2026?",
+    "options": [
+      "10",
+      "11",
+      "13",
+      "15"
+    ],
+    "answer": "13"
+  },
+  {
+    "question": "Which of the following countries was elected as a non-permanent member of the UN Security Council by the UNGA?",
+    "options": [
+      "Austria",
+      "India",
+      "Germany",
+      "Brazil"
+    ],
+    "answer": "Austria"
+  },
+  {
+    "question": "How many countries were elected as non-permanent members of the UN Security Council in this election?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "India and Japan adopted rules for the Joint Crediting Mechanism under which article of the Paris Agreement?",
+    "options": [
+      "Article 4.1",
+      "Article 5",
+      "Article 6.2",
+      "Article 7"
+    ],
+    "answer": "Article 6.2"
+  },
+  {
+    "question": "The Joint Crediting Mechanism allows countries to cooperate through the transfer of what?",
+    "options": [
+      "Technology licenses",
+      "International carbon credits",
+      "Green bonds",
+      "Climate grants"
+    ],
+    "answer": "International carbon credits"
+  },
+  {
+    "question": "Which country will host the first International Big Cat Alliance (IBCA) Summit in 2026?",
+    "options": [
+      "India",
+      "Brazil",
+      "South Africa",
+      "Kenya"
+    ],
+    "answer": "India"
+  },
+  {
+    "question": "How many big cat species are covered under the International Big Cat Alliance?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "Which of the following is NOT among the seven big cats covered under the IBCA?",
+    "options": [
+      "Jaguar",
+      "Puma",
+      "Snow Leopard",
+      "Lynx"
+    ],
+    "answer": "Lynx"
+  },
+  {
+    "question": "Which country ranks first globally in renewable energy capacity?",
+    "options": [
+      "United States",
+      "India",
+      "China",
+      "Germany"
+    ],
+    "answer": "China"
+  },
+  {
+    "question": "Which country ranks second globally in renewable energy capacity?",
+    "options": [
+      "India",
+      "United States",
+      "Japan",
+      "Germany"
+    ],
+    "answer": "United States"
+  },
+  {
+    "question": "What is India's rank globally in renewable energy capacity?",
+    "options": [
+      "1st",
+      "2nd",
+      "3rd",
+      "4th"
+    ],
+    "answer": "3rd"
+  },
+  {
+    "question": "What is India's total renewable energy capacity according to the given data?",
+    "options": [
+      "225.52 GW",
+      "250.52 GW",
+      "467.92 GW",
+      "520.00 GW"
+    ],
+    "answer": "250.52 GW"
+  },
+  {
+    "question": "According to NCRB’s Crime in India 2024 Report, which state recorded the highest violent crime rate?",
+    "options": [
+      "Odisha",
+      "Bihar",
+      "Jharkhand",
+      "Chhattisgarh"
+    ],
+    "answer": "Odisha"
+  },
+  {
+    "question": "According to NCRB’s Crime in India 2024 Report, which state recorded the lowest overall crime rate?",
+    "options": [
+      "Sikkim",
+      "Nagaland",
+      "Mizoram",
+      "Tripura"
+    ],
+    "answer": "Nagaland"
+  },
+  {
+    "question": "How many PM MITRA textile parks will be set up under the PM MITRA Scheme?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is the total outlay of the PM MITRA Scheme?",
+    "options": [
+      "₹3,445 crore",
+      "₹4,445 crore",
+      "₹5,445 crore",
+      "₹6,445 crore"
+    ],
+    "answer": "₹4,445 crore"
+  },
+  {
+    "question": "Where is the first PM MITRA textile park being established?",
+    "options": [
+      "Surat, Gujarat",
+      "Warangal, Telangana",
+      "Kanpur, Uttar Pradesh",
+      "Indore, Madhya Pradesh"
+    ],
+    "answer": "Warangal, Telangana"
+  }
+]
+}

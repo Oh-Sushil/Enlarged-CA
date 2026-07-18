@@ -1,0 +1,99 @@
+{
+"Military Exercise": [
+  {
+    "question": "The 17th edition of the trilateral Coast Guard exercise 'DOSTI 17' was conducted among which countries?",
+    "options": ["India, Sri Lanka and Maldives", "India, Bangladesh and Maldives", "India, Sri Lanka and Mauritius", "India, Maldives and Seychelles"],
+    "answer": "India, Sri Lanka and Maldives"
+  },
+  {
+    "question": "Where was the 17th trilateral Coast Guard exercise 'DOSTI 17' conducted?",
+    "options": ["Maldives", "Sri Lanka", "India", "Mauritius"],
+    "answer": "Maldives"
+  },
+  {
+    "question": "Which military exercise was conducted by the Indian Army in Pokhran, Rajasthan?",
+    "options": ["Exercise Agni Varsha", "Exercise Dustlik", "Exercise Pragati", "Exercise Lamitiye"],
+    "answer": "Exercise Agni Varsha"
+  },
+  {
+    "question": "Exercise Agni Varsha was conducted in which location?",
+    "options": ["Pokhran, Rajasthan", "Jodhpur, Rajasthan", "Bikaner, Rajasthan", "Jaisalmer, Rajasthan"],
+    "answer": "Pokhran, Rajasthan"
+  },
+  {
+    "question": "India–Uzbekistan Joint Military Exercise DUSTLIK 2026 began in which city?",
+    "options": ["Namangan", "Tashkent", "Samarkand", "Bukhara"],
+    "answer": "Namangan"
+  },
+  {
+    "question": "DUSTLIK 2026 is a joint military exercise between India and which country?",
+    "options": ["Uzbekistan", "Kazakhstan", "Kyrgyzstan", "Tajikistan"],
+    "answer": "Uzbekistan"
+  },
+  {
+    "question": "The India–Sri Lanka Diving Exercise (DIVEX) 2026 was conducted in which city?",
+    "options": ["Colombo", "Galle", "Trincomalee", "Jaffna"],
+    "answer": "Colombo"
+  },
+  {
+    "question": "Which Indian Navy vessel participated in IN-Sri Lanka DIVEX 2026?",
+    "options": ["INS Nireekshak", "INS Jalashwa", "INS Ranvir", "INS Vikrant"],
+    "answer": "INS Nireekshak"
+  },
+  {
+    "question": "Exercise 'Cyclone-IV' is a joint special forces exercise between India and which country?",
+    "options": ["Egypt", "Jordan", "UAE", "Saudi Arabia"],
+    "answer": "Egypt"
+  },
+  {
+    "question": "Where did the India-Egypt Joint Special Forces Exercise 'Cyclone-IV' begin?",
+    "options": ["Egypt", "India", "UAE", "Jordan"],
+    "answer": "Egypt"
+  },
+  {
+    "question": "Exercise 'CINBAX-II' is a joint military exercise between India and which country?",
+    "options": ["Cambodia", "Vietnam", "Thailand", "Laos"],
+    "answer": "Cambodia"
+  },
+  {
+    "question": "Where did the India-Cambodia Joint Military Exercise 'CINBAX-II' take place?",
+    "options": ["Cambodia", "India", "Thailand", "Vietnam"],
+    "answer": "Cambodia"
+  },
+  {
+    "question": "Military Exercise PRAGATI 2026 was held at which military station?",
+    "options": ["Umroi Military Station", "Mhow Military Station", "Danapur Military Station", "Jodhpur Military Station"],
+    "answer": "Umroi Military Station"
+  },
+  {
+    "question": "Umroi Military Station, the venue of Exercise PRAGATI 2026, is located in which state?",
+    "options": ["Meghalaya", "Assam", "Manipur", "Mizoram"],
+    "answer": "Meghalaya"
+  },
+  {
+    "question": "How many other countries participated along with India in Exercise PRAGATI 2026?",
+    "options": ["12", "10", "14", "16"],
+    "answer": "12"
+  },
+  {
+    "question": "India participated in the 23rd edition of Military Exercise 'Khaan Quest' in which country?",
+    "options": ["Mongolia", "Kazakhstan", "Uzbekistan", "Kyrgyzstan"],
+    "answer": "Mongolia"
+  },
+  {
+    "question": "The 23rd edition of Exercise 'Khaan Quest' was held in which city?",
+    "options": ["Ulaanbaatar", "Erdenet", "Darkhan", "Choibalsan"],
+    "answer": "Ulaanbaatar"
+  },
+  {
+    "question": "Exercise 'LAMITIYE-2026' was conducted between India and which country?",
+    "options": ["Seychelles", "Mauritius", "Maldives", "Madagascar"],
+    "answer": "Seychelles"
+  },
+  {
+    "question": "Which exercise did India conduct with Seychelles in 2026?",
+    "options": ["LAMITIYE-2026", "DOSTI 17", "PRAGATI 2026", "Cyclone-IV"],
+    "answer": "LAMITIYE-2026"
+  }
+]
+}
